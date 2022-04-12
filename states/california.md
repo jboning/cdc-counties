@@ -40,7 +40,7 @@ California | San Diego County | 2022-04-11 | Community Level: low<br/>Community 
 California | San Francisco County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
 California | San Joaquin County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
 California | San Luis Obispo County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-California | San Mateo County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
+California | San Mateo County! | 2022-04-11 | Community Level: low<br/>Community Transmission: high
 California | Santa Barbara County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
 California | Santa Clara County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
 California | Santa Cruz County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
