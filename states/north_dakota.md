@@ -1,0 +1,55 @@
+State | County | Last Updated | Status
+--- | --- | --- | --- 
+North Dakota | Adams County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Barnes County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Benson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Billings County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Bottineau County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Bowman County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Burke County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Burleigh County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Cass County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Cavalier County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
+North Dakota | Dickey County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Divide County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
+North Dakota | Dunn County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Eddy County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Emmons County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Foster County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Golden Valley County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Grand Forks County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Grant County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Griggs County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Hettinger County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Kidder County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | LaMoure County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
+North Dakota | Logan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | McHenry County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
+North Dakota | McIntosh County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | McKenzie County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | McLean County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Mercer County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Morton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Mountrail County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Nelson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Oliver County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Pembina County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Pierce County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Ramsey County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
+North Dakota | Ransom County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Renville County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Richland County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Rolette County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
+North Dakota | Sargent County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Sheridan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Sioux County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Slope County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Stark County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Steele County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Stutsman County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Towner County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Traill County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Walsh County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Ward County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+North Dakota | Wells County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+North Dakota | Williams County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate

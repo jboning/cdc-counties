@@ -1,0 +1,77 @@
+State | County | Last Updated | Status
+--- | --- | --- | --- 
+Arkansas | Arkansas County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
+Arkansas | Ashley County | 2022-04-11 | Community Level: medium<br/>Community Transmission: low
+Arkansas | Baxter County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Benton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Boone County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Bradley County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Calhoun County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Carroll County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Chicot County | 2022-04-11 | Community Level: medium<br/>Community Transmission: low
+Arkansas | Clark County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Clay County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Cleburne County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Cleveland County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Columbia County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Conway County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
+Arkansas | Craighead County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Crawford County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Crittenden County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Cross County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Dallas County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Desha County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
+Arkansas | Drew County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Faulkner County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
+Arkansas | Franklin County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Fulton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Garland County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Grant County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
+Arkansas | Greene County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Hempstead County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Hot Spring County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Howard County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Independence County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Izard County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
+Arkansas | Jackson County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
+Arkansas | Jefferson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Johnson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Lafayette County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Lawrence County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Lee County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Lincoln County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Little River County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Logan County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Lonoke County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
+Arkansas | Madison County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Marion County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Miller County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Mississippi County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Monroe County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
+Arkansas | Montgomery County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Nevada County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Newton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Ouachita County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Perry County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
+Arkansas | Phillips County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Pike County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Poinsett County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Polk County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Pope County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Prairie County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
+Arkansas | Pulaski County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
+Arkansas | Randolph County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Saline County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
+Arkansas | Scott County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Searcy County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Sebastian County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Sevier County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Sharp County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | St. Francis County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Stone County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Union County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Van Buren County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
+Arkansas | Washington County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | White County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Arkansas | Woodruff County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Arkansas | Yell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low

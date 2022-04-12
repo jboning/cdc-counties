@@ -1,0 +1,117 @@
+State | County | Last Updated | Status
+--- | --- | --- | --- 
+Missouri | Adair County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Andrew County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Atchison County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Audrain County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Barry County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
+Missouri | Barton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Bates County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Benton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Bollinger County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Boone County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Buchanan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Butler County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Caldwell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Callaway County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Camden County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Cape Girardeau County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Carroll County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Carter County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Cass County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Cedar County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Chariton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Christian County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Clark County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Clay County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Clinton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Cole County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Cooper County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Crawford County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Dade County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Dallas County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Daviess County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | DeKalb County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Dent County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Douglas County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Dunklin County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Franklin County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Gasconade County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Gentry County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Greene County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Grundy County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Harrison County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Henry County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Hickory County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Holt County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Howard County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Howell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Iron County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Jackson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Missouri | Jasper County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Jefferson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Johnson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Missouri | Knox County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Laclede County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Lafayette County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Lawrence County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Lewis County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Lincoln County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Linn County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Livingston County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Macon County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
+Missouri | Madison County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Maries County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Marion County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | McDonald County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Mercer County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Miller County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Missouri | Mississippi County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Missouri | Moniteau County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Monroe County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Montgomery County | 2022-04-11 | Community Level: medium<br/>Community Transmission: low
+Missouri | Morgan County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
+Missouri | New Madrid County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Newton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Missouri | Nodaway County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Missouri | Oregon County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Osage County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Ozark County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
+Missouri | Pemiscot County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Perry County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Pettis County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Phelps County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Pike County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Platte County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Polk County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Pulaski County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Putnam County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Ralls County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Randolph County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Ray County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Reynolds County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Ripley County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Saline County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Schuyler County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Scotland County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Scott County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Shannon County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
+Missouri | Shelby County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | St. Charles County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | St. Clair County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | St. Francois County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | St. Louis City | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | St. Louis County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
+Missouri | Ste. Genevieve County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
+Missouri | Stoddard County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Stone County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Missouri | Sullivan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Taney County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Texas County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Vernon County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Warren County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Washington County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Wayne County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Webster County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Worth County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Missouri | Wright County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
