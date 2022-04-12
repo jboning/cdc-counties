@@ -6,8 +6,11 @@ import requests
 
 DATA_URL = "https://covid.cdc.gov/covid-data-tracker/COVIDData/getAjaxData?id=integrated_county_latest_external_data"
 
+def normalize(state):
+    return state.lower().replace(' ', '_')
+
 def fname(state):
-    return f"states/{state.lower().replace(' ', '_')}.md"
+    return f"states/{normalize(state)}.md"
 
 def output(state, counties):
     counties = sorted(counties, key=lambda x: x["County"])
@@ -23,7 +26,7 @@ def output(state, counties):
                 1: "medium",
                 2: "high",
             }.get(c["CCL_community_burden_level_integer"], "(missing)")
-            f.write(f"{state} | {county} | {date} | Community Level: {community_level}<br/>Community Transmission: {transmission}\n")
+            f.write(f"{state} | {county} <a href=\"#{normalize(county)}\">#</a> | {date} | <a name=\"{normalize(county)}\"></a>Community Level: {community_level}<br/>Community Transmission: {transmission}\n")
 
 def process(data):
     data = data['integrated_county_latest_external_data']
