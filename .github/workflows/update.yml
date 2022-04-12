@@ -1,6 +1,9 @@
 on:
   schedule:
     - cron: '0 * * * *'
+  repository_dispatch:
+    types:
+      - trigger-update
 
 jobs:
   update_repo:
