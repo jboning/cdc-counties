@@ -1,57 +1,57 @@
 State | County | Last Updated | Status
 --- | --- | --- | --- 
-West Virginia | Barbour County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-West Virginia | Berkeley County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Boone County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-West Virginia | Braxton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-West Virginia | Brooke County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-West Virginia | Cabell County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-West Virginia | Calhoun County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Clay County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Doddridge County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-West Virginia | Fayette County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Gilmer County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Grant County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-West Virginia | Greenbrier County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
-West Virginia | Hampshire County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Hancock County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Hardy County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-West Virginia | Harrison County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-West Virginia | Jackson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Jefferson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Kanawha County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Lewis County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Lincoln County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-West Virginia | Logan County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Marion County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Marshall County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Mason County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | McDowell County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-West Virginia | Mercer County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Mineral County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Mingo County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Monongalia County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Monroe County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
-West Virginia | Morgan County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Nicholas County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Ohio County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Pendleton County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-West Virginia | Pleasants County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Pocahontas County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-West Virginia | Preston County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Putnam County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-West Virginia | Raleigh County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Randolph County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Ritchie County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-West Virginia | Roane County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Summers County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-West Virginia | Taylor County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Tucker County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Tyler County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Upshur County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Wayne County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Webster County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-West Virginia | Wetzel County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Wirt County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-West Virginia | Wood County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-West Virginia | Wyoming County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+West Virginia | Barbour County <a href="#barbour_county">#</a> | 2022-04-11 | <a name="barbour_county"></a>Community Level: low<br/>Community Transmission: low
+West Virginia | Berkeley County <a href="#berkeley_county">#</a> | 2022-04-11 | <a name="berkeley_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Boone County <a href="#boone_county">#</a> | 2022-04-11 | <a name="boone_county"></a>Community Level: low<br/>Community Transmission: low
+West Virginia | Braxton County <a href="#braxton_county">#</a> | 2022-04-11 | <a name="braxton_county"></a>Community Level: low<br/>Community Transmission: low
+West Virginia | Brooke County <a href="#brooke_county">#</a> | 2022-04-11 | <a name="brooke_county"></a>Community Level: low<br/>Community Transmission: low
+West Virginia | Cabell County <a href="#cabell_county">#</a> | 2022-04-11 | <a name="cabell_county"></a>Community Level: low<br/>Community Transmission: substantial
+West Virginia | Calhoun County <a href="#calhoun_county">#</a> | 2022-04-11 | <a name="calhoun_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Clay County <a href="#clay_county">#</a> | 2022-04-11 | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Doddridge County <a href="#doddridge_county">#</a> | 2022-04-11 | <a name="doddridge_county"></a>Community Level: low<br/>Community Transmission: low
+West Virginia | Fayette County <a href="#fayette_county">#</a> | 2022-04-11 | <a name="fayette_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Gilmer County <a href="#gilmer_county">#</a> | 2022-04-11 | <a name="gilmer_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Grant County <a href="#grant_county">#</a> | 2022-04-11 | <a name="grant_county"></a>Community Level: low<br/>Community Transmission: low
+West Virginia | Greenbrier County <a href="#greenbrier_county">#</a> | 2022-04-11 | <a name="greenbrier_county"></a>Community Level: medium<br/>Community Transmission: moderate
+West Virginia | Hampshire County <a href="#hampshire_county">#</a> | 2022-04-11 | <a name="hampshire_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Hancock County <a href="#hancock_county">#</a> | 2022-04-11 | <a name="hancock_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Hardy County <a href="#hardy_county">#</a> | 2022-04-11 | <a name="hardy_county"></a>Community Level: low<br/>Community Transmission: low
+West Virginia | Harrison County <a href="#harrison_county">#</a> | 2022-04-11 | <a name="harrison_county"></a>Community Level: low<br/>Community Transmission: substantial
+West Virginia | Jackson County <a href="#jackson_county">#</a> | 2022-04-11 | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-11 | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Kanawha County <a href="#kanawha_county">#</a> | 2022-04-11 | <a name="kanawha_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Lewis County <a href="#lewis_county">#</a> | 2022-04-11 | <a name="lewis_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Lincoln County <a href="#lincoln_county">#</a> | 2022-04-11 | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: substantial
+West Virginia | Logan County <a href="#logan_county">#</a> | 2022-04-11 | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Marion County <a href="#marion_county">#</a> | 2022-04-11 | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Marshall County <a href="#marshall_county">#</a> | 2022-04-11 | <a name="marshall_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Mason County <a href="#mason_county">#</a> | 2022-04-11 | <a name="mason_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | McDowell County <a href="#mcdowell_county">#</a> | 2022-04-11 | <a name="mcdowell_county"></a>Community Level: low<br/>Community Transmission: substantial
+West Virginia | Mercer County <a href="#mercer_county">#</a> | 2022-04-11 | <a name="mercer_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Mineral County <a href="#mineral_county">#</a> | 2022-04-11 | <a name="mineral_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Mingo County <a href="#mingo_county">#</a> | 2022-04-11 | <a name="mingo_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Monongalia County <a href="#monongalia_county">#</a> | 2022-04-11 | <a name="monongalia_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Monroe County <a href="#monroe_county">#</a> | 2022-04-11 | <a name="monroe_county"></a>Community Level: medium<br/>Community Transmission: moderate
+West Virginia | Morgan County <a href="#morgan_county">#</a> | 2022-04-11 | <a name="morgan_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Nicholas County <a href="#nicholas_county">#</a> | 2022-04-11 | <a name="nicholas_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Ohio County <a href="#ohio_county">#</a> | 2022-04-11 | <a name="ohio_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Pendleton County <a href="#pendleton_county">#</a> | 2022-04-11 | <a name="pendleton_county"></a>Community Level: low<br/>Community Transmission: high
+West Virginia | Pleasants County <a href="#pleasants_county">#</a> | 2022-04-11 | <a name="pleasants_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Pocahontas County <a href="#pocahontas_county">#</a> | 2022-04-11 | <a name="pocahontas_county"></a>Community Level: low<br/>Community Transmission: high
+West Virginia | Preston County <a href="#preston_county">#</a> | 2022-04-11 | <a name="preston_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Putnam County <a href="#putnam_county">#</a> | 2022-04-11 | <a name="putnam_county"></a>Community Level: low<br/>Community Transmission: substantial
+West Virginia | Raleigh County <a href="#raleigh_county">#</a> | 2022-04-11 | <a name="raleigh_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Randolph County <a href="#randolph_county">#</a> | 2022-04-11 | <a name="randolph_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Ritchie County <a href="#ritchie_county">#</a> | 2022-04-11 | <a name="ritchie_county"></a>Community Level: low<br/>Community Transmission: substantial
+West Virginia | Roane County <a href="#roane_county">#</a> | 2022-04-11 | <a name="roane_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Summers County <a href="#summers_county">#</a> | 2022-04-11 | <a name="summers_county"></a>Community Level: low<br/>Community Transmission: low
+West Virginia | Taylor County <a href="#taylor_county">#</a> | 2022-04-11 | <a name="taylor_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Tucker County <a href="#tucker_county">#</a> | 2022-04-11 | <a name="tucker_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Tyler County <a href="#tyler_county">#</a> | 2022-04-11 | <a name="tyler_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Upshur County <a href="#upshur_county">#</a> | 2022-04-11 | <a name="upshur_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Wayne County <a href="#wayne_county">#</a> | 2022-04-11 | <a name="wayne_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Webster County <a href="#webster_county">#</a> | 2022-04-11 | <a name="webster_county"></a>Community Level: low<br/>Community Transmission: low
+West Virginia | Wetzel County <a href="#wetzel_county">#</a> | 2022-04-11 | <a name="wetzel_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Wirt County <a href="#wirt_county">#</a> | 2022-04-11 | <a name="wirt_county"></a>Community Level: low<br/>Community Transmission: substantial
+West Virginia | Wood County <a href="#wood_county">#</a> | 2022-04-11 | <a name="wood_county"></a>Community Level: low<br/>Community Transmission: moderate
+West Virginia | Wyoming County <a href="#wyoming_county">#</a> | 2022-04-11 | <a name="wyoming_county"></a>Community Level: low<br/>Community Transmission: moderate

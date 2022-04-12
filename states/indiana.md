@@ -1,94 +1,94 @@
 State | County | Last Updated | Status
 --- | --- | --- | --- 
-Indiana | Adams County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Allen County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Bartholomew County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Benton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Blackford County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Boone County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Indiana | Brown County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Carroll County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Indiana | Cass County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Clark County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Clay County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Clinton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Crawford County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Daviess County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | DeKalb County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Dearborn County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Decatur County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Delaware County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Indiana | Dubois County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Elkhart County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Fayette County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Floyd County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Fountain County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Indiana | Franklin County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Fulton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Gibson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Grant County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Greene County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Hamilton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Hancock County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Harrison County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Hendricks County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Henry County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Howard County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Huntington County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Jackson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Jasper County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Jay County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Indiana | Jefferson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Jennings County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Johnson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Knox County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Kosciusko County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | LaGrange County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | LaPorte County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Lake County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Lawrence County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Madison County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Marion County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Marshall County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Martin County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Miami County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Monroe County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Montgomery County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Morgan County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Newton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Noble County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Ohio County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Orange County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Owen County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Parke County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Perry County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Indiana | Pike County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Porter County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Posey County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Pulaski County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Putnam County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Randolph County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Ripley County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Indiana | Rush County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Scott County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Shelby County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Spencer County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | St. Joseph County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Starke County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Steuben County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Sullivan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Switzerland County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Tippecanoe County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Indiana | Tipton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Union County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Indiana | Vanderburgh County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Vermillion County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Vigo County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Wabash County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Warren County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | Warrick County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Washington County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Wayne County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Wells County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Indiana | White County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Indiana | Whitley County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Indiana | Adams County <a href="#adams_county">#</a> | 2022-04-11 | <a name="adams_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Allen County <a href="#allen_county">#</a> | 2022-04-11 | <a name="allen_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Bartholomew County <a href="#bartholomew_county">#</a> | 2022-04-11 | <a name="bartholomew_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Benton County <a href="#benton_county">#</a> | 2022-04-11 | <a name="benton_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Blackford County <a href="#blackford_county">#</a> | 2022-04-11 | <a name="blackford_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Boone County <a href="#boone_county">#</a> | 2022-04-11 | <a name="boone_county"></a>Community Level: low<br/>Community Transmission: substantial
+Indiana | Brown County <a href="#brown_county">#</a> | 2022-04-11 | <a name="brown_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Carroll County <a href="#carroll_county">#</a> | 2022-04-11 | <a name="carroll_county"></a>Community Level: low<br/>Community Transmission: high
+Indiana | Cass County <a href="#cass_county">#</a> | 2022-04-11 | <a name="cass_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Clark County <a href="#clark_county">#</a> | 2022-04-11 | <a name="clark_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Clay County <a href="#clay_county">#</a> | 2022-04-11 | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Clinton County <a href="#clinton_county">#</a> | 2022-04-11 | <a name="clinton_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Crawford County <a href="#crawford_county">#</a> | 2022-04-11 | <a name="crawford_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Daviess County <a href="#daviess_county">#</a> | 2022-04-11 | <a name="daviess_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | DeKalb County <a href="#dekalb_county">#</a> | 2022-04-11 | <a name="dekalb_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Dearborn County <a href="#dearborn_county">#</a> | 2022-04-11 | <a name="dearborn_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Decatur County <a href="#decatur_county">#</a> | 2022-04-11 | <a name="decatur_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Delaware County <a href="#delaware_county">#</a> | 2022-04-11 | <a name="delaware_county"></a>Community Level: low<br/>Community Transmission: substantial
+Indiana | Dubois County <a href="#dubois_county">#</a> | 2022-04-11 | <a name="dubois_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Elkhart County <a href="#elkhart_county">#</a> | 2022-04-11 | <a name="elkhart_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Fayette County <a href="#fayette_county">#</a> | 2022-04-11 | <a name="fayette_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Floyd County <a href="#floyd_county">#</a> | 2022-04-11 | <a name="floyd_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Fountain County <a href="#fountain_county">#</a> | 2022-04-11 | <a name="fountain_county"></a>Community Level: low<br/>Community Transmission: substantial
+Indiana | Franklin County <a href="#franklin_county">#</a> | 2022-04-11 | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Fulton County <a href="#fulton_county">#</a> | 2022-04-11 | <a name="fulton_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Gibson County <a href="#gibson_county">#</a> | 2022-04-11 | <a name="gibson_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Grant County <a href="#grant_county">#</a> | 2022-04-11 | <a name="grant_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Greene County <a href="#greene_county">#</a> | 2022-04-11 | <a name="greene_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Hamilton County <a href="#hamilton_county">#</a> | 2022-04-11 | <a name="hamilton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Hancock County <a href="#hancock_county">#</a> | 2022-04-11 | <a name="hancock_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Harrison County <a href="#harrison_county">#</a> | 2022-04-11 | <a name="harrison_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Hendricks County <a href="#hendricks_county">#</a> | 2022-04-11 | <a name="hendricks_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Henry County <a href="#henry_county">#</a> | 2022-04-11 | <a name="henry_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Howard County <a href="#howard_county">#</a> | 2022-04-11 | <a name="howard_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Huntington County <a href="#huntington_county">#</a> | 2022-04-11 | <a name="huntington_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Jackson County <a href="#jackson_county">#</a> | 2022-04-11 | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Jasper County <a href="#jasper_county">#</a> | 2022-04-11 | <a name="jasper_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Jay County <a href="#jay_county">#</a> | 2022-04-11 | <a name="jay_county"></a>Community Level: low<br/>Community Transmission: substantial
+Indiana | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-11 | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Jennings County <a href="#jennings_county">#</a> | 2022-04-11 | <a name="jennings_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Johnson County <a href="#johnson_county">#</a> | 2022-04-11 | <a name="johnson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Knox County <a href="#knox_county">#</a> | 2022-04-11 | <a name="knox_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Kosciusko County <a href="#kosciusko_county">#</a> | 2022-04-11 | <a name="kosciusko_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | LaGrange County <a href="#lagrange_county">#</a> | 2022-04-11 | <a name="lagrange_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | LaPorte County <a href="#laporte_county">#</a> | 2022-04-11 | <a name="laporte_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Lake County <a href="#lake_county">#</a> | 2022-04-11 | <a name="lake_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Lawrence County <a href="#lawrence_county">#</a> | 2022-04-11 | <a name="lawrence_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Madison County <a href="#madison_county">#</a> | 2022-04-11 | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Marion County <a href="#marion_county">#</a> | 2022-04-11 | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Marshall County <a href="#marshall_county">#</a> | 2022-04-11 | <a name="marshall_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Martin County <a href="#martin_county">#</a> | 2022-04-11 | <a name="martin_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Miami County <a href="#miami_county">#</a> | 2022-04-11 | <a name="miami_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Monroe County <a href="#monroe_county">#</a> | 2022-04-11 | <a name="monroe_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Montgomery County <a href="#montgomery_county">#</a> | 2022-04-11 | <a name="montgomery_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Morgan County <a href="#morgan_county">#</a> | 2022-04-11 | <a name="morgan_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Newton County <a href="#newton_county">#</a> | 2022-04-11 | <a name="newton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Noble County <a href="#noble_county">#</a> | 2022-04-11 | <a name="noble_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Ohio County <a href="#ohio_county">#</a> | 2022-04-11 | <a name="ohio_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Orange County <a href="#orange_county">#</a> | 2022-04-11 | <a name="orange_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Owen County <a href="#owen_county">#</a> | 2022-04-11 | <a name="owen_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Parke County <a href="#parke_county">#</a> | 2022-04-11 | <a name="parke_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Perry County <a href="#perry_county">#</a> | 2022-04-11 | <a name="perry_county"></a>Community Level: low<br/>Community Transmission: high
+Indiana | Pike County <a href="#pike_county">#</a> | 2022-04-11 | <a name="pike_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Porter County <a href="#porter_county">#</a> | 2022-04-11 | <a name="porter_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Posey County <a href="#posey_county">#</a> | 2022-04-11 | <a name="posey_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Pulaski County <a href="#pulaski_county">#</a> | 2022-04-11 | <a name="pulaski_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Putnam County <a href="#putnam_county">#</a> | 2022-04-11 | <a name="putnam_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Randolph County <a href="#randolph_county">#</a> | 2022-04-11 | <a name="randolph_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Ripley County <a href="#ripley_county">#</a> | 2022-04-11 | <a name="ripley_county"></a>Community Level: low<br/>Community Transmission: substantial
+Indiana | Rush County <a href="#rush_county">#</a> | 2022-04-11 | <a name="rush_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Scott County <a href="#scott_county">#</a> | 2022-04-11 | <a name="scott_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Shelby County <a href="#shelby_county">#</a> | 2022-04-11 | <a name="shelby_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Spencer County <a href="#spencer_county">#</a> | 2022-04-11 | <a name="spencer_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | St. Joseph County <a href="#st._joseph_county">#</a> | 2022-04-11 | <a name="st._joseph_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Starke County <a href="#starke_county">#</a> | 2022-04-11 | <a name="starke_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Steuben County <a href="#steuben_county">#</a> | 2022-04-11 | <a name="steuben_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Sullivan County <a href="#sullivan_county">#</a> | 2022-04-11 | <a name="sullivan_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Switzerland County <a href="#switzerland_county">#</a> | 2022-04-11 | <a name="switzerland_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Tippecanoe County <a href="#tippecanoe_county">#</a> | 2022-04-11 | <a name="tippecanoe_county"></a>Community Level: low<br/>Community Transmission: substantial
+Indiana | Tipton County <a href="#tipton_county">#</a> | 2022-04-11 | <a name="tipton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Union County <a href="#union_county">#</a> | 2022-04-11 | <a name="union_county"></a>Community Level: low<br/>Community Transmission: high
+Indiana | Vanderburgh County <a href="#vanderburgh_county">#</a> | 2022-04-11 | <a name="vanderburgh_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Vermillion County <a href="#vermillion_county">#</a> | 2022-04-11 | <a name="vermillion_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Vigo County <a href="#vigo_county">#</a> | 2022-04-11 | <a name="vigo_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Wabash County <a href="#wabash_county">#</a> | 2022-04-11 | <a name="wabash_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Warren County <a href="#warren_county">#</a> | 2022-04-11 | <a name="warren_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | Warrick County <a href="#warrick_county">#</a> | 2022-04-11 | <a name="warrick_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Washington County <a href="#washington_county">#</a> | 2022-04-11 | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Wayne County <a href="#wayne_county">#</a> | 2022-04-11 | <a name="wayne_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Wells County <a href="#wells_county">#</a> | 2022-04-11 | <a name="wells_county"></a>Community Level: low<br/>Community Transmission: low
+Indiana | White County <a href="#white_county">#</a> | 2022-04-11 | <a name="white_county"></a>Community Level: low<br/>Community Transmission: moderate
+Indiana | Whitley County <a href="#whitley_county">#</a> | 2022-04-11 | <a name="whitley_county"></a>Community Level: low<br/>Community Transmission: moderate

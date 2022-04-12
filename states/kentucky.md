@@ -1,122 +1,122 @@
 State | County | Last Updated | Status
 --- | --- | --- | --- 
-Kentucky | Adair County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Allen County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Anderson County | 2022-04-11 | Community Level: medium<br/>Community Transmission: low
-Kentucky | Ballard County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Barren County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Bath County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Bell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Boone County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Bourbon County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Boyd County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Boyle County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Bracken County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Breathitt County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Breckinridge County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Bullitt County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Butler County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Caldwell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Calloway County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Campbell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Carlisle County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Carroll County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Carter County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Casey County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Christian County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Clark County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Clay County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Clinton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Crittenden County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Cumberland County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Kentucky | Daviess County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Edmonson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Elliott County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Estill County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Fayette County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Fleming County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Floyd County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Franklin County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Fulton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Gallatin County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kentucky | Garrard County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Grant County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Graves County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Grayson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Green County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Greenup County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Hancock County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Hardin County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Harlan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Harrison County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Hart County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Henderson County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Kentucky | Henry County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Hickman County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Hopkins County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Jackson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Jefferson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Jessamine County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Johnson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Kenton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Knott County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Knox County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Larue County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Laurel County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Lawrence County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Lee County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Leslie County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Letcher County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Lewis County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Lincoln County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Livingston County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Logan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Lyon County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Madison County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Magoffin County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Marion County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Marshall County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Martin County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Mason County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | McCracken County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | McCreary County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | McLean County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Meade County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Menifee County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Mercer County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Metcalfe County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Monroe County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Montgomery County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Morgan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Muhlenberg County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Nelson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Nicholas County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Ohio County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Oldham County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Owen County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Owsley County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Pendleton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kentucky | Perry County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Pike County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Powell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Pulaski County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Robertson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Rockcastle County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Rowan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Russell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Scott County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Shelby County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Simpson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Spencer County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Taylor County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Todd County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Trigg County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Trimble County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Union County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kentucky | Warren County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Washington County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Wayne County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Webster County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kentucky | Whitley County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Wolfe County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kentucky | Woodford County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Kentucky | Adair County <a href="#adair_county">#</a> | 2022-04-11 | <a name="adair_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Allen County <a href="#allen_county">#</a> | 2022-04-11 | <a name="allen_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Anderson County <a href="#anderson_county">#</a> | 2022-04-11 | <a name="anderson_county"></a>Community Level: medium<br/>Community Transmission: low
+Kentucky | Ballard County <a href="#ballard_county">#</a> | 2022-04-11 | <a name="ballard_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Barren County <a href="#barren_county">#</a> | 2022-04-11 | <a name="barren_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Bath County <a href="#bath_county">#</a> | 2022-04-11 | <a name="bath_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Bell County <a href="#bell_county">#</a> | 2022-04-11 | <a name="bell_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Boone County <a href="#boone_county">#</a> | 2022-04-11 | <a name="boone_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Bourbon County <a href="#bourbon_county">#</a> | 2022-04-11 | <a name="bourbon_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Boyd County <a href="#boyd_county">#</a> | 2022-04-11 | <a name="boyd_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Boyle County <a href="#boyle_county">#</a> | 2022-04-11 | <a name="boyle_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Bracken County <a href="#bracken_county">#</a> | 2022-04-11 | <a name="bracken_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Breathitt County <a href="#breathitt_county">#</a> | 2022-04-11 | <a name="breathitt_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Breckinridge County <a href="#breckinridge_county">#</a> | 2022-04-11 | <a name="breckinridge_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Bullitt County <a href="#bullitt_county">#</a> | 2022-04-11 | <a name="bullitt_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Butler County <a href="#butler_county">#</a> | 2022-04-11 | <a name="butler_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Caldwell County <a href="#caldwell_county">#</a> | 2022-04-11 | <a name="caldwell_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Calloway County <a href="#calloway_county">#</a> | 2022-04-11 | <a name="calloway_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Campbell County <a href="#campbell_county">#</a> | 2022-04-11 | <a name="campbell_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Carlisle County <a href="#carlisle_county">#</a> | 2022-04-11 | <a name="carlisle_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Carroll County <a href="#carroll_county">#</a> | 2022-04-11 | <a name="carroll_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Carter County <a href="#carter_county">#</a> | 2022-04-11 | <a name="carter_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Casey County <a href="#casey_county">#</a> | 2022-04-11 | <a name="casey_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Christian County <a href="#christian_county">#</a> | 2022-04-11 | <a name="christian_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Clark County <a href="#clark_county">#</a> | 2022-04-11 | <a name="clark_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Clay County <a href="#clay_county">#</a> | 2022-04-11 | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Clinton County <a href="#clinton_county">#</a> | 2022-04-11 | <a name="clinton_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Crittenden County <a href="#crittenden_county">#</a> | 2022-04-11 | <a name="crittenden_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Cumberland County <a href="#cumberland_county">#</a> | 2022-04-11 | <a name="cumberland_county"></a>Community Level: low<br/>Community Transmission: substantial
+Kentucky | Daviess County <a href="#daviess_county">#</a> | 2022-04-11 | <a name="daviess_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Edmonson County <a href="#edmonson_county">#</a> | 2022-04-11 | <a name="edmonson_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Elliott County <a href="#elliott_county">#</a> | 2022-04-11 | <a name="elliott_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Estill County <a href="#estill_county">#</a> | 2022-04-11 | <a name="estill_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Fayette County <a href="#fayette_county">#</a> | 2022-04-11 | <a name="fayette_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Fleming County <a href="#fleming_county">#</a> | 2022-04-11 | <a name="fleming_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Floyd County <a href="#floyd_county">#</a> | 2022-04-11 | <a name="floyd_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Franklin County <a href="#franklin_county">#</a> | 2022-04-11 | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Fulton County <a href="#fulton_county">#</a> | 2022-04-11 | <a name="fulton_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Gallatin County <a href="#gallatin_county">#</a> | 2022-04-11 | <a name="gallatin_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kentucky | Garrard County <a href="#garrard_county">#</a> | 2022-04-11 | <a name="garrard_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Grant County <a href="#grant_county">#</a> | 2022-04-11 | <a name="grant_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Graves County <a href="#graves_county">#</a> | 2022-04-11 | <a name="graves_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Grayson County <a href="#grayson_county">#</a> | 2022-04-11 | <a name="grayson_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Green County <a href="#green_county">#</a> | 2022-04-11 | <a name="green_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Greenup County <a href="#greenup_county">#</a> | 2022-04-11 | <a name="greenup_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Hancock County <a href="#hancock_county">#</a> | 2022-04-11 | <a name="hancock_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Hardin County <a href="#hardin_county">#</a> | 2022-04-11 | <a name="hardin_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Harlan County <a href="#harlan_county">#</a> | 2022-04-11 | <a name="harlan_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Harrison County <a href="#harrison_county">#</a> | 2022-04-11 | <a name="harrison_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Hart County <a href="#hart_county">#</a> | 2022-04-11 | <a name="hart_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Henderson County <a href="#henderson_county">#</a> | 2022-04-11 | <a name="henderson_county"></a>Community Level: low<br/>Community Transmission: high
+Kentucky | Henry County <a href="#henry_county">#</a> | 2022-04-11 | <a name="henry_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Hickman County <a href="#hickman_county">#</a> | 2022-04-11 | <a name="hickman_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Hopkins County <a href="#hopkins_county">#</a> | 2022-04-11 | <a name="hopkins_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Jackson County <a href="#jackson_county">#</a> | 2022-04-11 | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-11 | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Jessamine County <a href="#jessamine_county">#</a> | 2022-04-11 | <a name="jessamine_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Johnson County <a href="#johnson_county">#</a> | 2022-04-11 | <a name="johnson_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Kenton County <a href="#kenton_county">#</a> | 2022-04-11 | <a name="kenton_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Knott County <a href="#knott_county">#</a> | 2022-04-11 | <a name="knott_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Knox County <a href="#knox_county">#</a> | 2022-04-11 | <a name="knox_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Larue County <a href="#larue_county">#</a> | 2022-04-11 | <a name="larue_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Laurel County <a href="#laurel_county">#</a> | 2022-04-11 | <a name="laurel_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Lawrence County <a href="#lawrence_county">#</a> | 2022-04-11 | <a name="lawrence_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Lee County <a href="#lee_county">#</a> | 2022-04-11 | <a name="lee_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Leslie County <a href="#leslie_county">#</a> | 2022-04-11 | <a name="leslie_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Letcher County <a href="#letcher_county">#</a> | 2022-04-11 | <a name="letcher_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Lewis County <a href="#lewis_county">#</a> | 2022-04-11 | <a name="lewis_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Lincoln County <a href="#lincoln_county">#</a> | 2022-04-11 | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Livingston County <a href="#livingston_county">#</a> | 2022-04-11 | <a name="livingston_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Logan County <a href="#logan_county">#</a> | 2022-04-11 | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Lyon County <a href="#lyon_county">#</a> | 2022-04-11 | <a name="lyon_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Madison County <a href="#madison_county">#</a> | 2022-04-11 | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Magoffin County <a href="#magoffin_county">#</a> | 2022-04-11 | <a name="magoffin_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Marion County <a href="#marion_county">#</a> | 2022-04-11 | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Marshall County <a href="#marshall_county">#</a> | 2022-04-11 | <a name="marshall_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Martin County <a href="#martin_county">#</a> | 2022-04-11 | <a name="martin_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Mason County <a href="#mason_county">#</a> | 2022-04-11 | <a name="mason_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | McCracken County <a href="#mccracken_county">#</a> | 2022-04-11 | <a name="mccracken_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | McCreary County <a href="#mccreary_county">#</a> | 2022-04-11 | <a name="mccreary_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | McLean County <a href="#mclean_county">#</a> | 2022-04-11 | <a name="mclean_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Meade County <a href="#meade_county">#</a> | 2022-04-11 | <a name="meade_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Menifee County <a href="#menifee_county">#</a> | 2022-04-11 | <a name="menifee_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Mercer County <a href="#mercer_county">#</a> | 2022-04-11 | <a name="mercer_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Metcalfe County <a href="#metcalfe_county">#</a> | 2022-04-11 | <a name="metcalfe_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Monroe County <a href="#monroe_county">#</a> | 2022-04-11 | <a name="monroe_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Montgomery County <a href="#montgomery_county">#</a> | 2022-04-11 | <a name="montgomery_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Morgan County <a href="#morgan_county">#</a> | 2022-04-11 | <a name="morgan_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Muhlenberg County <a href="#muhlenberg_county">#</a> | 2022-04-11 | <a name="muhlenberg_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Nelson County <a href="#nelson_county">#</a> | 2022-04-11 | <a name="nelson_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Nicholas County <a href="#nicholas_county">#</a> | 2022-04-11 | <a name="nicholas_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Ohio County <a href="#ohio_county">#</a> | 2022-04-11 | <a name="ohio_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Oldham County <a href="#oldham_county">#</a> | 2022-04-11 | <a name="oldham_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Owen County <a href="#owen_county">#</a> | 2022-04-11 | <a name="owen_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Owsley County <a href="#owsley_county">#</a> | 2022-04-11 | <a name="owsley_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Pendleton County <a href="#pendleton_county">#</a> | 2022-04-11 | <a name="pendleton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kentucky | Perry County <a href="#perry_county">#</a> | 2022-04-11 | <a name="perry_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Pike County <a href="#pike_county">#</a> | 2022-04-11 | <a name="pike_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Powell County <a href="#powell_county">#</a> | 2022-04-11 | <a name="powell_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Pulaski County <a href="#pulaski_county">#</a> | 2022-04-11 | <a name="pulaski_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Robertson County <a href="#robertson_county">#</a> | 2022-04-11 | <a name="robertson_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Rockcastle County <a href="#rockcastle_county">#</a> | 2022-04-11 | <a name="rockcastle_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Rowan County <a href="#rowan_county">#</a> | 2022-04-11 | <a name="rowan_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Russell County <a href="#russell_county">#</a> | 2022-04-11 | <a name="russell_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Scott County <a href="#scott_county">#</a> | 2022-04-11 | <a name="scott_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Shelby County <a href="#shelby_county">#</a> | 2022-04-11 | <a name="shelby_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Simpson County <a href="#simpson_county">#</a> | 2022-04-11 | <a name="simpson_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Spencer County <a href="#spencer_county">#</a> | 2022-04-11 | <a name="spencer_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Taylor County <a href="#taylor_county">#</a> | 2022-04-11 | <a name="taylor_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Todd County <a href="#todd_county">#</a> | 2022-04-11 | <a name="todd_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Trigg County <a href="#trigg_county">#</a> | 2022-04-11 | <a name="trigg_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Trimble County <a href="#trimble_county">#</a> | 2022-04-11 | <a name="trimble_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Union County <a href="#union_county">#</a> | 2022-04-11 | <a name="union_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kentucky | Warren County <a href="#warren_county">#</a> | 2022-04-11 | <a name="warren_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Washington County <a href="#washington_county">#</a> | 2022-04-11 | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Wayne County <a href="#wayne_county">#</a> | 2022-04-11 | <a name="wayne_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Webster County <a href="#webster_county">#</a> | 2022-04-11 | <a name="webster_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kentucky | Whitley County <a href="#whitley_county">#</a> | 2022-04-11 | <a name="whitley_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Wolfe County <a href="#wolfe_county">#</a> | 2022-04-11 | <a name="wolfe_county"></a>Community Level: low<br/>Community Transmission: low
+Kentucky | Woodford County <a href="#woodford_county">#</a> | 2022-04-11 | <a name="woodford_county"></a>Community Level: low<br/>Community Transmission: low

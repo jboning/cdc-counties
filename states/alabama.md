@@ -1,69 +1,69 @@
 State | County | Last Updated | Status
 --- | --- | --- | --- 
-Alabama | Autauga County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Alabama | Baldwin County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Barbour County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Bibb County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Blount County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Bullock County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Butler County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Calhoun County | 2022-04-11 | Community Level: medium<br/>Community Transmission: low
-Alabama | Chambers County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Cherokee County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Alabama | Chilton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Choctaw County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Clarke County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Alabama | Clay County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Cleburne County | 2022-04-11 | Community Level: medium<br/>Community Transmission: low
-Alabama | Coffee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Colbert County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Conecuh County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Coosa County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Covington County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Crenshaw County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Cullman County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Dale County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Dallas County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | DeKalb County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Elmore County | 2022-04-11 | Community Level: medium<br/>Community Transmission: high
-Alabama | Escambia County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Alabama | Etowah County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Fayette County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Alabama | Franklin County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Geneva County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Greene County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Hale County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Henry County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Houston County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Jackson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Jefferson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Lamar County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Lauderdale County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Lawrence County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Lee County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Limestone County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Lowndes County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Macon County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Madison County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Marengo County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Alabama | Marion County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Marshall County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Mobile County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Monroe County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Montgomery County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Morgan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Perry County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Pickens County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Pike County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Randolph County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Russell County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Shelby County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | St. Clair County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Sumter County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Alabama | Talladega County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Tallapoosa County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Tuscaloosa County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Walker County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Alabama | Washington County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Alabama | Wilcox County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Alabama | Winston County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Alabama | Autauga County <a href="#autauga_county">#</a> | 2022-04-11 | <a name="autauga_county"></a>Community Level: low<br/>Community Transmission: high
+Alabama | Baldwin County <a href="#baldwin_county">#</a> | 2022-04-11 | <a name="baldwin_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Barbour County <a href="#barbour_county">#</a> | 2022-04-11 | <a name="barbour_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Bibb County <a href="#bibb_county">#</a> | 2022-04-11 | <a name="bibb_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Blount County <a href="#blount_county">#</a> | 2022-04-11 | <a name="blount_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Bullock County <a href="#bullock_county">#</a> | 2022-04-11 | <a name="bullock_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Butler County <a href="#butler_county">#</a> | 2022-04-11 | <a name="butler_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Calhoun County <a href="#calhoun_county">#</a> | 2022-04-11 | <a name="calhoun_county"></a>Community Level: medium<br/>Community Transmission: low
+Alabama | Chambers County <a href="#chambers_county">#</a> | 2022-04-11 | <a name="chambers_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Cherokee County <a href="#cherokee_county">#</a> | 2022-04-11 | <a name="cherokee_county"></a>Community Level: low<br/>Community Transmission: substantial
+Alabama | Chilton County <a href="#chilton_county">#</a> | 2022-04-11 | <a name="chilton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Choctaw County <a href="#choctaw_county">#</a> | 2022-04-11 | <a name="choctaw_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Clarke County <a href="#clarke_county">#</a> | 2022-04-11 | <a name="clarke_county"></a>Community Level: low<br/>Community Transmission: high
+Alabama | Clay County <a href="#clay_county">#</a> | 2022-04-11 | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Cleburne County <a href="#cleburne_county">#</a> | 2022-04-11 | <a name="cleburne_county"></a>Community Level: medium<br/>Community Transmission: low
+Alabama | Coffee County <a href="#coffee_county">#</a> | 2022-04-11 | <a name="coffee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Colbert County <a href="#colbert_county">#</a> | 2022-04-11 | <a name="colbert_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Conecuh County <a href="#conecuh_county">#</a> | 2022-04-11 | <a name="conecuh_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Coosa County <a href="#coosa_county">#</a> | 2022-04-11 | <a name="coosa_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Covington County <a href="#covington_county">#</a> | 2022-04-11 | <a name="covington_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Crenshaw County <a href="#crenshaw_county">#</a> | 2022-04-11 | <a name="crenshaw_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Cullman County <a href="#cullman_county">#</a> | 2022-04-11 | <a name="cullman_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Dale County <a href="#dale_county">#</a> | 2022-04-11 | <a name="dale_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Dallas County <a href="#dallas_county">#</a> | 2022-04-11 | <a name="dallas_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | DeKalb County <a href="#dekalb_county">#</a> | 2022-04-11 | <a name="dekalb_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Elmore County <a href="#elmore_county">#</a> | 2022-04-11 | <a name="elmore_county"></a>Community Level: medium<br/>Community Transmission: high
+Alabama | Escambia County <a href="#escambia_county">#</a> | 2022-04-11 | <a name="escambia_county"></a>Community Level: low<br/>Community Transmission: substantial
+Alabama | Etowah County <a href="#etowah_county">#</a> | 2022-04-11 | <a name="etowah_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Fayette County <a href="#fayette_county">#</a> | 2022-04-11 | <a name="fayette_county"></a>Community Level: low<br/>Community Transmission: substantial
+Alabama | Franklin County <a href="#franklin_county">#</a> | 2022-04-11 | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Geneva County <a href="#geneva_county">#</a> | 2022-04-11 | <a name="geneva_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Greene County <a href="#greene_county">#</a> | 2022-04-11 | <a name="greene_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Hale County <a href="#hale_county">#</a> | 2022-04-11 | <a name="hale_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Henry County <a href="#henry_county">#</a> | 2022-04-11 | <a name="henry_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Houston County <a href="#houston_county">#</a> | 2022-04-11 | <a name="houston_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Jackson County <a href="#jackson_county">#</a> | 2022-04-11 | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-11 | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Lamar County <a href="#lamar_county">#</a> | 2022-04-11 | <a name="lamar_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Lauderdale County <a href="#lauderdale_county">#</a> | 2022-04-11 | <a name="lauderdale_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Lawrence County <a href="#lawrence_county">#</a> | 2022-04-11 | <a name="lawrence_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Lee County <a href="#lee_county">#</a> | 2022-04-11 | <a name="lee_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Limestone County <a href="#limestone_county">#</a> | 2022-04-11 | <a name="limestone_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Lowndes County <a href="#lowndes_county">#</a> | 2022-04-11 | <a name="lowndes_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Macon County <a href="#macon_county">#</a> | 2022-04-11 | <a name="macon_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Madison County <a href="#madison_county">#</a> | 2022-04-11 | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Marengo County <a href="#marengo_county">#</a> | 2022-04-11 | <a name="marengo_county"></a>Community Level: low<br/>Community Transmission: high
+Alabama | Marion County <a href="#marion_county">#</a> | 2022-04-11 | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Marshall County <a href="#marshall_county">#</a> | 2022-04-11 | <a name="marshall_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Mobile County <a href="#mobile_county">#</a> | 2022-04-11 | <a name="mobile_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Monroe County <a href="#monroe_county">#</a> | 2022-04-11 | <a name="monroe_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Montgomery County <a href="#montgomery_county">#</a> | 2022-04-11 | <a name="montgomery_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Morgan County <a href="#morgan_county">#</a> | 2022-04-11 | <a name="morgan_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Perry County <a href="#perry_county">#</a> | 2022-04-11 | <a name="perry_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Pickens County <a href="#pickens_county">#</a> | 2022-04-11 | <a name="pickens_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Pike County <a href="#pike_county">#</a> | 2022-04-11 | <a name="pike_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Randolph County <a href="#randolph_county">#</a> | 2022-04-11 | <a name="randolph_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Russell County <a href="#russell_county">#</a> | 2022-04-11 | <a name="russell_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Shelby County <a href="#shelby_county">#</a> | 2022-04-11 | <a name="shelby_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | St. Clair County <a href="#st._clair_county">#</a> | 2022-04-11 | <a name="st._clair_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Sumter County <a href="#sumter_county">#</a> | 2022-04-11 | <a name="sumter_county"></a>Community Level: low<br/>Community Transmission: low
+Alabama | Talladega County <a href="#talladega_county">#</a> | 2022-04-11 | <a name="talladega_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Tallapoosa County <a href="#tallapoosa_county">#</a> | 2022-04-11 | <a name="tallapoosa_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Tuscaloosa County <a href="#tuscaloosa_county">#</a> | 2022-04-11 | <a name="tuscaloosa_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Walker County <a href="#walker_county">#</a> | 2022-04-11 | <a name="walker_county"></a>Community Level: low<br/>Community Transmission: high
+Alabama | Washington County <a href="#washington_county">#</a> | 2022-04-11 | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: moderate
+Alabama | Wilcox County <a href="#wilcox_county">#</a> | 2022-04-11 | <a name="wilcox_county"></a>Community Level: low<br/>Community Transmission: high
+Alabama | Winston County <a href="#winston_county">#</a> | 2022-04-11 | <a name="winston_county"></a>Community Level: low<br/>Community Transmission: low

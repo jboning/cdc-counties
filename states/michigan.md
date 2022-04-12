@@ -1,85 +1,85 @@
 State | County | Last Updated | Status
 --- | --- | --- | --- 
-Michigan | Alcona County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Alger County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Allegan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Alpena County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Michigan | Antrim County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Arenac County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Baraga County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Barry County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Bay County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Benzie County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Berrien County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Branch County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Calhoun County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Cass County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Charlevoix County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Cheboygan County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Chippewa County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Clare County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Clinton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Crawford County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Delta County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Dickinson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Eaton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Emmet County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Genesee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Gladwin County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Gogebic County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Grand Traverse County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Michigan | Gratiot County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Hillsdale County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Houghton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Huron County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Ingham County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Ionia County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Iosco County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Iron County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Isabella County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Jackson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Kalamazoo County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Kalkaska County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Kent County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Keweenaw County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Lake County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Lapeer County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Leelanau County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Lenawee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Livingston County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Luce County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Michigan | Mackinac County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Michigan | Macomb County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Michigan | Manistee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Marquette County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Mason County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Mecosta County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Menominee County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Midland County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Michigan | Missaukee County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Monroe County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Montcalm County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Montmorency County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Muskegon County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Newaygo County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Oakland County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Michigan | Oceana County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Ogemaw County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Ontonagon County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Osceola County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Oscoda County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Otsego County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Ottawa County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Presque Isle County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Roscommon County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Saginaw County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Sanilac County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Schoolcraft County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Michigan | Shiawassee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | St. Clair County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Michigan | St. Joseph County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Tuscola County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Van Buren County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Michigan | Washtenaw County | 2022-04-11 | Community Level: medium<br/>Community Transmission: high
-Michigan | Wayne County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Michigan | Wexford County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Michigan | Alcona County <a href="#alcona_county">#</a> | 2022-04-11 | <a name="alcona_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Alger County <a href="#alger_county">#</a> | 2022-04-11 | <a name="alger_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Allegan County <a href="#allegan_county">#</a> | 2022-04-11 | <a name="allegan_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Alpena County <a href="#alpena_county">#</a> | 2022-04-11 | <a name="alpena_county"></a>Community Level: low<br/>Community Transmission: high
+Michigan | Antrim County <a href="#antrim_county">#</a> | 2022-04-11 | <a name="antrim_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Arenac County <a href="#arenac_county">#</a> | 2022-04-11 | <a name="arenac_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Baraga County <a href="#baraga_county">#</a> | 2022-04-11 | <a name="baraga_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Barry County <a href="#barry_county">#</a> | 2022-04-11 | <a name="barry_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Bay County <a href="#bay_county">#</a> | 2022-04-11 | <a name="bay_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Benzie County <a href="#benzie_county">#</a> | 2022-04-11 | <a name="benzie_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Berrien County <a href="#berrien_county">#</a> | 2022-04-11 | <a name="berrien_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Branch County <a href="#branch_county">#</a> | 2022-04-11 | <a name="branch_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Calhoun County <a href="#calhoun_county">#</a> | 2022-04-11 | <a name="calhoun_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Cass County <a href="#cass_county">#</a> | 2022-04-11 | <a name="cass_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Charlevoix County <a href="#charlevoix_county">#</a> | 2022-04-11 | <a name="charlevoix_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Cheboygan County <a href="#cheboygan_county">#</a> | 2022-04-11 | <a name="cheboygan_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Chippewa County <a href="#chippewa_county">#</a> | 2022-04-11 | <a name="chippewa_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Clare County <a href="#clare_county">#</a> | 2022-04-11 | <a name="clare_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Clinton County <a href="#clinton_county">#</a> | 2022-04-11 | <a name="clinton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Crawford County <a href="#crawford_county">#</a> | 2022-04-11 | <a name="crawford_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Delta County <a href="#delta_county">#</a> | 2022-04-11 | <a name="delta_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Dickinson County <a href="#dickinson_county">#</a> | 2022-04-11 | <a name="dickinson_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Eaton County <a href="#eaton_county">#</a> | 2022-04-11 | <a name="eaton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Emmet County <a href="#emmet_county">#</a> | 2022-04-11 | <a name="emmet_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Genesee County <a href="#genesee_county">#</a> | 2022-04-11 | <a name="genesee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Gladwin County <a href="#gladwin_county">#</a> | 2022-04-11 | <a name="gladwin_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Gogebic County <a href="#gogebic_county">#</a> | 2022-04-11 | <a name="gogebic_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Grand Traverse County <a href="#grand_traverse_county">#</a> | 2022-04-11 | <a name="grand_traverse_county"></a>Community Level: low<br/>Community Transmission: substantial
+Michigan | Gratiot County <a href="#gratiot_county">#</a> | 2022-04-11 | <a name="gratiot_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Hillsdale County <a href="#hillsdale_county">#</a> | 2022-04-11 | <a name="hillsdale_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Houghton County <a href="#houghton_county">#</a> | 2022-04-11 | <a name="houghton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Huron County <a href="#huron_county">#</a> | 2022-04-11 | <a name="huron_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Ingham County <a href="#ingham_county">#</a> | 2022-04-11 | <a name="ingham_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Ionia County <a href="#ionia_county">#</a> | 2022-04-11 | <a name="ionia_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Iosco County <a href="#iosco_county">#</a> | 2022-04-11 | <a name="iosco_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Iron County <a href="#iron_county">#</a> | 2022-04-11 | <a name="iron_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Isabella County <a href="#isabella_county">#</a> | 2022-04-11 | <a name="isabella_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Jackson County <a href="#jackson_county">#</a> | 2022-04-11 | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Kalamazoo County <a href="#kalamazoo_county">#</a> | 2022-04-11 | <a name="kalamazoo_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Kalkaska County <a href="#kalkaska_county">#</a> | 2022-04-11 | <a name="kalkaska_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Kent County <a href="#kent_county">#</a> | 2022-04-11 | <a name="kent_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Keweenaw County <a href="#keweenaw_county">#</a> | 2022-04-11 | <a name="keweenaw_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Lake County <a href="#lake_county">#</a> | 2022-04-11 | <a name="lake_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Lapeer County <a href="#lapeer_county">#</a> | 2022-04-11 | <a name="lapeer_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Leelanau County <a href="#leelanau_county">#</a> | 2022-04-11 | <a name="leelanau_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Lenawee County <a href="#lenawee_county">#</a> | 2022-04-11 | <a name="lenawee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Livingston County <a href="#livingston_county">#</a> | 2022-04-11 | <a name="livingston_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Luce County <a href="#luce_county">#</a> | 2022-04-11 | <a name="luce_county"></a>Community Level: low<br/>Community Transmission: high
+Michigan | Mackinac County <a href="#mackinac_county">#</a> | 2022-04-11 | <a name="mackinac_county"></a>Community Level: low<br/>Community Transmission: substantial
+Michigan | Macomb County <a href="#macomb_county">#</a> | 2022-04-11 | <a name="macomb_county"></a>Community Level: low<br/>Community Transmission: substantial
+Michigan | Manistee County <a href="#manistee_county">#</a> | 2022-04-11 | <a name="manistee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Marquette County <a href="#marquette_county">#</a> | 2022-04-11 | <a name="marquette_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Mason County <a href="#mason_county">#</a> | 2022-04-11 | <a name="mason_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Mecosta County <a href="#mecosta_county">#</a> | 2022-04-11 | <a name="mecosta_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Menominee County <a href="#menominee_county">#</a> | 2022-04-11 | <a name="menominee_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Midland County <a href="#midland_county">#</a> | 2022-04-11 | <a name="midland_county"></a>Community Level: low<br/>Community Transmission: substantial
+Michigan | Missaukee County <a href="#missaukee_county">#</a> | 2022-04-11 | <a name="missaukee_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Monroe County <a href="#monroe_county">#</a> | 2022-04-11 | <a name="monroe_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Montcalm County <a href="#montcalm_county">#</a> | 2022-04-11 | <a name="montcalm_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Montmorency County <a href="#montmorency_county">#</a> | 2022-04-11 | <a name="montmorency_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Muskegon County <a href="#muskegon_county">#</a> | 2022-04-11 | <a name="muskegon_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Newaygo County <a href="#newaygo_county">#</a> | 2022-04-11 | <a name="newaygo_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Oakland County <a href="#oakland_county">#</a> | 2022-04-11 | <a name="oakland_county"></a>Community Level: low<br/>Community Transmission: substantial
+Michigan | Oceana County <a href="#oceana_county">#</a> | 2022-04-11 | <a name="oceana_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Ogemaw County <a href="#ogemaw_county">#</a> | 2022-04-11 | <a name="ogemaw_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Ontonagon County <a href="#ontonagon_county">#</a> | 2022-04-11 | <a name="ontonagon_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Osceola County <a href="#osceola_county">#</a> | 2022-04-11 | <a name="osceola_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Oscoda County <a href="#oscoda_county">#</a> | 2022-04-11 | <a name="oscoda_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Otsego County <a href="#otsego_county">#</a> | 2022-04-11 | <a name="otsego_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Ottawa County <a href="#ottawa_county">#</a> | 2022-04-11 | <a name="ottawa_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Presque Isle County <a href="#presque_isle_county">#</a> | 2022-04-11 | <a name="presque_isle_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Roscommon County <a href="#roscommon_county">#</a> | 2022-04-11 | <a name="roscommon_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Saginaw County <a href="#saginaw_county">#</a> | 2022-04-11 | <a name="saginaw_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Sanilac County <a href="#sanilac_county">#</a> | 2022-04-11 | <a name="sanilac_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Schoolcraft County <a href="#schoolcraft_county">#</a> | 2022-04-11 | <a name="schoolcraft_county"></a>Community Level: low<br/>Community Transmission: low
+Michigan | Shiawassee County <a href="#shiawassee_county">#</a> | 2022-04-11 | <a name="shiawassee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | St. Clair County <a href="#st._clair_county">#</a> | 2022-04-11 | <a name="st._clair_county"></a>Community Level: low<br/>Community Transmission: substantial
+Michigan | St. Joseph County <a href="#st._joseph_county">#</a> | 2022-04-11 | <a name="st._joseph_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Tuscola County <a href="#tuscola_county">#</a> | 2022-04-11 | <a name="tuscola_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Van Buren County <a href="#van_buren_county">#</a> | 2022-04-11 | <a name="van_buren_county"></a>Community Level: low<br/>Community Transmission: substantial
+Michigan | Washtenaw County <a href="#washtenaw_county">#</a> | 2022-04-11 | <a name="washtenaw_county"></a>Community Level: medium<br/>Community Transmission: high
+Michigan | Wayne County <a href="#wayne_county">#</a> | 2022-04-11 | <a name="wayne_county"></a>Community Level: low<br/>Community Transmission: moderate
+Michigan | Wexford County <a href="#wexford_county">#</a> | 2022-04-11 | <a name="wexford_county"></a>Community Level: low<br/>Community Transmission: moderate

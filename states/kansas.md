@@ -1,107 +1,107 @@
 State | County | Last Updated | Status
 --- | --- | --- | --- 
-Kansas | Allen County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Anderson County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Kansas | Atchison County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Barber County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Kansas | Barton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Bourbon County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Brown County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Butler County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Chase County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Chautauqua County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Kansas | Cherokee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Cheyenne County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Clark County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Kansas | Clay County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Cloud County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Coffey County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Kansas | Comanche County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Cowley County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Crawford County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Decatur County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Dickinson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Doniphan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Douglas County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Edwards County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Elk County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Ellis County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Ellsworth County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Finney County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Ford County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Franklin County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Kansas | Geary County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Gove County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Graham County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Grant County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Gray County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Greeley County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Greenwood County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Hamilton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Harper County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Harvey County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Haskell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Hodgeman County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Jackson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Jefferson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Jewell County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Johnson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Kearny County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Kansas | Kingman County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Kiowa County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Labette County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Lane County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Leavenworth County | 2022-04-11 | Community Level: high<br/>Community Transmission: low
-Kansas | Lincoln County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Linn County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Logan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Lyon County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Marion County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Marshall County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | McPherson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Meade County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Miami County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Mitchell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Montgomery County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Morris County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Kansas | Morton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Nemaha County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Neosho County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Ness County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Norton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Osage County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Osborne County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Ottawa County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Pawnee County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Phillips County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Pottawatomie County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Pratt County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Rawlins County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Reno County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Republic County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Rice County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Kansas | Riley County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Kansas | Rooks County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Rush County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Russell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Saline County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Scott County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Sedgwick County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Seward County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Shawnee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Sheridan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Sherman County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Smith County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Stafford County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Stanton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Stevens County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Sumner County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Kansas | Thomas County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Trego County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Wabaunsee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Wallace County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Kansas | Washington County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Kansas | Wichita County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Wilson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Woodson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Kansas | Wyandotte County | 2022-04-11 | Community Level: high<br/>Community Transmission: moderate
+Kansas | Allen County <a href="#allen_county">#</a> | 2022-04-11 | <a name="allen_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Anderson County <a href="#anderson_county">#</a> | 2022-04-11 | <a name="anderson_county"></a>Community Level: low<br/>Community Transmission: substantial
+Kansas | Atchison County <a href="#atchison_county">#</a> | 2022-04-11 | <a name="atchison_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Barber County <a href="#barber_county">#</a> | 2022-04-11 | <a name="barber_county"></a>Community Level: low<br/>Community Transmission: substantial
+Kansas | Barton County <a href="#barton_county">#</a> | 2022-04-11 | <a name="barton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Bourbon County <a href="#bourbon_county">#</a> | 2022-04-11 | <a name="bourbon_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Brown County <a href="#brown_county">#</a> | 2022-04-11 | <a name="brown_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Butler County <a href="#butler_county">#</a> | 2022-04-11 | <a name="butler_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Chase County <a href="#chase_county">#</a> | 2022-04-11 | <a name="chase_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Chautauqua County <a href="#chautauqua_county">#</a> | 2022-04-11 | <a name="chautauqua_county"></a>Community Level: low<br/>Community Transmission: substantial
+Kansas | Cherokee County <a href="#cherokee_county">#</a> | 2022-04-11 | <a name="cherokee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Cheyenne County <a href="#cheyenne_county">#</a> | 2022-04-11 | <a name="cheyenne_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Clark County <a href="#clark_county">#</a> | 2022-04-11 | <a name="clark_county"></a>Community Level: low<br/>Community Transmission: high
+Kansas | Clay County <a href="#clay_county">#</a> | 2022-04-11 | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Cloud County <a href="#cloud_county">#</a> | 2022-04-11 | <a name="cloud_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Coffey County <a href="#coffey_county">#</a> | 2022-04-11 | <a name="coffey_county"></a>Community Level: low<br/>Community Transmission: substantial
+Kansas | Comanche County <a href="#comanche_county">#</a> | 2022-04-11 | <a name="comanche_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Cowley County <a href="#cowley_county">#</a> | 2022-04-11 | <a name="cowley_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Crawford County <a href="#crawford_county">#</a> | 2022-04-11 | <a name="crawford_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Decatur County <a href="#decatur_county">#</a> | 2022-04-11 | <a name="decatur_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Dickinson County <a href="#dickinson_county">#</a> | 2022-04-11 | <a name="dickinson_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Doniphan County <a href="#doniphan_county">#</a> | 2022-04-11 | <a name="doniphan_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Douglas County <a href="#douglas_county">#</a> | 2022-04-11 | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Edwards County <a href="#edwards_county">#</a> | 2022-04-11 | <a name="edwards_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Elk County <a href="#elk_county">#</a> | 2022-04-11 | <a name="elk_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Ellis County <a href="#ellis_county">#</a> | 2022-04-11 | <a name="ellis_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Ellsworth County <a href="#ellsworth_county">#</a> | 2022-04-11 | <a name="ellsworth_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Finney County <a href="#finney_county">#</a> | 2022-04-11 | <a name="finney_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Ford County <a href="#ford_county">#</a> | 2022-04-11 | <a name="ford_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Franklin County <a href="#franklin_county">#</a> | 2022-04-11 | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: substantial
+Kansas | Geary County <a href="#geary_county">#</a> | 2022-04-11 | <a name="geary_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Gove County <a href="#gove_county">#</a> | 2022-04-11 | <a name="gove_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Graham County <a href="#graham_county">#</a> | 2022-04-11 | <a name="graham_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Grant County <a href="#grant_county">#</a> | 2022-04-11 | <a name="grant_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Gray County <a href="#gray_county">#</a> | 2022-04-11 | <a name="gray_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Greeley County <a href="#greeley_county">#</a> | 2022-04-11 | <a name="greeley_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Greenwood County <a href="#greenwood_county">#</a> | 2022-04-11 | <a name="greenwood_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Hamilton County <a href="#hamilton_county">#</a> | 2022-04-11 | <a name="hamilton_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Harper County <a href="#harper_county">#</a> | 2022-04-11 | <a name="harper_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Harvey County <a href="#harvey_county">#</a> | 2022-04-11 | <a name="harvey_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Haskell County <a href="#haskell_county">#</a> | 2022-04-11 | <a name="haskell_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Hodgeman County <a href="#hodgeman_county">#</a> | 2022-04-11 | <a name="hodgeman_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Jackson County <a href="#jackson_county">#</a> | 2022-04-11 | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-11 | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Jewell County <a href="#jewell_county">#</a> | 2022-04-11 | <a name="jewell_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Johnson County <a href="#johnson_county">#</a> | 2022-04-11 | <a name="johnson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Kearny County <a href="#kearny_county">#</a> | 2022-04-11 | <a name="kearny_county"></a>Community Level: low<br/>Community Transmission: substantial
+Kansas | Kingman County <a href="#kingman_county">#</a> | 2022-04-11 | <a name="kingman_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Kiowa County <a href="#kiowa_county">#</a> | 2022-04-11 | <a name="kiowa_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Labette County <a href="#labette_county">#</a> | 2022-04-11 | <a name="labette_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Lane County <a href="#lane_county">#</a> | 2022-04-11 | <a name="lane_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Leavenworth County <a href="#leavenworth_county">#</a> | 2022-04-11 | <a name="leavenworth_county"></a>Community Level: high<br/>Community Transmission: low
+Kansas | Lincoln County <a href="#lincoln_county">#</a> | 2022-04-11 | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Linn County <a href="#linn_county">#</a> | 2022-04-11 | <a name="linn_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Logan County <a href="#logan_county">#</a> | 2022-04-11 | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Lyon County <a href="#lyon_county">#</a> | 2022-04-11 | <a name="lyon_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Marion County <a href="#marion_county">#</a> | 2022-04-11 | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Marshall County <a href="#marshall_county">#</a> | 2022-04-11 | <a name="marshall_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | McPherson County <a href="#mcpherson_county">#</a> | 2022-04-11 | <a name="mcpherson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Meade County <a href="#meade_county">#</a> | 2022-04-11 | <a name="meade_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Miami County <a href="#miami_county">#</a> | 2022-04-11 | <a name="miami_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Mitchell County <a href="#mitchell_county">#</a> | 2022-04-11 | <a name="mitchell_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Montgomery County <a href="#montgomery_county">#</a> | 2022-04-11 | <a name="montgomery_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Morris County <a href="#morris_county">#</a> | 2022-04-11 | <a name="morris_county"></a>Community Level: low<br/>Community Transmission: substantial
+Kansas | Morton County <a href="#morton_county">#</a> | 2022-04-11 | <a name="morton_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Nemaha County <a href="#nemaha_county">#</a> | 2022-04-11 | <a name="nemaha_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Neosho County <a href="#neosho_county">#</a> | 2022-04-11 | <a name="neosho_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Ness County <a href="#ness_county">#</a> | 2022-04-11 | <a name="ness_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Norton County <a href="#norton_county">#</a> | 2022-04-11 | <a name="norton_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Osage County <a href="#osage_county">#</a> | 2022-04-11 | <a name="osage_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Osborne County <a href="#osborne_county">#</a> | 2022-04-11 | <a name="osborne_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Ottawa County <a href="#ottawa_county">#</a> | 2022-04-11 | <a name="ottawa_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Pawnee County <a href="#pawnee_county">#</a> | 2022-04-11 | <a name="pawnee_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Phillips County <a href="#phillips_county">#</a> | 2022-04-11 | <a name="phillips_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Pottawatomie County <a href="#pottawatomie_county">#</a> | 2022-04-11 | <a name="pottawatomie_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Pratt County <a href="#pratt_county">#</a> | 2022-04-11 | <a name="pratt_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Rawlins County <a href="#rawlins_county">#</a> | 2022-04-11 | <a name="rawlins_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Reno County <a href="#reno_county">#</a> | 2022-04-11 | <a name="reno_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Republic County <a href="#republic_county">#</a> | 2022-04-11 | <a name="republic_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Rice County <a href="#rice_county">#</a> | 2022-04-11 | <a name="rice_county"></a>Community Level: low<br/>Community Transmission: substantial
+Kansas | Riley County <a href="#riley_county">#</a> | 2022-04-11 | <a name="riley_county"></a>Community Level: low<br/>Community Transmission: substantial
+Kansas | Rooks County <a href="#rooks_county">#</a> | 2022-04-11 | <a name="rooks_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Rush County <a href="#rush_county">#</a> | 2022-04-11 | <a name="rush_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Russell County <a href="#russell_county">#</a> | 2022-04-11 | <a name="russell_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Saline County <a href="#saline_county">#</a> | 2022-04-11 | <a name="saline_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Scott County <a href="#scott_county">#</a> | 2022-04-11 | <a name="scott_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Sedgwick County <a href="#sedgwick_county">#</a> | 2022-04-11 | <a name="sedgwick_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Seward County <a href="#seward_county">#</a> | 2022-04-11 | <a name="seward_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Shawnee County <a href="#shawnee_county">#</a> | 2022-04-11 | <a name="shawnee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Sheridan County <a href="#sheridan_county">#</a> | 2022-04-11 | <a name="sheridan_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Sherman County <a href="#sherman_county">#</a> | 2022-04-11 | <a name="sherman_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Smith County <a href="#smith_county">#</a> | 2022-04-11 | <a name="smith_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Stafford County <a href="#stafford_county">#</a> | 2022-04-11 | <a name="stafford_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Stanton County <a href="#stanton_county">#</a> | 2022-04-11 | <a name="stanton_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Stevens County <a href="#stevens_county">#</a> | 2022-04-11 | <a name="stevens_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Sumner County <a href="#sumner_county">#</a> | 2022-04-11 | <a name="sumner_county"></a>Community Level: low<br/>Community Transmission: high
+Kansas | Thomas County <a href="#thomas_county">#</a> | 2022-04-11 | <a name="thomas_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Trego County <a href="#trego_county">#</a> | 2022-04-11 | <a name="trego_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Wabaunsee County <a href="#wabaunsee_county">#</a> | 2022-04-11 | <a name="wabaunsee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Wallace County <a href="#wallace_county">#</a> | 2022-04-11 | <a name="wallace_county"></a>Community Level: low<br/>Community Transmission: high
+Kansas | Washington County <a href="#washington_county">#</a> | 2022-04-11 | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: moderate
+Kansas | Wichita County <a href="#wichita_county">#</a> | 2022-04-11 | <a name="wichita_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Wilson County <a href="#wilson_county">#</a> | 2022-04-11 | <a name="wilson_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Woodson County <a href="#woodson_county">#</a> | 2022-04-11 | <a name="woodson_county"></a>Community Level: low<br/>Community Transmission: low
+Kansas | Wyandotte County <a href="#wyandotte_county">#</a> | 2022-04-11 | <a name="wyandotte_county"></a>Community Level: high<br/>Community Transmission: moderate

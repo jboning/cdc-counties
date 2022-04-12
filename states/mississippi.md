@@ -1,84 +1,84 @@
 State | County | Last Updated | Status
 --- | --- | --- | --- 
-Mississippi | Adams County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
-Mississippi | Alcorn County | 2022-04-11 | Community Level: medium<br/>Community Transmission: high
-Mississippi | Amite County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Attala County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Mississippi | Benton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Bolivar County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Calhoun County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Carroll County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Chickasaw County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Choctaw County | 2022-04-11 | Community Level: medium<br/>Community Transmission: high
-Mississippi | Claiborne County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Clarke County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Clay County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Coahoma County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Copiah County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Mississippi | Covington County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | DeSoto County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Forrest County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Franklin County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
-Mississippi | George County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Mississippi | Greene County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Grenada County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Hancock County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Harrison County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Hinds County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Holmes County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Humphreys County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Mississippi | Issaquena County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Mississippi | Itawamba County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Mississippi | Jackson County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Mississippi | Jasper County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Mississippi | Jefferson County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
-Mississippi | Jefferson Davis County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Jones County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Kemper County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Mississippi | Lafayette County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Mississippi | Lamar County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Lauderdale County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Lawrence County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Leake County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Lee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Leflore County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Lincoln County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Lowndes County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Madison County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Marion County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Marshall County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Monroe County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Montgomery County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Neshoba County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Newton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Noxubee County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Oktibbeha County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Panola County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Mississippi | Pearl River County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Perry County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Pike County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Pontotoc County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Prentiss County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Quitman County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Rankin County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Scott County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Sharkey County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Simpson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Smith County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Mississippi | Stone County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Sunflower County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Mississippi | Tallahatchie County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Tate County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Tippah County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Mississippi | Tishomingo County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Mississippi | Tunica County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Mississippi | Union County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Walthall County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Warren County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Washington County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Mississippi | Wayne County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Webster County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Mississippi | Wilkinson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Winston County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Yalobusha County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Mississippi | Yazoo County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
+Mississippi | Adams County <a href="#adams_county">#</a> | 2022-04-11 | <a name="adams_county"></a>Community Level: medium<br/>Community Transmission: moderate
+Mississippi | Alcorn County <a href="#alcorn_county">#</a> | 2022-04-11 | <a name="alcorn_county"></a>Community Level: medium<br/>Community Transmission: high
+Mississippi | Amite County <a href="#amite_county">#</a> | 2022-04-11 | <a name="amite_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Attala County <a href="#attala_county">#</a> | 2022-04-11 | <a name="attala_county"></a>Community Level: low<br/>Community Transmission: high
+Mississippi | Benton County <a href="#benton_county">#</a> | 2022-04-11 | <a name="benton_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Bolivar County <a href="#bolivar_county">#</a> | 2022-04-11 | <a name="bolivar_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Calhoun County <a href="#calhoun_county">#</a> | 2022-04-11 | <a name="calhoun_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Carroll County <a href="#carroll_county">#</a> | 2022-04-11 | <a name="carroll_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Chickasaw County <a href="#chickasaw_county">#</a> | 2022-04-11 | <a name="chickasaw_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Choctaw County <a href="#choctaw_county">#</a> | 2022-04-11 | <a name="choctaw_county"></a>Community Level: medium<br/>Community Transmission: high
+Mississippi | Claiborne County <a href="#claiborne_county">#</a> | 2022-04-11 | <a name="claiborne_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Clarke County <a href="#clarke_county">#</a> | 2022-04-11 | <a name="clarke_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Clay County <a href="#clay_county">#</a> | 2022-04-11 | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Coahoma County <a href="#coahoma_county">#</a> | 2022-04-11 | <a name="coahoma_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Copiah County <a href="#copiah_county">#</a> | 2022-04-11 | <a name="copiah_county"></a>Community Level: low<br/>Community Transmission: substantial
+Mississippi | Covington County <a href="#covington_county">#</a> | 2022-04-11 | <a name="covington_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | DeSoto County <a href="#desoto_county">#</a> | 2022-04-11 | <a name="desoto_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Forrest County <a href="#forrest_county">#</a> | 2022-04-11 | <a name="forrest_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Franklin County <a href="#franklin_county">#</a> | 2022-04-11 | <a name="franklin_county"></a>Community Level: medium<br/>Community Transmission: moderate
+Mississippi | George County <a href="#george_county">#</a> | 2022-04-11 | <a name="george_county"></a>Community Level: low<br/>Community Transmission: substantial
+Mississippi | Greene County <a href="#greene_county">#</a> | 2022-04-11 | <a name="greene_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Grenada County <a href="#grenada_county">#</a> | 2022-04-11 | <a name="grenada_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Hancock County <a href="#hancock_county">#</a> | 2022-04-11 | <a name="hancock_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Harrison County <a href="#harrison_county">#</a> | 2022-04-11 | <a name="harrison_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Hinds County <a href="#hinds_county">#</a> | 2022-04-11 | <a name="hinds_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Holmes County <a href="#holmes_county">#</a> | 2022-04-11 | <a name="holmes_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Humphreys County <a href="#humphreys_county">#</a> | 2022-04-11 | <a name="humphreys_county"></a>Community Level: low<br/>Community Transmission: high
+Mississippi | Issaquena County <a href="#issaquena_county">#</a> | 2022-04-11 | <a name="issaquena_county"></a>Community Level: low<br/>Community Transmission: substantial
+Mississippi | Itawamba County <a href="#itawamba_county">#</a> | 2022-04-11 | <a name="itawamba_county"></a>Community Level: low<br/>Community Transmission: high
+Mississippi | Jackson County <a href="#jackson_county">#</a> | 2022-04-11 | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: high
+Mississippi | Jasper County <a href="#jasper_county">#</a> | 2022-04-11 | <a name="jasper_county"></a>Community Level: low<br/>Community Transmission: substantial
+Mississippi | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-11 | <a name="jefferson_county"></a>Community Level: medium<br/>Community Transmission: moderate
+Mississippi | Jefferson Davis County <a href="#jefferson_davis_county">#</a> | 2022-04-11 | <a name="jefferson_davis_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Jones County <a href="#jones_county">#</a> | 2022-04-11 | <a name="jones_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Kemper County <a href="#kemper_county">#</a> | 2022-04-11 | <a name="kemper_county"></a>Community Level: low<br/>Community Transmission: substantial
+Mississippi | Lafayette County <a href="#lafayette_county">#</a> | 2022-04-11 | <a name="lafayette_county"></a>Community Level: low<br/>Community Transmission: substantial
+Mississippi | Lamar County <a href="#lamar_county">#</a> | 2022-04-11 | <a name="lamar_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Lauderdale County <a href="#lauderdale_county">#</a> | 2022-04-11 | <a name="lauderdale_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Lawrence County <a href="#lawrence_county">#</a> | 2022-04-11 | <a name="lawrence_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Leake County <a href="#leake_county">#</a> | 2022-04-11 | <a name="leake_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Lee County <a href="#lee_county">#</a> | 2022-04-11 | <a name="lee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Leflore County <a href="#leflore_county">#</a> | 2022-04-11 | <a name="leflore_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Lincoln County <a href="#lincoln_county">#</a> | 2022-04-11 | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Lowndes County <a href="#lowndes_county">#</a> | 2022-04-11 | <a name="lowndes_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Madison County <a href="#madison_county">#</a> | 2022-04-11 | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Marion County <a href="#marion_county">#</a> | 2022-04-11 | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Marshall County <a href="#marshall_county">#</a> | 2022-04-11 | <a name="marshall_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Monroe County <a href="#monroe_county">#</a> | 2022-04-11 | <a name="monroe_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Montgomery County <a href="#montgomery_county">#</a> | 2022-04-11 | <a name="montgomery_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Neshoba County <a href="#neshoba_county">#</a> | 2022-04-11 | <a name="neshoba_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Newton County <a href="#newton_county">#</a> | 2022-04-11 | <a name="newton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Noxubee County <a href="#noxubee_county">#</a> | 2022-04-11 | <a name="noxubee_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Oktibbeha County <a href="#oktibbeha_county">#</a> | 2022-04-11 | <a name="oktibbeha_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Panola County <a href="#panola_county">#</a> | 2022-04-11 | <a name="panola_county"></a>Community Level: low<br/>Community Transmission: substantial
+Mississippi | Pearl River County <a href="#pearl_river_county">#</a> | 2022-04-11 | <a name="pearl_river_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Perry County <a href="#perry_county">#</a> | 2022-04-11 | <a name="perry_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Pike County <a href="#pike_county">#</a> | 2022-04-11 | <a name="pike_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Pontotoc County <a href="#pontotoc_county">#</a> | 2022-04-11 | <a name="pontotoc_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Prentiss County <a href="#prentiss_county">#</a> | 2022-04-11 | <a name="prentiss_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Quitman County <a href="#quitman_county">#</a> | 2022-04-11 | <a name="quitman_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Rankin County <a href="#rankin_county">#</a> | 2022-04-11 | <a name="rankin_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Scott County <a href="#scott_county">#</a> | 2022-04-11 | <a name="scott_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Sharkey County <a href="#sharkey_county">#</a> | 2022-04-11 | <a name="sharkey_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Simpson County <a href="#simpson_county">#</a> | 2022-04-11 | <a name="simpson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Smith County <a href="#smith_county">#</a> | 2022-04-11 | <a name="smith_county"></a>Community Level: low<br/>Community Transmission: substantial
+Mississippi | Stone County <a href="#stone_county">#</a> | 2022-04-11 | <a name="stone_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Sunflower County <a href="#sunflower_county">#</a> | 2022-04-11 | <a name="sunflower_county"></a>Community Level: low<br/>Community Transmission: low
+Mississippi | Tallahatchie County <a href="#tallahatchie_county">#</a> | 2022-04-11 | <a name="tallahatchie_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Tate County <a href="#tate_county">#</a> | 2022-04-11 | <a name="tate_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Tippah County <a href="#tippah_county">#</a> | 2022-04-11 | <a name="tippah_county"></a>Community Level: low<br/>Community Transmission: substantial
+Mississippi | Tishomingo County <a href="#tishomingo_county">#</a> | 2022-04-11 | <a name="tishomingo_county"></a>Community Level: low<br/>Community Transmission: substantial
+Mississippi | Tunica County <a href="#tunica_county">#</a> | 2022-04-11 | <a name="tunica_county"></a>Community Level: low<br/>Community Transmission: high
+Mississippi | Union County <a href="#union_county">#</a> | 2022-04-11 | <a name="union_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Walthall County <a href="#walthall_county">#</a> | 2022-04-11 | <a name="walthall_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Warren County <a href="#warren_county">#</a> | 2022-04-11 | <a name="warren_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Washington County <a href="#washington_county">#</a> | 2022-04-11 | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: high
+Mississippi | Wayne County <a href="#wayne_county">#</a> | 2022-04-11 | <a name="wayne_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Webster County <a href="#webster_county">#</a> | 2022-04-11 | <a name="webster_county"></a>Community Level: low<br/>Community Transmission: high
+Mississippi | Wilkinson County <a href="#wilkinson_county">#</a> | 2022-04-11 | <a name="wilkinson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Winston County <a href="#winston_county">#</a> | 2022-04-11 | <a name="winston_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Yalobusha County <a href="#yalobusha_county">#</a> | 2022-04-11 | <a name="yalobusha_county"></a>Community Level: low<br/>Community Transmission: moderate
+Mississippi | Yazoo County <a href="#yazoo_county">#</a> | 2022-04-11 | <a name="yazoo_county"></a>Community Level: low<br/>Community Transmission: substantial

@@ -1,69 +1,69 @@
 State | County | Last Updated | Status
 --- | --- | --- | --- 
-Pennsylvania | Adams County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Allegheny County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Armstrong County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Beaver County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Bedford County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Berks County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Blair County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Bradford County | 2022-04-11 | Community Level: medium<br/>Community Transmission: high
-Pennsylvania | Bucks County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Butler County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Cambria County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Cameron County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Pennsylvania | Carbon County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Centre County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Chester County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Clarion County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Clearfield County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Clinton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Columbia County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Crawford County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Cumberland County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Dauphin County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Delaware County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Elk County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Erie County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Fayette County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Forest County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Franklin County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Fulton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Pennsylvania | Greene County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Huntingdon County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Indiana County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Jefferson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Juniata County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Pennsylvania | Lackawanna County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Lancaster County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Lawrence County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Lebanon County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Lehigh County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Luzerne County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Lycoming County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | McKean County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Mercer County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Mifflin County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Monroe County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Montgomery County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Montour County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Northampton County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Northumberland County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Perry County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Philadelphia County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Pike County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Pennsylvania | Potter County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Schuylkill County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Snyder County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Somerset County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Sullivan County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
-Pennsylvania | Susquehanna County | 2022-04-11 | Community Level: medium<br/>Community Transmission: high
-Pennsylvania | Tioga County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Union County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Venango County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Warren County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Washington County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Wayne County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Pennsylvania | Westmoreland County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | Wyoming County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Pennsylvania | York County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Adams County <a href="#adams_county">#</a> | 2022-04-11 | <a name="adams_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Allegheny County <a href="#allegheny_county">#</a> | 2022-04-11 | <a name="allegheny_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Armstrong County <a href="#armstrong_county">#</a> | 2022-04-11 | <a name="armstrong_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Beaver County <a href="#beaver_county">#</a> | 2022-04-11 | <a name="beaver_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Bedford County <a href="#bedford_county">#</a> | 2022-04-11 | <a name="bedford_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Berks County <a href="#berks_county">#</a> | 2022-04-11 | <a name="berks_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Blair County <a href="#blair_county">#</a> | 2022-04-11 | <a name="blair_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Bradford County <a href="#bradford_county">#</a> | 2022-04-11 | <a name="bradford_county"></a>Community Level: medium<br/>Community Transmission: high
+Pennsylvania | Bucks County <a href="#bucks_county">#</a> | 2022-04-11 | <a name="bucks_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Butler County <a href="#butler_county">#</a> | 2022-04-11 | <a name="butler_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Cambria County <a href="#cambria_county">#</a> | 2022-04-11 | <a name="cambria_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Cameron County <a href="#cameron_county">#</a> | 2022-04-11 | <a name="cameron_county"></a>Community Level: low<br/>Community Transmission: low
+Pennsylvania | Carbon County <a href="#carbon_county">#</a> | 2022-04-11 | <a name="carbon_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Centre County <a href="#centre_county">#</a> | 2022-04-11 | <a name="centre_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Chester County <a href="#chester_county">#</a> | 2022-04-11 | <a name="chester_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Clarion County <a href="#clarion_county">#</a> | 2022-04-11 | <a name="clarion_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Clearfield County <a href="#clearfield_county">#</a> | 2022-04-11 | <a name="clearfield_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Clinton County <a href="#clinton_county">#</a> | 2022-04-11 | <a name="clinton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Columbia County <a href="#columbia_county">#</a> | 2022-04-11 | <a name="columbia_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Crawford County <a href="#crawford_county">#</a> | 2022-04-11 | <a name="crawford_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Cumberland County <a href="#cumberland_county">#</a> | 2022-04-11 | <a name="cumberland_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Dauphin County <a href="#dauphin_county">#</a> | 2022-04-11 | <a name="dauphin_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Delaware County <a href="#delaware_county">#</a> | 2022-04-11 | <a name="delaware_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Elk County <a href="#elk_county">#</a> | 2022-04-11 | <a name="elk_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Erie County <a href="#erie_county">#</a> | 2022-04-11 | <a name="erie_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Fayette County <a href="#fayette_county">#</a> | 2022-04-11 | <a name="fayette_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Forest County <a href="#forest_county">#</a> | 2022-04-11 | <a name="forest_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Franklin County <a href="#franklin_county">#</a> | 2022-04-11 | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Fulton County <a href="#fulton_county">#</a> | 2022-04-11 | <a name="fulton_county"></a>Community Level: low<br/>Community Transmission: low
+Pennsylvania | Greene County <a href="#greene_county">#</a> | 2022-04-11 | <a name="greene_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Huntingdon County <a href="#huntingdon_county">#</a> | 2022-04-11 | <a name="huntingdon_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Indiana County <a href="#indiana_county">#</a> | 2022-04-11 | <a name="indiana_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-11 | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Juniata County <a href="#juniata_county">#</a> | 2022-04-11 | <a name="juniata_county"></a>Community Level: low<br/>Community Transmission: low
+Pennsylvania | Lackawanna County <a href="#lackawanna_county">#</a> | 2022-04-11 | <a name="lackawanna_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Lancaster County <a href="#lancaster_county">#</a> | 2022-04-11 | <a name="lancaster_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Lawrence County <a href="#lawrence_county">#</a> | 2022-04-11 | <a name="lawrence_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Lebanon County <a href="#lebanon_county">#</a> | 2022-04-11 | <a name="lebanon_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Lehigh County <a href="#lehigh_county">#</a> | 2022-04-11 | <a name="lehigh_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Luzerne County <a href="#luzerne_county">#</a> | 2022-04-11 | <a name="luzerne_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Lycoming County <a href="#lycoming_county">#</a> | 2022-04-11 | <a name="lycoming_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | McKean County <a href="#mckean_county">#</a> | 2022-04-11 | <a name="mckean_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Mercer County <a href="#mercer_county">#</a> | 2022-04-11 | <a name="mercer_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Mifflin County <a href="#mifflin_county">#</a> | 2022-04-11 | <a name="mifflin_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Monroe County <a href="#monroe_county">#</a> | 2022-04-11 | <a name="monroe_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Montgomery County <a href="#montgomery_county">#</a> | 2022-04-11 | <a name="montgomery_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Montour County <a href="#montour_county">#</a> | 2022-04-11 | <a name="montour_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Northampton County <a href="#northampton_county">#</a> | 2022-04-11 | <a name="northampton_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Northumberland County <a href="#northumberland_county">#</a> | 2022-04-11 | <a name="northumberland_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Perry County <a href="#perry_county">#</a> | 2022-04-11 | <a name="perry_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Philadelphia County <a href="#philadelphia_county">#</a> | 2022-04-11 | <a name="philadelphia_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Pike County <a href="#pike_county">#</a> | 2022-04-11 | <a name="pike_county"></a>Community Level: low<br/>Community Transmission: high
+Pennsylvania | Potter County <a href="#potter_county">#</a> | 2022-04-11 | <a name="potter_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Schuylkill County <a href="#schuylkill_county">#</a> | 2022-04-11 | <a name="schuylkill_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Snyder County <a href="#snyder_county">#</a> | 2022-04-11 | <a name="snyder_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Somerset County <a href="#somerset_county">#</a> | 2022-04-11 | <a name="somerset_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Sullivan County <a href="#sullivan_county">#</a> | 2022-04-11 | <a name="sullivan_county"></a>Community Level: medium<br/>Community Transmission: moderate
+Pennsylvania | Susquehanna County <a href="#susquehanna_county">#</a> | 2022-04-11 | <a name="susquehanna_county"></a>Community Level: medium<br/>Community Transmission: high
+Pennsylvania | Tioga County <a href="#tioga_county">#</a> | 2022-04-11 | <a name="tioga_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Union County <a href="#union_county">#</a> | 2022-04-11 | <a name="union_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Venango County <a href="#venango_county">#</a> | 2022-04-11 | <a name="venango_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Warren County <a href="#warren_county">#</a> | 2022-04-11 | <a name="warren_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Washington County <a href="#washington_county">#</a> | 2022-04-11 | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Wayne County <a href="#wayne_county">#</a> | 2022-04-11 | <a name="wayne_county"></a>Community Level: low<br/>Community Transmission: substantial
+Pennsylvania | Westmoreland County <a href="#westmoreland_county">#</a> | 2022-04-11 | <a name="westmoreland_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | Wyoming County <a href="#wyoming_county">#</a> | 2022-04-11 | <a name="wyoming_county"></a>Community Level: low<br/>Community Transmission: moderate
+Pennsylvania | York County <a href="#york_county">#</a> | 2022-04-11 | <a name="york_county"></a>Community Level: low<br/>Community Transmission: moderate

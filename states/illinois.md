@@ -1,104 +1,104 @@
 State | County | Last Updated | Status
 --- | --- | --- | --- 
-Illinois | Adams County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Alexander County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Bond County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Boone County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Brown County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Bureau County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Calhoun County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Carroll County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Cass County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Champaign County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Illinois | Christian County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Illinois | Clark County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Clay County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Clinton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Coles County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Cook County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Illinois | Crawford County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Cumberland County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | De Witt County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | DeKalb County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Douglas County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | DuPage County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Illinois | Edgar County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Edwards County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Effingham County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Fayette County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Ford County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Franklin County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Fulton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Gallatin County | 2022-04-11 | Community Level: high<br/>Community Transmission: moderate
-Illinois | Greene County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Grundy County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Hamilton County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Hancock County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Hardin County | 2022-04-11 | Community Level: high<br/>Community Transmission: low
-Illinois | Henderson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Henry County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Iroquois County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Jackson County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Jasper County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Jefferson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Jersey County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Jo Daviess County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Johnson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Kane County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Kankakee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Kendall County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Knox County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | LaSalle County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Lake County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Illinois | Lawrence County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Lee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Livingston County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Logan County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Illinois | Macon County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Macoupin County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Madison County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Marion County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Marshall County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Mason County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Massac County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | McDonough County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | McHenry County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | McLean County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Illinois | Menard County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Mercer County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Monroe County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Montgomery County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Morgan County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Illinois | Moultrie County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Ogle County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Peoria County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Perry County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Piatt County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Pike County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Pope County | 2022-04-11 | Community Level: high<br/>Community Transmission: moderate
-Illinois | Pulaski County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Putnam County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Randolph County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Richland County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Rock Island County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Saline County | 2022-04-11 | Community Level: high<br/>Community Transmission: moderate
-Illinois | Sangamon County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Schuyler County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Scott County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Shelby County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | St. Clair County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Stark County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Stephenson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Tazewell County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Union County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Vermilion County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Wabash County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Warren County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Washington County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Wayne County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | White County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Illinois | Whiteside County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Will County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Williamson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Illinois | Winnebago County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Illinois | Woodford County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
+Illinois | Adams County <a href="#adams_county">#</a> | 2022-04-11 | <a name="adams_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Alexander County <a href="#alexander_county">#</a> | 2022-04-11 | <a name="alexander_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Bond County <a href="#bond_county">#</a> | 2022-04-11 | <a name="bond_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Boone County <a href="#boone_county">#</a> | 2022-04-11 | <a name="boone_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Brown County <a href="#brown_county">#</a> | 2022-04-11 | <a name="brown_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Bureau County <a href="#bureau_county">#</a> | 2022-04-11 | <a name="bureau_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Calhoun County <a href="#calhoun_county">#</a> | 2022-04-11 | <a name="calhoun_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Carroll County <a href="#carroll_county">#</a> | 2022-04-11 | <a name="carroll_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Cass County <a href="#cass_county">#</a> | 2022-04-11 | <a name="cass_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Champaign County <a href="#champaign_county">#</a> | 2022-04-11 | <a name="champaign_county"></a>Community Level: low<br/>Community Transmission: high
+Illinois | Christian County <a href="#christian_county">#</a> | 2022-04-11 | <a name="christian_county"></a>Community Level: low<br/>Community Transmission: high
+Illinois | Clark County <a href="#clark_county">#</a> | 2022-04-11 | <a name="clark_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Clay County <a href="#clay_county">#</a> | 2022-04-11 | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Clinton County <a href="#clinton_county">#</a> | 2022-04-11 | <a name="clinton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Coles County <a href="#coles_county">#</a> | 2022-04-11 | <a name="coles_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Cook County <a href="#cook_county">#</a> | 2022-04-11 | <a name="cook_county"></a>Community Level: low<br/>Community Transmission: high
+Illinois | Crawford County <a href="#crawford_county">#</a> | 2022-04-11 | <a name="crawford_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Cumberland County <a href="#cumberland_county">#</a> | 2022-04-11 | <a name="cumberland_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | De Witt County <a href="#de_witt_county">#</a> | 2022-04-11 | <a name="de_witt_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | DeKalb County <a href="#dekalb_county">#</a> | 2022-04-11 | <a name="dekalb_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Douglas County <a href="#douglas_county">#</a> | 2022-04-11 | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | DuPage County <a href="#dupage_county">#</a> | 2022-04-11 | <a name="dupage_county"></a>Community Level: low<br/>Community Transmission: high
+Illinois | Edgar County <a href="#edgar_county">#</a> | 2022-04-11 | <a name="edgar_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Edwards County <a href="#edwards_county">#</a> | 2022-04-11 | <a name="edwards_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Effingham County <a href="#effingham_county">#</a> | 2022-04-11 | <a name="effingham_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Fayette County <a href="#fayette_county">#</a> | 2022-04-11 | <a name="fayette_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Ford County <a href="#ford_county">#</a> | 2022-04-11 | <a name="ford_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Franklin County <a href="#franklin_county">#</a> | 2022-04-11 | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Fulton County <a href="#fulton_county">#</a> | 2022-04-11 | <a name="fulton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Gallatin County <a href="#gallatin_county">#</a> | 2022-04-11 | <a name="gallatin_county"></a>Community Level: high<br/>Community Transmission: moderate
+Illinois | Greene County <a href="#greene_county">#</a> | 2022-04-11 | <a name="greene_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Grundy County <a href="#grundy_county">#</a> | 2022-04-11 | <a name="grundy_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Hamilton County <a href="#hamilton_county">#</a> | 2022-04-11 | <a name="hamilton_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Hancock County <a href="#hancock_county">#</a> | 2022-04-11 | <a name="hancock_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Hardin County <a href="#hardin_county">#</a> | 2022-04-11 | <a name="hardin_county"></a>Community Level: high<br/>Community Transmission: low
+Illinois | Henderson County <a href="#henderson_county">#</a> | 2022-04-11 | <a name="henderson_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Henry County <a href="#henry_county">#</a> | 2022-04-11 | <a name="henry_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Iroquois County <a href="#iroquois_county">#</a> | 2022-04-11 | <a name="iroquois_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Jackson County <a href="#jackson_county">#</a> | 2022-04-11 | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Jasper County <a href="#jasper_county">#</a> | 2022-04-11 | <a name="jasper_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-11 | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Jersey County <a href="#jersey_county">#</a> | 2022-04-11 | <a name="jersey_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Jo Daviess County <a href="#jo_daviess_county">#</a> | 2022-04-11 | <a name="jo_daviess_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Johnson County <a href="#johnson_county">#</a> | 2022-04-11 | <a name="johnson_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Kane County <a href="#kane_county">#</a> | 2022-04-11 | <a name="kane_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Kankakee County <a href="#kankakee_county">#</a> | 2022-04-11 | <a name="kankakee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Kendall County <a href="#kendall_county">#</a> | 2022-04-11 | <a name="kendall_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Knox County <a href="#knox_county">#</a> | 2022-04-11 | <a name="knox_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | LaSalle County <a href="#lasalle_county">#</a> | 2022-04-11 | <a name="lasalle_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Lake County <a href="#lake_county">#</a> | 2022-04-11 | <a name="lake_county"></a>Community Level: low<br/>Community Transmission: high
+Illinois | Lawrence County <a href="#lawrence_county">#</a> | 2022-04-11 | <a name="lawrence_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Lee County <a href="#lee_county">#</a> | 2022-04-11 | <a name="lee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Livingston County <a href="#livingston_county">#</a> | 2022-04-11 | <a name="livingston_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Logan County <a href="#logan_county">#</a> | 2022-04-11 | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: high
+Illinois | Macon County <a href="#macon_county">#</a> | 2022-04-11 | <a name="macon_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Macoupin County <a href="#macoupin_county">#</a> | 2022-04-11 | <a name="macoupin_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Madison County <a href="#madison_county">#</a> | 2022-04-11 | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Marion County <a href="#marion_county">#</a> | 2022-04-11 | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Marshall County <a href="#marshall_county">#</a> | 2022-04-11 | <a name="marshall_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Mason County <a href="#mason_county">#</a> | 2022-04-11 | <a name="mason_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Massac County <a href="#massac_county">#</a> | 2022-04-11 | <a name="massac_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | McDonough County <a href="#mcdonough_county">#</a> | 2022-04-11 | <a name="mcdonough_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | McHenry County <a href="#mchenry_county">#</a> | 2022-04-11 | <a name="mchenry_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | McLean County <a href="#mclean_county">#</a> | 2022-04-11 | <a name="mclean_county"></a>Community Level: low<br/>Community Transmission: high
+Illinois | Menard County <a href="#menard_county">#</a> | 2022-04-11 | <a name="menard_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Mercer County <a href="#mercer_county">#</a> | 2022-04-11 | <a name="mercer_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Monroe County <a href="#monroe_county">#</a> | 2022-04-11 | <a name="monroe_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Montgomery County <a href="#montgomery_county">#</a> | 2022-04-11 | <a name="montgomery_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Morgan County <a href="#morgan_county">#</a> | 2022-04-11 | <a name="morgan_county"></a>Community Level: low<br/>Community Transmission: high
+Illinois | Moultrie County <a href="#moultrie_county">#</a> | 2022-04-11 | <a name="moultrie_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Ogle County <a href="#ogle_county">#</a> | 2022-04-11 | <a name="ogle_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Peoria County <a href="#peoria_county">#</a> | 2022-04-11 | <a name="peoria_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Perry County <a href="#perry_county">#</a> | 2022-04-11 | <a name="perry_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Piatt County <a href="#piatt_county">#</a> | 2022-04-11 | <a name="piatt_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Pike County <a href="#pike_county">#</a> | 2022-04-11 | <a name="pike_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Pope County <a href="#pope_county">#</a> | 2022-04-11 | <a name="pope_county"></a>Community Level: high<br/>Community Transmission: moderate
+Illinois | Pulaski County <a href="#pulaski_county">#</a> | 2022-04-11 | <a name="pulaski_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Putnam County <a href="#putnam_county">#</a> | 2022-04-11 | <a name="putnam_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Randolph County <a href="#randolph_county">#</a> | 2022-04-11 | <a name="randolph_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Richland County <a href="#richland_county">#</a> | 2022-04-11 | <a name="richland_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Rock Island County <a href="#rock_island_county">#</a> | 2022-04-11 | <a name="rock_island_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Saline County <a href="#saline_county">#</a> | 2022-04-11 | <a name="saline_county"></a>Community Level: high<br/>Community Transmission: moderate
+Illinois | Sangamon County <a href="#sangamon_county">#</a> | 2022-04-11 | <a name="sangamon_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Schuyler County <a href="#schuyler_county">#</a> | 2022-04-11 | <a name="schuyler_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Scott County <a href="#scott_county">#</a> | 2022-04-11 | <a name="scott_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Shelby County <a href="#shelby_county">#</a> | 2022-04-11 | <a name="shelby_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | St. Clair County <a href="#st._clair_county">#</a> | 2022-04-11 | <a name="st._clair_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Stark County <a href="#stark_county">#</a> | 2022-04-11 | <a name="stark_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Stephenson County <a href="#stephenson_county">#</a> | 2022-04-11 | <a name="stephenson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Tazewell County <a href="#tazewell_county">#</a> | 2022-04-11 | <a name="tazewell_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Union County <a href="#union_county">#</a> | 2022-04-11 | <a name="union_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Vermilion County <a href="#vermilion_county">#</a> | 2022-04-11 | <a name="vermilion_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Wabash County <a href="#wabash_county">#</a> | 2022-04-11 | <a name="wabash_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Warren County <a href="#warren_county">#</a> | 2022-04-11 | <a name="warren_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Washington County <a href="#washington_county">#</a> | 2022-04-11 | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Wayne County <a href="#wayne_county">#</a> | 2022-04-11 | <a name="wayne_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | White County <a href="#white_county">#</a> | 2022-04-11 | <a name="white_county"></a>Community Level: low<br/>Community Transmission: low
+Illinois | Whiteside County <a href="#whiteside_county">#</a> | 2022-04-11 | <a name="whiteside_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Will County <a href="#will_county">#</a> | 2022-04-11 | <a name="will_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Williamson County <a href="#williamson_county">#</a> | 2022-04-11 | <a name="williamson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Illinois | Winnebago County <a href="#winnebago_county">#</a> | 2022-04-11 | <a name="winnebago_county"></a>Community Level: low<br/>Community Transmission: substantial
+Illinois | Woodford County <a href="#woodford_county">#</a> | 2022-04-11 | <a name="woodford_county"></a>Community Level: low<br/>Community Transmission: moderate

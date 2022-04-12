@@ -1,95 +1,95 @@
 State | County | Last Updated | Status
 --- | --- | --- | --- 
-Nebraska | Adams County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Nebraska | Antelope County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Arthur County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Banner County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Blaine County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Boone County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Box Butte County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Boyd County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Brown County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Nebraska | Buffalo County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Nebraska | Burt County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Nebraska | Butler County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Cass County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Cedar County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Chase County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Cherry County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Cheyenne County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Clay County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Colfax County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Nebraska | Cuming County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Custer County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Dakota County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Dawes County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Dawson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Deuel County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Nebraska | Dixon County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Nebraska | Dodge County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Nebraska | Douglas County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Dundy County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Nebraska | Fillmore County | 2022-04-11 | Community Level: medium<br/>Community Transmission: moderate
-Nebraska | Franklin County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Frontier County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Furnas County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Gage County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Garden County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Nebraska | Garfield County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Gosper County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Nebraska | Grant County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Greeley County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Hall County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Hamilton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Harlan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Hayes County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Hitchcock County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Holt County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Nebraska | Hooker County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Howard County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Jefferson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Johnson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Kearney County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Keith County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Keya Paha County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Kimball County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Knox County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Lancaster County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Lincoln County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Logan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Loup County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Madison County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | McPherson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Merrick County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Morrill County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Nance County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Nemaha County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Nuckolls County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Otoe County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Pawnee County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Perkins County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Nebraska | Phelps County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Pierce County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Platte County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Polk County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Nebraska | Red Willow County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Richardson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Rock County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Saline County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Sarpy County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Saunders County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Scotts Bluff County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Seward County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Sheridan County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Sherman County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Sioux County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | Stanton County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Thayer County | 2022-04-11 | Community Level: medium<br/>Community Transmission: low
-Nebraska | Thomas County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Nebraska | Thurston County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Valley County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Washington County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Wayne County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Webster County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Nebraska | Wheeler County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Nebraska | York County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
+Nebraska | Adams County <a href="#adams_county">#</a> | 2022-04-11 | <a name="adams_county"></a>Community Level: low<br/>Community Transmission: high
+Nebraska | Antelope County <a href="#antelope_county">#</a> | 2022-04-11 | <a name="antelope_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Arthur County <a href="#arthur_county">#</a> | 2022-04-11 | <a name="arthur_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Banner County <a href="#banner_county">#</a> | 2022-04-11 | <a name="banner_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Blaine County <a href="#blaine_county">#</a> | 2022-04-11 | <a name="blaine_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Boone County <a href="#boone_county">#</a> | 2022-04-11 | <a name="boone_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Box Butte County <a href="#box_butte_county">#</a> | 2022-04-11 | <a name="box_butte_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Boyd County <a href="#boyd_county">#</a> | 2022-04-11 | <a name="boyd_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Brown County <a href="#brown_county">#</a> | 2022-04-11 | <a name="brown_county"></a>Community Level: low<br/>Community Transmission: high
+Nebraska | Buffalo County <a href="#buffalo_county">#</a> | 2022-04-11 | <a name="buffalo_county"></a>Community Level: low<br/>Community Transmission: substantial
+Nebraska | Burt County <a href="#burt_county">#</a> | 2022-04-11 | <a name="burt_county"></a>Community Level: low<br/>Community Transmission: high
+Nebraska | Butler County <a href="#butler_county">#</a> | 2022-04-11 | <a name="butler_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Cass County <a href="#cass_county">#</a> | 2022-04-11 | <a name="cass_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Cedar County <a href="#cedar_county">#</a> | 2022-04-11 | <a name="cedar_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Chase County <a href="#chase_county">#</a> | 2022-04-11 | <a name="chase_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Cherry County <a href="#cherry_county">#</a> | 2022-04-11 | <a name="cherry_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Cheyenne County <a href="#cheyenne_county">#</a> | 2022-04-11 | <a name="cheyenne_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Clay County <a href="#clay_county">#</a> | 2022-04-11 | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Colfax County <a href="#colfax_county">#</a> | 2022-04-11 | <a name="colfax_county"></a>Community Level: low<br/>Community Transmission: high
+Nebraska | Cuming County <a href="#cuming_county">#</a> | 2022-04-11 | <a name="cuming_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Custer County <a href="#custer_county">#</a> | 2022-04-11 | <a name="custer_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Dakota County <a href="#dakota_county">#</a> | 2022-04-11 | <a name="dakota_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Dawes County <a href="#dawes_county">#</a> | 2022-04-11 | <a name="dawes_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Dawson County <a href="#dawson_county">#</a> | 2022-04-11 | <a name="dawson_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Deuel County <a href="#deuel_county">#</a> | 2022-04-11 | <a name="deuel_county"></a>Community Level: low<br/>Community Transmission: high
+Nebraska | Dixon County <a href="#dixon_county">#</a> | 2022-04-11 | <a name="dixon_county"></a>Community Level: low<br/>Community Transmission: substantial
+Nebraska | Dodge County <a href="#dodge_county">#</a> | 2022-04-11 | <a name="dodge_county"></a>Community Level: low<br/>Community Transmission: high
+Nebraska | Douglas County <a href="#douglas_county">#</a> | 2022-04-11 | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Dundy County <a href="#dundy_county">#</a> | 2022-04-11 | <a name="dundy_county"></a>Community Level: low<br/>Community Transmission: substantial
+Nebraska | Fillmore County <a href="#fillmore_county">#</a> | 2022-04-11 | <a name="fillmore_county"></a>Community Level: medium<br/>Community Transmission: moderate
+Nebraska | Franklin County <a href="#franklin_county">#</a> | 2022-04-11 | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Frontier County <a href="#frontier_county">#</a> | 2022-04-11 | <a name="frontier_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Furnas County <a href="#furnas_county">#</a> | 2022-04-11 | <a name="furnas_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Gage County <a href="#gage_county">#</a> | 2022-04-11 | <a name="gage_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Garden County <a href="#garden_county">#</a> | 2022-04-11 | <a name="garden_county"></a>Community Level: low<br/>Community Transmission: high
+Nebraska | Garfield County <a href="#garfield_county">#</a> | 2022-04-11 | <a name="garfield_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Gosper County <a href="#gosper_county">#</a> | 2022-04-11 | <a name="gosper_county"></a>Community Level: low<br/>Community Transmission: substantial
+Nebraska | Grant County <a href="#grant_county">#</a> | 2022-04-11 | <a name="grant_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Greeley County <a href="#greeley_county">#</a> | 2022-04-11 | <a name="greeley_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Hall County <a href="#hall_county">#</a> | 2022-04-11 | <a name="hall_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Hamilton County <a href="#hamilton_county">#</a> | 2022-04-11 | <a name="hamilton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Harlan County <a href="#harlan_county">#</a> | 2022-04-11 | <a name="harlan_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Hayes County <a href="#hayes_county">#</a> | 2022-04-11 | <a name="hayes_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Hitchcock County <a href="#hitchcock_county">#</a> | 2022-04-11 | <a name="hitchcock_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Holt County <a href="#holt_county">#</a> | 2022-04-11 | <a name="holt_county"></a>Community Level: low<br/>Community Transmission: high
+Nebraska | Hooker County <a href="#hooker_county">#</a> | 2022-04-11 | <a name="hooker_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Howard County <a href="#howard_county">#</a> | 2022-04-11 | <a name="howard_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-11 | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Johnson County <a href="#johnson_county">#</a> | 2022-04-11 | <a name="johnson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Kearney County <a href="#kearney_county">#</a> | 2022-04-11 | <a name="kearney_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Keith County <a href="#keith_county">#</a> | 2022-04-11 | <a name="keith_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Keya Paha County <a href="#keya_paha_county">#</a> | 2022-04-11 | <a name="keya_paha_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Kimball County <a href="#kimball_county">#</a> | 2022-04-11 | <a name="kimball_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Knox County <a href="#knox_county">#</a> | 2022-04-11 | <a name="knox_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Lancaster County <a href="#lancaster_county">#</a> | 2022-04-11 | <a name="lancaster_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Lincoln County <a href="#lincoln_county">#</a> | 2022-04-11 | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Logan County <a href="#logan_county">#</a> | 2022-04-11 | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Loup County <a href="#loup_county">#</a> | 2022-04-11 | <a name="loup_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Madison County <a href="#madison_county">#</a> | 2022-04-11 | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | McPherson County <a href="#mcpherson_county">#</a> | 2022-04-11 | <a name="mcpherson_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Merrick County <a href="#merrick_county">#</a> | 2022-04-11 | <a name="merrick_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Morrill County <a href="#morrill_county">#</a> | 2022-04-11 | <a name="morrill_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Nance County <a href="#nance_county">#</a> | 2022-04-11 | <a name="nance_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Nemaha County <a href="#nemaha_county">#</a> | 2022-04-11 | <a name="nemaha_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Nuckolls County <a href="#nuckolls_county">#</a> | 2022-04-11 | <a name="nuckolls_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Otoe County <a href="#otoe_county">#</a> | 2022-04-11 | <a name="otoe_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Pawnee County <a href="#pawnee_county">#</a> | 2022-04-11 | <a name="pawnee_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Perkins County <a href="#perkins_county">#</a> | 2022-04-11 | <a name="perkins_county"></a>Community Level: low<br/>Community Transmission: substantial
+Nebraska | Phelps County <a href="#phelps_county">#</a> | 2022-04-11 | <a name="phelps_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Pierce County <a href="#pierce_county">#</a> | 2022-04-11 | <a name="pierce_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Platte County <a href="#platte_county">#</a> | 2022-04-11 | <a name="platte_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Polk County <a href="#polk_county">#</a> | 2022-04-11 | <a name="polk_county"></a>Community Level: low<br/>Community Transmission: substantial
+Nebraska | Red Willow County <a href="#red_willow_county">#</a> | 2022-04-11 | <a name="red_willow_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Richardson County <a href="#richardson_county">#</a> | 2022-04-11 | <a name="richardson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Rock County <a href="#rock_county">#</a> | 2022-04-11 | <a name="rock_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Saline County <a href="#saline_county">#</a> | 2022-04-11 | <a name="saline_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Sarpy County <a href="#sarpy_county">#</a> | 2022-04-11 | <a name="sarpy_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Saunders County <a href="#saunders_county">#</a> | 2022-04-11 | <a name="saunders_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Scotts Bluff County <a href="#scotts_bluff_county">#</a> | 2022-04-11 | <a name="scotts_bluff_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Seward County <a href="#seward_county">#</a> | 2022-04-11 | <a name="seward_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Sheridan County <a href="#sheridan_county">#</a> | 2022-04-11 | <a name="sheridan_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Sherman County <a href="#sherman_county">#</a> | 2022-04-11 | <a name="sherman_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Sioux County <a href="#sioux_county">#</a> | 2022-04-11 | <a name="sioux_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | Stanton County <a href="#stanton_county">#</a> | 2022-04-11 | <a name="stanton_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Thayer County <a href="#thayer_county">#</a> | 2022-04-11 | <a name="thayer_county"></a>Community Level: medium<br/>Community Transmission: low
+Nebraska | Thomas County <a href="#thomas_county">#</a> | 2022-04-11 | <a name="thomas_county"></a>Community Level: low<br/>Community Transmission: high
+Nebraska | Thurston County <a href="#thurston_county">#</a> | 2022-04-11 | <a name="thurston_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Valley County <a href="#valley_county">#</a> | 2022-04-11 | <a name="valley_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Washington County <a href="#washington_county">#</a> | 2022-04-11 | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Wayne County <a href="#wayne_county">#</a> | 2022-04-11 | <a name="wayne_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Webster County <a href="#webster_county">#</a> | 2022-04-11 | <a name="webster_county"></a>Community Level: low<br/>Community Transmission: moderate
+Nebraska | Wheeler County <a href="#wheeler_county">#</a> | 2022-04-11 | <a name="wheeler_county"></a>Community Level: low<br/>Community Transmission: low
+Nebraska | York County <a href="#york_county">#</a> | 2022-04-11 | <a name="york_county"></a>Community Level: low<br/>Community Transmission: substantial

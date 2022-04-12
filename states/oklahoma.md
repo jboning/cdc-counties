@@ -1,79 +1,79 @@
 State | County | Last Updated | Status
 --- | --- | --- | --- 
-Oklahoma | Adair County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Oklahoma | Alfalfa County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Atoka County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Oklahoma | Beaver County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Beckham County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Blaine County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Bryan County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Caddo County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Canadian County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Carter County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Cherokee County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Choctaw County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Cimarron County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Cleveland County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Coal County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Comanche County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Cotton County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Craig County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Creek County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Custer County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Oklahoma | Delaware County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Dewey County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Ellis County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Garfield County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Oklahoma | Garvin County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Grady County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Grant County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Greer County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Harmon County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Harper County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Haskell County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Hughes County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Jackson County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Jefferson County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Johnston County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Kay County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Kingfisher County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Kiowa County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Latimer County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Le Flore County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Lincoln County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Logan County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Love County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Major County | 2022-04-11 | Community Level: medium<br/>Community Transmission: low
-Oklahoma | Marshall County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Mayes County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | McClain County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | McCurtain County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | McIntosh County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Murray County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Muskogee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Noble County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Nowata County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Okfuskee County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Oklahoma County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Okmulgee County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Osage County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Ottawa County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Pawnee County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Payne County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Pittsburg County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Pontotoc County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Oklahoma | Pottawatomie County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Pushmataha County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Roger Mills County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Rogers County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Seminole County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Sequoyah County | 2022-04-11 | Community Level: low<br/>Community Transmission: high
-Oklahoma | Stephens County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Texas County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Tillman County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Tulsa County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Wagoner County | 2022-04-11 | Community Level: low<br/>Community Transmission: substantial
-Oklahoma | Washington County | 2022-04-11 | Community Level: low<br/>Community Transmission: moderate
-Oklahoma | Washita County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Woods County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
-Oklahoma | Woodward County | 2022-04-11 | Community Level: low<br/>Community Transmission: low
+Oklahoma | Adair County <a href="#adair_county">#</a> | 2022-04-11 | <a name="adair_county"></a>Community Level: low<br/>Community Transmission: high
+Oklahoma | Alfalfa County <a href="#alfalfa_county">#</a> | 2022-04-11 | <a name="alfalfa_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Atoka County <a href="#atoka_county">#</a> | 2022-04-11 | <a name="atoka_county"></a>Community Level: low<br/>Community Transmission: high
+Oklahoma | Beaver County <a href="#beaver_county">#</a> | 2022-04-11 | <a name="beaver_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Beckham County <a href="#beckham_county">#</a> | 2022-04-11 | <a name="beckham_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Blaine County <a href="#blaine_county">#</a> | 2022-04-11 | <a name="blaine_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Bryan County <a href="#bryan_county">#</a> | 2022-04-11 | <a name="bryan_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Caddo County <a href="#caddo_county">#</a> | 2022-04-11 | <a name="caddo_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Canadian County <a href="#canadian_county">#</a> | 2022-04-11 | <a name="canadian_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Carter County <a href="#carter_county">#</a> | 2022-04-11 | <a name="carter_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Cherokee County <a href="#cherokee_county">#</a> | 2022-04-11 | <a name="cherokee_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Choctaw County <a href="#choctaw_county">#</a> | 2022-04-11 | <a name="choctaw_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Cimarron County <a href="#cimarron_county">#</a> | 2022-04-11 | <a name="cimarron_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Cleveland County <a href="#cleveland_county">#</a> | 2022-04-11 | <a name="cleveland_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Coal County <a href="#coal_county">#</a> | 2022-04-11 | <a name="coal_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Comanche County <a href="#comanche_county">#</a> | 2022-04-11 | <a name="comanche_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Cotton County <a href="#cotton_county">#</a> | 2022-04-11 | <a name="cotton_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Craig County <a href="#craig_county">#</a> | 2022-04-11 | <a name="craig_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Creek County <a href="#creek_county">#</a> | 2022-04-11 | <a name="creek_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Custer County <a href="#custer_county">#</a> | 2022-04-11 | <a name="custer_county"></a>Community Level: low<br/>Community Transmission: high
+Oklahoma | Delaware County <a href="#delaware_county">#</a> | 2022-04-11 | <a name="delaware_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Dewey County <a href="#dewey_county">#</a> | 2022-04-11 | <a name="dewey_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Ellis County <a href="#ellis_county">#</a> | 2022-04-11 | <a name="ellis_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Garfield County <a href="#garfield_county">#</a> | 2022-04-11 | <a name="garfield_county"></a>Community Level: low<br/>Community Transmission: high
+Oklahoma | Garvin County <a href="#garvin_county">#</a> | 2022-04-11 | <a name="garvin_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Grady County <a href="#grady_county">#</a> | 2022-04-11 | <a name="grady_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Grant County <a href="#grant_county">#</a> | 2022-04-11 | <a name="grant_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Greer County <a href="#greer_county">#</a> | 2022-04-11 | <a name="greer_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Harmon County <a href="#harmon_county">#</a> | 2022-04-11 | <a name="harmon_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Harper County <a href="#harper_county">#</a> | 2022-04-11 | <a name="harper_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Haskell County <a href="#haskell_county">#</a> | 2022-04-11 | <a name="haskell_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Hughes County <a href="#hughes_county">#</a> | 2022-04-11 | <a name="hughes_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Jackson County <a href="#jackson_county">#</a> | 2022-04-11 | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-11 | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Johnston County <a href="#johnston_county">#</a> | 2022-04-11 | <a name="johnston_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Kay County <a href="#kay_county">#</a> | 2022-04-11 | <a name="kay_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Kingfisher County <a href="#kingfisher_county">#</a> | 2022-04-11 | <a name="kingfisher_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Kiowa County <a href="#kiowa_county">#</a> | 2022-04-11 | <a name="kiowa_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Latimer County <a href="#latimer_county">#</a> | 2022-04-11 | <a name="latimer_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Le Flore County <a href="#le_flore_county">#</a> | 2022-04-11 | <a name="le_flore_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Lincoln County <a href="#lincoln_county">#</a> | 2022-04-11 | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Logan County <a href="#logan_county">#</a> | 2022-04-11 | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Love County <a href="#love_county">#</a> | 2022-04-11 | <a name="love_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Major County <a href="#major_county">#</a> | 2022-04-11 | <a name="major_county"></a>Community Level: medium<br/>Community Transmission: low
+Oklahoma | Marshall County <a href="#marshall_county">#</a> | 2022-04-11 | <a name="marshall_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Mayes County <a href="#mayes_county">#</a> | 2022-04-11 | <a name="mayes_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | McClain County <a href="#mcclain_county">#</a> | 2022-04-11 | <a name="mcclain_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | McCurtain County <a href="#mccurtain_county">#</a> | 2022-04-11 | <a name="mccurtain_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | McIntosh County <a href="#mcintosh_county">#</a> | 2022-04-11 | <a name="mcintosh_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Murray County <a href="#murray_county">#</a> | 2022-04-11 | <a name="murray_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Muskogee County <a href="#muskogee_county">#</a> | 2022-04-11 | <a name="muskogee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Noble County <a href="#noble_county">#</a> | 2022-04-11 | <a name="noble_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Nowata County <a href="#nowata_county">#</a> | 2022-04-11 | <a name="nowata_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Okfuskee County <a href="#okfuskee_county">#</a> | 2022-04-11 | <a name="okfuskee_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Oklahoma County <a href="#oklahoma_county">#</a> | 2022-04-11 | <a name="oklahoma_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Okmulgee County <a href="#okmulgee_county">#</a> | 2022-04-11 | <a name="okmulgee_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Osage County <a href="#osage_county">#</a> | 2022-04-11 | <a name="osage_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Ottawa County <a href="#ottawa_county">#</a> | 2022-04-11 | <a name="ottawa_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Pawnee County <a href="#pawnee_county">#</a> | 2022-04-11 | <a name="pawnee_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Payne County <a href="#payne_county">#</a> | 2022-04-11 | <a name="payne_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Pittsburg County <a href="#pittsburg_county">#</a> | 2022-04-11 | <a name="pittsburg_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Pontotoc County <a href="#pontotoc_county">#</a> | 2022-04-11 | <a name="pontotoc_county"></a>Community Level: low<br/>Community Transmission: high
+Oklahoma | Pottawatomie County <a href="#pottawatomie_county">#</a> | 2022-04-11 | <a name="pottawatomie_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Pushmataha County <a href="#pushmataha_county">#</a> | 2022-04-11 | <a name="pushmataha_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Roger Mills County <a href="#roger_mills_county">#</a> | 2022-04-11 | <a name="roger_mills_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Rogers County <a href="#rogers_county">#</a> | 2022-04-11 | <a name="rogers_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Seminole County <a href="#seminole_county">#</a> | 2022-04-11 | <a name="seminole_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Sequoyah County <a href="#sequoyah_county">#</a> | 2022-04-11 | <a name="sequoyah_county"></a>Community Level: low<br/>Community Transmission: high
+Oklahoma | Stephens County <a href="#stephens_county">#</a> | 2022-04-11 | <a name="stephens_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Texas County <a href="#texas_county">#</a> | 2022-04-11 | <a name="texas_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Tillman County <a href="#tillman_county">#</a> | 2022-04-11 | <a name="tillman_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Tulsa County <a href="#tulsa_county">#</a> | 2022-04-11 | <a name="tulsa_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Wagoner County <a href="#wagoner_county">#</a> | 2022-04-11 | <a name="wagoner_county"></a>Community Level: low<br/>Community Transmission: substantial
+Oklahoma | Washington County <a href="#washington_county">#</a> | 2022-04-11 | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: moderate
+Oklahoma | Washita County <a href="#washita_county">#</a> | 2022-04-11 | <a name="washita_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Woods County <a href="#woods_county">#</a> | 2022-04-11 | <a name="woods_county"></a>Community Level: low<br/>Community Transmission: low
+Oklahoma | Woodward County <a href="#woodward_county">#</a> | 2022-04-11 | <a name="woodward_county"></a>Community Level: low<br/>Community Transmission: low
