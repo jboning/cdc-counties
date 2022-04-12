@@ -30,7 +30,6 @@ def process(data):
     keyfunc = lambda x: x["State_name"]
     data = sorted(data, key=keyfunc)
     states = []
-    os.makedirs("states")
     for state, counties in itertools.groupby(data, keyfunc):
         states.append(state)
         output(state, counties)
