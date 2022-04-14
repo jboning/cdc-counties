@@ -1,48 +1,48 @@
-State | County | Last Updated | Status
+State | County | Status | Last Updated
 --- | --- | --- | --- 
-South Carolina | Abbeville County <a href="#abbeville_county">#</a> | 2022-04-13 | <a name="abbeville_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Aiken County <a href="#aiken_county">#</a> | 2022-04-13 | <a name="aiken_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Allendale County <a href="#allendale_county">#</a> | 2022-04-13 | <a name="allendale_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Anderson County <a href="#anderson_county">#</a> | 2022-04-13 | <a name="anderson_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Bamberg County <a href="#bamberg_county">#</a> | 2022-04-13 | <a name="bamberg_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Barnwell County <a href="#barnwell_county">#</a> | 2022-04-13 | <a name="barnwell_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Beaufort County <a href="#beaufort_county">#</a> | 2022-04-13 | <a name="beaufort_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Berkeley County <a href="#berkeley_county">#</a> | 2022-04-13 | <a name="berkeley_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Calhoun County <a href="#calhoun_county">#</a> | 2022-04-13 | <a name="calhoun_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Charleston County <a href="#charleston_county">#</a> | 2022-04-13 | <a name="charleston_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Cherokee County <a href="#cherokee_county">#</a> | 2022-04-13 | <a name="cherokee_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Chester County <a href="#chester_county">#</a> | 2022-04-13 | <a name="chester_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Chesterfield County <a href="#chesterfield_county">#</a> | 2022-04-13 | <a name="chesterfield_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Clarendon County <a href="#clarendon_county">#</a> | 2022-04-13 | <a name="clarendon_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Colleton County <a href="#colleton_county">#</a> | 2022-04-13 | <a name="colleton_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Darlington County <a href="#darlington_county">#</a> | 2022-04-13 | <a name="darlington_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Dillon County <a href="#dillon_county">#</a> | 2022-04-13 | <a name="dillon_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Dorchester County <a href="#dorchester_county">#</a> | 2022-04-13 | <a name="dorchester_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Edgefield County <a href="#edgefield_county">#</a> | 2022-04-13 | <a name="edgefield_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Fairfield County <a href="#fairfield_county">#</a> | 2022-04-13 | <a name="fairfield_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Florence County <a href="#florence_county">#</a> | 2022-04-13 | <a name="florence_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Georgetown County <a href="#georgetown_county">#</a> | 2022-04-13 | <a name="georgetown_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Greenville County <a href="#greenville_county">#</a> | 2022-04-13 | <a name="greenville_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Greenwood County <a href="#greenwood_county">#</a> | 2022-04-13 | <a name="greenwood_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Hampton County <a href="#hampton_county">#</a> | 2022-04-13 | <a name="hampton_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Horry County <a href="#horry_county">#</a> | 2022-04-13 | <a name="horry_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Jasper County <a href="#jasper_county">#</a> | 2022-04-13 | <a name="jasper_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Kershaw County <a href="#kershaw_county">#</a> | 2022-04-13 | <a name="kershaw_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Lancaster County <a href="#lancaster_county">#</a> | 2022-04-13 | <a name="lancaster_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Laurens County <a href="#laurens_county">#</a> | 2022-04-13 | <a name="laurens_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Lee County <a href="#lee_county">#</a> | 2022-04-13 | <a name="lee_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Lexington County <a href="#lexington_county">#</a> | 2022-04-13 | <a name="lexington_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Marion County <a href="#marion_county">#</a> | 2022-04-13 | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Marlboro County <a href="#marlboro_county">#</a> | 2022-04-13 | <a name="marlboro_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | McCormick County <a href="#mccormick_county">#</a> | 2022-04-13 | <a name="mccormick_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Newberry County <a href="#newberry_county">#</a> | 2022-04-13 | <a name="newberry_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Oconee County <a href="#oconee_county">#</a> | 2022-04-13 | <a name="oconee_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Orangeburg County <a href="#orangeburg_county">#</a> | 2022-04-13 | <a name="orangeburg_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Pickens County <a href="#pickens_county">#</a> | 2022-04-13 | <a name="pickens_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Richland County <a href="#richland_county">#</a> | 2022-04-13 | <a name="richland_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Saluda County <a href="#saluda_county">#</a> | 2022-04-13 | <a name="saluda_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Spartanburg County <a href="#spartanburg_county">#</a> | 2022-04-13 | <a name="spartanburg_county"></a>Community Level: low<br/>Community Transmission: moderate
-South Carolina | Sumter County <a href="#sumter_county">#</a> | 2022-04-13 | <a name="sumter_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | Union County <a href="#union_county">#</a> | 2022-04-13 | <a name="union_county"></a>Community Level: medium<br/>Community Transmission: moderate
-South Carolina | Williamsburg County <a href="#williamsburg_county">#</a> | 2022-04-13 | <a name="williamsburg_county"></a>Community Level: low<br/>Community Transmission: low
-South Carolina | York County <a href="#york_county">#</a> | 2022-04-13 | <a name="york_county"></a>Community Level: low<br/>Community Transmission: moderate
+SC | Abbeville County <a href="#abbeville_county">#</a> | <a name="abbeville_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Aiken County <a href="#aiken_county">#</a> | <a name="aiken_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Allendale County <a href="#allendale_county">#</a> | <a name="allendale_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Anderson County <a href="#anderson_county">#</a> | <a name="anderson_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Bamberg County <a href="#bamberg_county">#</a> | <a name="bamberg_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Barnwell County <a href="#barnwell_county">#</a> | <a name="barnwell_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Beaufort County <a href="#beaufort_county">#</a> | <a name="beaufort_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Berkeley County <a href="#berkeley_county">#</a> | <a name="berkeley_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Calhoun County <a href="#calhoun_county">#</a> | <a name="calhoun_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Charleston County <a href="#charleston_county">#</a> | <a name="charleston_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Cherokee County <a href="#cherokee_county">#</a> | <a name="cherokee_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Chester County <a href="#chester_county">#</a> | <a name="chester_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Chesterfield County <a href="#chesterfield_county">#</a> | <a name="chesterfield_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Clarendon County <a href="#clarendon_county">#</a> | <a name="clarendon_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Colleton County <a href="#colleton_county">#</a> | <a name="colleton_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Darlington County <a href="#darlington_county">#</a> | <a name="darlington_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Dillon County <a href="#dillon_county">#</a> | <a name="dillon_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Dorchester County <a href="#dorchester_county">#</a> | <a name="dorchester_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Edgefield County <a href="#edgefield_county">#</a> | <a name="edgefield_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Fairfield County <a href="#fairfield_county">#</a> | <a name="fairfield_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Florence County <a href="#florence_county">#</a> | <a name="florence_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Georgetown County <a href="#georgetown_county">#</a> | <a name="georgetown_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Greenville County <a href="#greenville_county">#</a> | <a name="greenville_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Greenwood County <a href="#greenwood_county">#</a> | <a name="greenwood_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Hampton County <a href="#hampton_county">#</a> | <a name="hampton_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Horry County <a href="#horry_county">#</a> | <a name="horry_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Jasper County <a href="#jasper_county">#</a> | <a name="jasper_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Kershaw County <a href="#kershaw_county">#</a> | <a name="kershaw_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Lancaster County <a href="#lancaster_county">#</a> | <a name="lancaster_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Laurens County <a href="#laurens_county">#</a> | <a name="laurens_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Lee County <a href="#lee_county">#</a> | <a name="lee_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Lexington County <a href="#lexington_county">#</a> | <a name="lexington_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Marion County <a href="#marion_county">#</a> | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Marlboro County <a href="#marlboro_county">#</a> | <a name="marlboro_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | McCormick County <a href="#mccormick_county">#</a> | <a name="mccormick_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Newberry County <a href="#newberry_county">#</a> | <a name="newberry_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Oconee County <a href="#oconee_county">#</a> | <a name="oconee_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Orangeburg County <a href="#orangeburg_county">#</a> | <a name="orangeburg_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Pickens County <a href="#pickens_county">#</a> | <a name="pickens_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Richland County <a href="#richland_county">#</a> | <a name="richland_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Saluda County <a href="#saluda_county">#</a> | <a name="saluda_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Spartanburg County <a href="#spartanburg_county">#</a> | <a name="spartanburg_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+SC | Sumter County <a href="#sumter_county">#</a> | <a name="sumter_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | Union County <a href="#union_county">#</a> | <a name="union_county"></a>Community Level: medium<br/>Community Transmission: moderate | 2022-04-13
+SC | Williamsburg County <a href="#williamsburg_county">#</a> | <a name="williamsburg_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+SC | York County <a href="#york_county">#</a> | <a name="york_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13

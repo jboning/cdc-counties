@@ -1,10 +1,10 @@
-State | County | Last Updated | Status
+State | County | Status | Last Updated
 --- | --- | --- | --- 
-Connecticut | Fairfield County <a href="#fairfield_county">#</a> | 2022-04-13 | <a name="fairfield_county"></a>Community Level: low<br/>Community Transmission: high
-Connecticut | Hartford County <a href="#hartford_county">#</a> | 2022-04-13 | <a name="hartford_county"></a>Community Level: low<br/>Community Transmission: high
-Connecticut | Litchfield County <a href="#litchfield_county">#</a> | 2022-04-13 | <a name="litchfield_county"></a>Community Level: low<br/>Community Transmission: high
-Connecticut | Middlesex County <a href="#middlesex_county">#</a> | 2022-04-13 | <a name="middlesex_county"></a>Community Level: low<br/>Community Transmission: high
-Connecticut | New Haven County <a href="#new_haven_county">#</a> | 2022-04-13 | <a name="new_haven_county"></a>Community Level: low<br/>Community Transmission: high
-Connecticut | New London County <a href="#new_london_county">#</a> | 2022-04-13 | <a name="new_london_county"></a>Community Level: low<br/>Community Transmission: high
-Connecticut | Tolland County <a href="#tolland_county">#</a> | 2022-04-13 | <a name="tolland_county"></a>Community Level: low<br/>Community Transmission: high
-Connecticut | Windham County <a href="#windham_county">#</a> | 2022-04-13 | <a name="windham_county"></a>Community Level: low<br/>Community Transmission: substantial
+CT | Fairfield County <a href="#fairfield_county">#</a> | <a name="fairfield_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+CT | Hartford County <a href="#hartford_county">#</a> | <a name="hartford_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+CT | Litchfield County <a href="#litchfield_county">#</a> | <a name="litchfield_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+CT | Middlesex County <a href="#middlesex_county">#</a> | <a name="middlesex_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+CT | New Haven County <a href="#new_haven_county">#</a> | <a name="new_haven_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+CT | New London County <a href="#new_london_county">#</a> | <a name="new_london_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+CT | Tolland County <a href="#tolland_county">#</a> | <a name="tolland_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+CT | Windham County <a href="#windham_county">#</a> | <a name="windham_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13

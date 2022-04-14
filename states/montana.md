@@ -1,58 +1,58 @@
-State | County | Last Updated | Status
+State | County | Status | Last Updated
 --- | --- | --- | --- 
-Montana | Beaverhead County <a href="#beaverhead_county">#</a> | 2022-04-13 | <a name="beaverhead_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Big Horn County <a href="#big_horn_county">#</a> | 2022-04-13 | <a name="big_horn_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Blaine County <a href="#blaine_county">#</a> | 2022-04-13 | <a name="blaine_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Broadwater County <a href="#broadwater_county">#</a> | 2022-04-13 | <a name="broadwater_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Carbon County <a href="#carbon_county">#</a> | 2022-04-13 | <a name="carbon_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Carter County <a href="#carter_county">#</a> | 2022-04-13 | <a name="carter_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Cascade County <a href="#cascade_county">#</a> | 2022-04-13 | <a name="cascade_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Chouteau County <a href="#chouteau_county">#</a> | 2022-04-13 | <a name="chouteau_county"></a>Community Level: medium<br/>Community Transmission: high
-Montana | Custer County <a href="#custer_county">#</a> | 2022-04-13 | <a name="custer_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Daniels County <a href="#daniels_county">#</a> | 2022-04-13 | <a name="daniels_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Dawson County <a href="#dawson_county">#</a> | 2022-04-13 | <a name="dawson_county"></a>Community Level: medium<br/>Community Transmission: low
-Montana | Deer Lodge County <a href="#deer_lodge_county">#</a> | 2022-04-13 | <a name="deer_lodge_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Fallon County <a href="#fallon_county">#</a> | 2022-04-13 | <a name="fallon_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Fergus County <a href="#fergus_county">#</a> | 2022-04-13 | <a name="fergus_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Flathead County <a href="#flathead_county">#</a> | 2022-04-13 | <a name="flathead_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Gallatin County <a href="#gallatin_county">#</a> | 2022-04-13 | <a name="gallatin_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Garfield County <a href="#garfield_county">#</a> | 2022-04-13 | <a name="garfield_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Glacier County <a href="#glacier_county">#</a> | 2022-04-13 | <a name="glacier_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Golden Valley County <a href="#golden_valley_county">#</a> | 2022-04-13 | <a name="golden_valley_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Granite County <a href="#granite_county">#</a> | 2022-04-13 | <a name="granite_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Hill County <a href="#hill_county">#</a> | 2022-04-13 | <a name="hill_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-13 | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: substantial
-Montana | Judith Basin County <a href="#judith_basin_county">#</a> | 2022-04-13 | <a name="judith_basin_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Lake County <a href="#lake_county">#</a> | 2022-04-13 | <a name="lake_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Lewis and Clark County <a href="#lewis_and_clark_county">#</a> | 2022-04-13 | <a name="lewis_and_clark_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Liberty County <a href="#liberty_county">#</a> | 2022-04-13 | <a name="liberty_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Lincoln County <a href="#lincoln_county">#</a> | 2022-04-13 | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Madison County <a href="#madison_county">#</a> | 2022-04-13 | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | McCone County <a href="#mccone_county">#</a> | 2022-04-13 | <a name="mccone_county"></a>Community Level: medium<br/>Community Transmission: low
-Montana | Meagher County <a href="#meagher_county">#</a> | 2022-04-13 | <a name="meagher_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Mineral County <a href="#mineral_county">#</a> | 2022-04-13 | <a name="mineral_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Missoula County <a href="#missoula_county">#</a> | 2022-04-13 | <a name="missoula_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Musselshell County <a href="#musselshell_county">#</a> | 2022-04-13 | <a name="musselshell_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Park County <a href="#park_county">#</a> | 2022-04-13 | <a name="park_county"></a>Community Level: low<br/>Community Transmission: substantial
-Montana | Petroleum County <a href="#petroleum_county">#</a> | 2022-04-13 | <a name="petroleum_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Phillips County <a href="#phillips_county">#</a> | 2022-04-13 | <a name="phillips_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Pondera County <a href="#pondera_county">#</a> | 2022-04-13 | <a name="pondera_county"></a>Community Level: low<br/>Community Transmission: substantial
-Montana | Powder River County <a href="#powder_river_county">#</a> | 2022-04-13 | <a name="powder_river_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Powell County <a href="#powell_county">#</a> | 2022-04-13 | <a name="powell_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Prairie County <a href="#prairie_county">#</a> | 2022-04-13 | <a name="prairie_county"></a>Community Level: low<br/>Community Transmission: substantial
-Montana | Ravalli County <a href="#ravalli_county">#</a> | 2022-04-13 | <a name="ravalli_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Richland County <a href="#richland_county">#</a> | 2022-04-13 | <a name="richland_county"></a>Community Level: medium<br/>Community Transmission: substantial
-Montana | Roosevelt County <a href="#roosevelt_county">#</a> | 2022-04-13 | <a name="roosevelt_county"></a>Community Level: medium<br/>Community Transmission: moderate
-Montana | Rosebud County <a href="#rosebud_county">#</a> | 2022-04-13 | <a name="rosebud_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Sanders County <a href="#sanders_county">#</a> | 2022-04-13 | <a name="sanders_county"></a>Community Level: low<br/>Community Transmission: substantial
-Montana | Sheridan County <a href="#sheridan_county">#</a> | 2022-04-13 | <a name="sheridan_county"></a>Community Level: low<br/>Community Transmission: substantial
-Montana | Silver Bow County <a href="#silver_bow_county">#</a> | 2022-04-13 | <a name="silver_bow_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Stillwater County <a href="#stillwater_county">#</a> | 2022-04-13 | <a name="stillwater_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Sweet Grass County <a href="#sweet_grass_county">#</a> | 2022-04-13 | <a name="sweet_grass_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Teton County <a href="#teton_county">#</a> | 2022-04-13 | <a name="teton_county"></a>Community Level: low<br/>Community Transmission: high
-Montana | Toole County <a href="#toole_county">#</a> | 2022-04-13 | <a name="toole_county"></a>Community Level: low<br/>Community Transmission: high
-Montana | Treasure County <a href="#treasure_county">#</a> | 2022-04-13 | <a name="treasure_county"></a>Community Level: low<br/>Community Transmission: low
-Montana | Valley County <a href="#valley_county">#</a> | 2022-04-13 | <a name="valley_county"></a>Community Level: medium<br/>Community Transmission: moderate
-Montana | Wheatland County <a href="#wheatland_county">#</a> | 2022-04-13 | <a name="wheatland_county"></a>Community Level: low<br/>Community Transmission: moderate
-Montana | Wibaux County <a href="#wibaux_county">#</a> | 2022-04-13 | <a name="wibaux_county"></a>Community Level: medium<br/>Community Transmission: low
-Montana | Yellowstone County <a href="#yellowstone_county">#</a> | 2022-04-13 | <a name="yellowstone_county"></a>Community Level: low<br/>Community Transmission: moderate
+MT | Beaverhead County <a href="#beaverhead_county">#</a> | <a name="beaverhead_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Big Horn County <a href="#big_horn_county">#</a> | <a name="big_horn_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Blaine County <a href="#blaine_county">#</a> | <a name="blaine_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Broadwater County <a href="#broadwater_county">#</a> | <a name="broadwater_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Carbon County <a href="#carbon_county">#</a> | <a name="carbon_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Carter County <a href="#carter_county">#</a> | <a name="carter_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Cascade County <a href="#cascade_county">#</a> | <a name="cascade_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Chouteau County <a href="#chouteau_county">#</a> | <a name="chouteau_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-13
+MT | Custer County <a href="#custer_county">#</a> | <a name="custer_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Daniels County <a href="#daniels_county">#</a> | <a name="daniels_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Dawson County <a href="#dawson_county">#</a> | <a name="dawson_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-04-13
+MT | Deer Lodge County <a href="#deer_lodge_county">#</a> | <a name="deer_lodge_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Fallon County <a href="#fallon_county">#</a> | <a name="fallon_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Fergus County <a href="#fergus_county">#</a> | <a name="fergus_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Flathead County <a href="#flathead_county">#</a> | <a name="flathead_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Gallatin County <a href="#gallatin_county">#</a> | <a name="gallatin_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Garfield County <a href="#garfield_county">#</a> | <a name="garfield_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Glacier County <a href="#glacier_county">#</a> | <a name="glacier_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Golden Valley County <a href="#golden_valley_county">#</a> | <a name="golden_valley_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Granite County <a href="#granite_county">#</a> | <a name="granite_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Hill County <a href="#hill_county">#</a> | <a name="hill_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Jefferson County <a href="#jefferson_county">#</a> | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+MT | Judith Basin County <a href="#judith_basin_county">#</a> | <a name="judith_basin_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Lake County <a href="#lake_county">#</a> | <a name="lake_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Lewis and Clark County <a href="#lewis_and_clark_county">#</a> | <a name="lewis_and_clark_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Liberty County <a href="#liberty_county">#</a> | <a name="liberty_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Madison County <a href="#madison_county">#</a> | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | McCone County <a href="#mccone_county">#</a> | <a name="mccone_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-04-13
+MT | Meagher County <a href="#meagher_county">#</a> | <a name="meagher_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Mineral County <a href="#mineral_county">#</a> | <a name="mineral_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Missoula County <a href="#missoula_county">#</a> | <a name="missoula_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Musselshell County <a href="#musselshell_county">#</a> | <a name="musselshell_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Park County <a href="#park_county">#</a> | <a name="park_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+MT | Petroleum County <a href="#petroleum_county">#</a> | <a name="petroleum_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Phillips County <a href="#phillips_county">#</a> | <a name="phillips_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Pondera County <a href="#pondera_county">#</a> | <a name="pondera_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+MT | Powder River County <a href="#powder_river_county">#</a> | <a name="powder_river_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Powell County <a href="#powell_county">#</a> | <a name="powell_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Prairie County <a href="#prairie_county">#</a> | <a name="prairie_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+MT | Ravalli County <a href="#ravalli_county">#</a> | <a name="ravalli_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Richland County <a href="#richland_county">#</a> | <a name="richland_county"></a>Community Level: medium<br/>Community Transmission: substantial | 2022-04-13
+MT | Roosevelt County <a href="#roosevelt_county">#</a> | <a name="roosevelt_county"></a>Community Level: medium<br/>Community Transmission: moderate | 2022-04-13
+MT | Rosebud County <a href="#rosebud_county">#</a> | <a name="rosebud_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Sanders County <a href="#sanders_county">#</a> | <a name="sanders_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+MT | Sheridan County <a href="#sheridan_county">#</a> | <a name="sheridan_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+MT | Silver Bow County <a href="#silver_bow_county">#</a> | <a name="silver_bow_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Stillwater County <a href="#stillwater_county">#</a> | <a name="stillwater_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Sweet Grass County <a href="#sweet_grass_county">#</a> | <a name="sweet_grass_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Teton County <a href="#teton_county">#</a> | <a name="teton_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+MT | Toole County <a href="#toole_county">#</a> | <a name="toole_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+MT | Treasure County <a href="#treasure_county">#</a> | <a name="treasure_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+MT | Valley County <a href="#valley_county">#</a> | <a name="valley_county"></a>Community Level: medium<br/>Community Transmission: moderate | 2022-04-13
+MT | Wheatland County <a href="#wheatland_county">#</a> | <a name="wheatland_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+MT | Wibaux County <a href="#wibaux_county">#</a> | <a name="wibaux_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-04-13
+MT | Yellowstone County <a href="#yellowstone_county">#</a> | <a name="yellowstone_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13

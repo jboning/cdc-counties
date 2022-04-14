@@ -1,5 +1,5 @@
-State | County | Last Updated | Status
+State | County | Status | Last Updated
 --- | --- | --- | --- 
-Delaware | Kent County <a href="#kent_county">#</a> | 2022-04-13 | <a name="kent_county"></a>Community Level: low<br/>Community Transmission: moderate
-Delaware | New Castle County <a href="#new_castle_county">#</a> | 2022-04-13 | <a name="new_castle_county"></a>Community Level: low<br/>Community Transmission: moderate
-Delaware | Sussex County <a href="#sussex_county">#</a> | 2022-04-13 | <a name="sussex_county"></a>Community Level: low<br/>Community Transmission: moderate
+DE | Kent County <a href="#kent_county">#</a> | <a name="kent_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+DE | New Castle County <a href="#new_castle_county">#</a> | <a name="new_castle_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+DE | Sussex County <a href="#sussex_county">#</a> | <a name="sussex_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13

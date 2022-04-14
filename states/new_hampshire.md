@@ -1,12 +1,12 @@
-State | County | Last Updated | Status
+State | County | Status | Last Updated
 --- | --- | --- | --- 
-New Hampshire | Belknap County <a href="#belknap_county">#</a> | 2022-04-13 | <a name="belknap_county"></a>Community Level: low<br/>Community Transmission: high
-New Hampshire | Carroll County <a href="#carroll_county">#</a> | 2022-04-13 | <a name="carroll_county"></a>Community Level: low<br/>Community Transmission: high
-New Hampshire | Cheshire County <a href="#cheshire_county">#</a> | 2022-04-13 | <a name="cheshire_county"></a>Community Level: low<br/>Community Transmission: high
-New Hampshire | Coos County <a href="#coos_county">#</a> | 2022-04-13 | <a name="coos_county"></a>Community Level: low<br/>Community Transmission: high
-New Hampshire | Grafton County <a href="#grafton_county">#</a> | 2022-04-13 | <a name="grafton_county"></a>Community Level: low<br/>Community Transmission: high
-New Hampshire | Hillsborough County <a href="#hillsborough_county">#</a> | 2022-04-13 | <a name="hillsborough_county"></a>Community Level: low<br/>Community Transmission: high
-New Hampshire | Merrimack County <a href="#merrimack_county">#</a> | 2022-04-13 | <a name="merrimack_county"></a>Community Level: low<br/>Community Transmission: high
-New Hampshire | Rockingham County <a href="#rockingham_county">#</a> | 2022-04-13 | <a name="rockingham_county"></a>Community Level: low<br/>Community Transmission: high
-New Hampshire | Strafford County <a href="#strafford_county">#</a> | 2022-04-13 | <a name="strafford_county"></a>Community Level: low<br/>Community Transmission: high
-New Hampshire | Sullivan County <a href="#sullivan_county">#</a> | 2022-04-13 | <a name="sullivan_county"></a>Community Level: low<br/>Community Transmission: high
+NH | Belknap County <a href="#belknap_county">#</a> | <a name="belknap_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+NH | Carroll County <a href="#carroll_county">#</a> | <a name="carroll_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+NH | Cheshire County <a href="#cheshire_county">#</a> | <a name="cheshire_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+NH | Coos County <a href="#coos_county">#</a> | <a name="coos_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+NH | Grafton County <a href="#grafton_county">#</a> | <a name="grafton_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+NH | Hillsborough County <a href="#hillsborough_county">#</a> | <a name="hillsborough_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+NH | Merrimack County <a href="#merrimack_county">#</a> | <a name="merrimack_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+NH | Rockingham County <a href="#rockingham_county">#</a> | <a name="rockingham_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+NH | Strafford County <a href="#strafford_county">#</a> | <a name="strafford_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+NH | Sullivan County <a href="#sullivan_county">#</a> | <a name="sullivan_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13

@@ -1,69 +1,69 @@
-State | County | Last Updated | Status
+State | County | Status | Last Updated
 --- | --- | --- | --- 
-Florida | Alachua County <a href="#alachua_county">#</a> | 2022-04-13 | <a name="alachua_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Baker County <a href="#baker_county">#</a> | 2022-04-13 | <a name="baker_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Bay County <a href="#bay_county">#</a> | 2022-04-13 | <a name="bay_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Bradford County <a href="#bradford_county">#</a> | 2022-04-13 | <a name="bradford_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Brevard County <a href="#brevard_county">#</a> | 2022-04-13 | <a name="brevard_county"></a>Community Level: low<br/>Community Transmission: substantial
-Florida | Broward County <a href="#broward_county">#</a> | 2022-04-13 | <a name="broward_county"></a>Community Level: low<br/>Community Transmission: substantial
-Florida | Calhoun County <a href="#calhoun_county">#</a> | 2022-04-13 | <a name="calhoun_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Charlotte County <a href="#charlotte_county">#</a> | 2022-04-13 | <a name="charlotte_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Citrus County <a href="#citrus_county">#</a> | 2022-04-13 | <a name="citrus_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Clay County <a href="#clay_county">#</a> | 2022-04-13 | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Collier County <a href="#collier_county">#</a> | 2022-04-13 | <a name="collier_county"></a>Community Level: low<br/>Community Transmission: substantial
-Florida | Columbia County <a href="#columbia_county">#</a> | 2022-04-13 | <a name="columbia_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | DeSoto County <a href="#desoto_county">#</a> | 2022-04-13 | <a name="desoto_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Dixie County <a href="#dixie_county">#</a> | 2022-04-13 | <a name="dixie_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Duval County <a href="#duval_county">#</a> | 2022-04-13 | <a name="duval_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Escambia County <a href="#escambia_county">#</a> | 2022-04-13 | <a name="escambia_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Flagler County <a href="#flagler_county">#</a> | 2022-04-13 | <a name="flagler_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Franklin County <a href="#franklin_county">#</a> | 2022-04-13 | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Gadsden County <a href="#gadsden_county">#</a> | 2022-04-13 | <a name="gadsden_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Gilchrist County <a href="#gilchrist_county">#</a> | 2022-04-13 | <a name="gilchrist_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Glades County <a href="#glades_county">#</a> | 2022-04-13 | <a name="glades_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Gulf County <a href="#gulf_county">#</a> | 2022-04-13 | <a name="gulf_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Hamilton County <a href="#hamilton_county">#</a> | 2022-04-13 | <a name="hamilton_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Hardee County <a href="#hardee_county">#</a> | 2022-04-13 | <a name="hardee_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Hendry County <a href="#hendry_county">#</a> | 2022-04-13 | <a name="hendry_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Hernando County <a href="#hernando_county">#</a> | 2022-04-13 | <a name="hernando_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Highlands County <a href="#highlands_county">#</a> | 2022-04-13 | <a name="highlands_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Hillsborough County <a href="#hillsborough_county">#</a> | 2022-04-13 | <a name="hillsborough_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Holmes County <a href="#holmes_county">#</a> | 2022-04-13 | <a name="holmes_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Indian River County <a href="#indian_river_county">#</a> | 2022-04-13 | <a name="indian_river_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Jackson County <a href="#jackson_county">#</a> | 2022-04-13 | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Jefferson County <a href="#jefferson_county">#</a> | 2022-04-13 | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Lafayette County <a href="#lafayette_county">#</a> | 2022-04-13 | <a name="lafayette_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Lake County <a href="#lake_county">#</a> | 2022-04-13 | <a name="lake_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Lee County <a href="#lee_county">#</a> | 2022-04-13 | <a name="lee_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Leon County <a href="#leon_county">#</a> | 2022-04-13 | <a name="leon_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Levy County <a href="#levy_county">#</a> | 2022-04-13 | <a name="levy_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Liberty County <a href="#liberty_county">#</a> | 2022-04-13 | <a name="liberty_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Madison County <a href="#madison_county">#</a> | 2022-04-13 | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Manatee County <a href="#manatee_county">#</a> | 2022-04-13 | <a name="manatee_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Marion County <a href="#marion_county">#</a> | 2022-04-13 | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Martin County <a href="#martin_county">#</a> | 2022-04-13 | <a name="martin_county"></a>Community Level: low<br/>Community Transmission: substantial
-Florida | Miami-Dade County <a href="#miami-dade_county">#</a> | 2022-04-13 | <a name="miami-dade_county"></a>Community Level: low<br/>Community Transmission: high
-Florida | Monroe County <a href="#monroe_county">#</a> | 2022-04-13 | <a name="monroe_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Nassau County <a href="#nassau_county">#</a> | 2022-04-13 | <a name="nassau_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Okaloosa County <a href="#okaloosa_county">#</a> | 2022-04-13 | <a name="okaloosa_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Okeechobee County <a href="#okeechobee_county">#</a> | 2022-04-13 | <a name="okeechobee_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Orange County <a href="#orange_county">#</a> | 2022-04-13 | <a name="orange_county"></a>Community Level: low<br/>Community Transmission: substantial
-Florida | Osceola County <a href="#osceola_county">#</a> | 2022-04-13 | <a name="osceola_county"></a>Community Level: low<br/>Community Transmission: substantial
-Florida | Palm Beach County <a href="#palm_beach_county">#</a> | 2022-04-13 | <a name="palm_beach_county"></a>Community Level: low<br/>Community Transmission: substantial
-Florida | Pasco County <a href="#pasco_county">#</a> | 2022-04-13 | <a name="pasco_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Pinellas County <a href="#pinellas_county">#</a> | 2022-04-13 | <a name="pinellas_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Polk County <a href="#polk_county">#</a> | 2022-04-13 | <a name="polk_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Putnam County <a href="#putnam_county">#</a> | 2022-04-13 | <a name="putnam_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Santa Rosa County <a href="#santa_rosa_county">#</a> | 2022-04-13 | <a name="santa_rosa_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Sarasota County <a href="#sarasota_county">#</a> | 2022-04-13 | <a name="sarasota_county"></a>Community Level: low<br/>Community Transmission: substantial
-Florida | Seminole County <a href="#seminole_county">#</a> | 2022-04-13 | <a name="seminole_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | St. Johns County <a href="#st._johns_county">#</a> | 2022-04-13 | <a name="st._johns_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | St. Lucie County <a href="#st._lucie_county">#</a> | 2022-04-13 | <a name="st._lucie_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Sumter County <a href="#sumter_county">#</a> | 2022-04-13 | <a name="sumter_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Suwannee County <a href="#suwannee_county">#</a> | 2022-04-13 | <a name="suwannee_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Taylor County <a href="#taylor_county">#</a> | 2022-04-13 | <a name="taylor_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Union County <a href="#union_county">#</a> | 2022-04-13 | <a name="union_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Volusia County <a href="#volusia_county">#</a> | 2022-04-13 | <a name="volusia_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Wakulla County <a href="#wakulla_county">#</a> | 2022-04-13 | <a name="wakulla_county"></a>Community Level: low<br/>Community Transmission: moderate
-Florida | Walton County <a href="#walton_county">#</a> | 2022-04-13 | <a name="walton_county"></a>Community Level: low<br/>Community Transmission: low
-Florida | Washington County <a href="#washington_county">#</a> | 2022-04-13 | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: low
+FL | Alachua County <a href="#alachua_county">#</a> | <a name="alachua_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Baker County <a href="#baker_county">#</a> | <a name="baker_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Bay County <a href="#bay_county">#</a> | <a name="bay_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Bradford County <a href="#bradford_county">#</a> | <a name="bradford_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Brevard County <a href="#brevard_county">#</a> | <a name="brevard_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+FL | Broward County <a href="#broward_county">#</a> | <a name="broward_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+FL | Calhoun County <a href="#calhoun_county">#</a> | <a name="calhoun_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Charlotte County <a href="#charlotte_county">#</a> | <a name="charlotte_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Citrus County <a href="#citrus_county">#</a> | <a name="citrus_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Clay County <a href="#clay_county">#</a> | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Collier County <a href="#collier_county">#</a> | <a name="collier_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+FL | Columbia County <a href="#columbia_county">#</a> | <a name="columbia_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | DeSoto County <a href="#desoto_county">#</a> | <a name="desoto_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Dixie County <a href="#dixie_county">#</a> | <a name="dixie_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Duval County <a href="#duval_county">#</a> | <a name="duval_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Escambia County <a href="#escambia_county">#</a> | <a name="escambia_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Flagler County <a href="#flagler_county">#</a> | <a name="flagler_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Franklin County <a href="#franklin_county">#</a> | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Gadsden County <a href="#gadsden_county">#</a> | <a name="gadsden_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Gilchrist County <a href="#gilchrist_county">#</a> | <a name="gilchrist_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Glades County <a href="#glades_county">#</a> | <a name="glades_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Gulf County <a href="#gulf_county">#</a> | <a name="gulf_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Hamilton County <a href="#hamilton_county">#</a> | <a name="hamilton_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Hardee County <a href="#hardee_county">#</a> | <a name="hardee_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Hendry County <a href="#hendry_county">#</a> | <a name="hendry_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Hernando County <a href="#hernando_county">#</a> | <a name="hernando_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Highlands County <a href="#highlands_county">#</a> | <a name="highlands_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Hillsborough County <a href="#hillsborough_county">#</a> | <a name="hillsborough_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Holmes County <a href="#holmes_county">#</a> | <a name="holmes_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Indian River County <a href="#indian_river_county">#</a> | <a name="indian_river_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Jackson County <a href="#jackson_county">#</a> | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Jefferson County <a href="#jefferson_county">#</a> | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Lafayette County <a href="#lafayette_county">#</a> | <a name="lafayette_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Lake County <a href="#lake_county">#</a> | <a name="lake_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Lee County <a href="#lee_county">#</a> | <a name="lee_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Leon County <a href="#leon_county">#</a> | <a name="leon_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Levy County <a href="#levy_county">#</a> | <a name="levy_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Liberty County <a href="#liberty_county">#</a> | <a name="liberty_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Madison County <a href="#madison_county">#</a> | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Manatee County <a href="#manatee_county">#</a> | <a name="manatee_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Marion County <a href="#marion_county">#</a> | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Martin County <a href="#martin_county">#</a> | <a name="martin_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+FL | Miami-Dade County <a href="#miami-dade_county">#</a> | <a name="miami-dade_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-13
+FL | Monroe County <a href="#monroe_county">#</a> | <a name="monroe_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Nassau County <a href="#nassau_county">#</a> | <a name="nassau_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Okaloosa County <a href="#okaloosa_county">#</a> | <a name="okaloosa_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Okeechobee County <a href="#okeechobee_county">#</a> | <a name="okeechobee_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Orange County <a href="#orange_county">#</a> | <a name="orange_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+FL | Osceola County <a href="#osceola_county">#</a> | <a name="osceola_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+FL | Palm Beach County <a href="#palm_beach_county">#</a> | <a name="palm_beach_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+FL | Pasco County <a href="#pasco_county">#</a> | <a name="pasco_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Pinellas County <a href="#pinellas_county">#</a> | <a name="pinellas_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Polk County <a href="#polk_county">#</a> | <a name="polk_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Putnam County <a href="#putnam_county">#</a> | <a name="putnam_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Santa Rosa County <a href="#santa_rosa_county">#</a> | <a name="santa_rosa_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Sarasota County <a href="#sarasota_county">#</a> | <a name="sarasota_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-13
+FL | Seminole County <a href="#seminole_county">#</a> | <a name="seminole_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | St. Johns County <a href="#st._johns_county">#</a> | <a name="st._johns_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | St. Lucie County <a href="#st._lucie_county">#</a> | <a name="st._lucie_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Sumter County <a href="#sumter_county">#</a> | <a name="sumter_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Suwannee County <a href="#suwannee_county">#</a> | <a name="suwannee_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Taylor County <a href="#taylor_county">#</a> | <a name="taylor_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Union County <a href="#union_county">#</a> | <a name="union_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Volusia County <a href="#volusia_county">#</a> | <a name="volusia_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Wakulla County <a href="#wakulla_county">#</a> | <a name="wakulla_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-13
+FL | Walton County <a href="#walton_county">#</a> | <a name="walton_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
+FL | Washington County <a href="#washington_county">#</a> | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-13
