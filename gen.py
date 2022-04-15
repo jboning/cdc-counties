@@ -13,6 +13,7 @@ Arkansas	AR
 American Samoa	AS
 California	CA
 Colorado	CO
+Commonwealth of the Northern Mariana Islands	MP
 Connecticut	CT
 Delaware	DE
 District of Columbia	DC
@@ -74,7 +75,7 @@ def fname(state):
 
 def output(state, counties):
     counties = sorted(counties, key=lambda x: x["County"])
-    state_abbr = STATE_ABBR_MAP[state]
+    state_abbr = STATE_ABBR_MAP.get(state, state)
     with open(fname(state), "w") as f:
         f.write("State | County | Status | Last Updated\n")
         f.write("--- | --- | --- | --- \n")
