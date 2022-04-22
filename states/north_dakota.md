@@ -22,7 +22,7 @@ ND | Grant County <a href="#grant_county">#</a> | <a name="grant_county"></a>Com
 ND | Griggs County <a href="#griggs_county">#</a> | <a name="griggs_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 ND | Hettinger County <a href="#hettinger_county">#</a> | <a name="hettinger_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 ND | Kidder County <a href="#kidder_county">#</a> | <a name="kidder_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-ND | LaMoure County <a href="#lamoure_county">#</a> | <a name="lamoure_county"></a>Community Level: medium<br/>Community Transmission: moderate | 2022-04-21
+ND | LaMoure County <a href="#lamoure_county">#</a> | <a name="lamoure_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 ND | Logan County <a href="#logan_county">#</a> | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 ND | McHenry County <a href="#mchenry_county">#</a> | <a name="mchenry_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 ND | McIntosh County <a href="#mcintosh_county">#</a> | <a name="mcintosh_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -39,7 +39,7 @@ ND | Ramsey County <a href="#ramsey_county">#</a> | <a name="ramsey_county"></a>
 ND | Ransom County <a href="#ransom_county">#</a> | <a name="ransom_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 ND | Renville County <a href="#renville_county">#</a> | <a name="renville_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 ND | Richland County <a href="#richland_county">#</a> | <a name="richland_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-ND | Rolette County <a href="#rolette_county">#</a> | <a name="rolette_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
+ND | Rolette County <a href="#rolette_county">#</a> | <a name="rolette_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 ND | Sargent County <a href="#sargent_county">#</a> | <a name="sargent_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 ND | Sheridan County <a href="#sheridan_county">#</a> | <a name="sheridan_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 ND | Sioux County <a href="#sioux_county">#</a> | <a name="sioux_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21

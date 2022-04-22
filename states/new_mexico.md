@@ -8,8 +8,8 @@ NM | Colfax County <a href="#colfax_county">#</a> | <a name="colfax_county"></a>
 NM | Curry County <a href="#curry_county">#</a> | <a name="curry_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 NM | De Baca County <a href="#de_baca_county">#</a> | <a name="de_baca_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 NM | Doña Ana County <a href="#doña_ana_county">#</a> | <a name="doña_ana_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-NM | Eddy County <a href="#eddy_county">#</a> | <a name="eddy_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-NM | Grant County <a href="#grant_county">#</a> | <a name="grant_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+NM | Eddy County <a href="#eddy_county">#</a> | <a name="eddy_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+NM | Grant County <a href="#grant_county">#</a> | <a name="grant_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 NM | Guadalupe County <a href="#guadalupe_county">#</a> | <a name="guadalupe_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 NM | Harding County <a href="#harding_county">#</a> | <a name="harding_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 NM | Hidalgo County <a href="#hidalgo_county">#</a> | <a name="hidalgo_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
@@ -18,7 +18,7 @@ NM | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"><
 NM | Los Alamos County <a href="#los_alamos_county">#</a> | <a name="los_alamos_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 NM | Luna County <a href="#luna_county">#</a> | <a name="luna_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 NM | McKinley County <a href="#mckinley_county">#</a> | <a name="mckinley_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-NM | Mora County <a href="#mora_county">#</a> | <a name="mora_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+NM | Mora County <a href="#mora_county">#</a> | <a name="mora_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 NM | Otero County <a href="#otero_county">#</a> | <a name="otero_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 NM | Quay County <a href="#quay_county">#</a> | <a name="quay_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 NM | Rio Arriba County <a href="#rio_arriba_county">#</a> | <a name="rio_arriba_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21

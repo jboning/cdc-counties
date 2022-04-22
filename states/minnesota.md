@@ -10,7 +10,7 @@ MN | Blue Earth County <a href="#blue_earth_county">#</a> | <a name="blue_earth_
 MN | Brown County <a href="#brown_county">#</a> | <a name="brown_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MN | Carlton County <a href="#carlton_county">#</a> | <a name="carlton_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Carver County <a href="#carver_county">#</a> | <a name="carver_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-MN | Cass County <a href="#cass_county">#</a> | <a name="cass_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+MN | Cass County <a href="#cass_county">#</a> | <a name="cass_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MN | Chippewa County <a href="#chippewa_county">#</a> | <a name="chippewa_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Chisago County <a href="#chisago_county">#</a> | <a name="chisago_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MN | Clay County <a href="#clay_county">#</a> | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
@@ -18,9 +18,9 @@ MN | Clearwater County <a href="#clearwater_county">#</a> | <a name="clearwater_
 MN | Cook County <a href="#cook_county">#</a> | <a name="cook_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MN | Cottonwood County <a href="#cottonwood_county">#</a> | <a name="cottonwood_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 MN | Crow Wing County <a href="#crow_wing_county">#</a> | <a name="crow_wing_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-MN | Dakota County <a href="#dakota_county">#</a> | <a name="dakota_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+MN | Dakota County <a href="#dakota_county">#</a> | <a name="dakota_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MN | Dodge County <a href="#dodge_county">#</a> | <a name="dodge_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-MN | Douglas County <a href="#douglas_county">#</a> | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+MN | Douglas County <a href="#douglas_county">#</a> | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MN | Faribault County <a href="#faribault_county">#</a> | <a name="faribault_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Fillmore County <a href="#fillmore_county">#</a> | <a name="fillmore_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Freeborn County <a href="#freeborn_county">#</a> | <a name="freeborn_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
@@ -29,20 +29,20 @@ MN | Grant County <a href="#grant_county">#</a> | <a name="grant_county"></a>Com
 MN | Hennepin County <a href="#hennepin_county">#</a> | <a name="hennepin_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MN | Houston County <a href="#houston_county">#</a> | <a name="houston_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Hubbard County <a href="#hubbard_county">#</a> | <a name="hubbard_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
-MN | Isanti County <a href="#isanti_county">#</a> | <a name="isanti_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+MN | Isanti County <a href="#isanti_county">#</a> | <a name="isanti_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Itasca County <a href="#itasca_county">#</a> | <a name="itasca_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-MN | Jackson County <a href="#jackson_county">#</a> | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+MN | Jackson County <a href="#jackson_county">#</a> | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Kanabec County <a href="#kanabec_county">#</a> | <a name="kanabec_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MN | Kandiyohi County <a href="#kandiyohi_county">#</a> | <a name="kandiyohi_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MN | Kittson County <a href="#kittson_county">#</a> | <a name="kittson_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 MN | Koochiching County <a href="#koochiching_county">#</a> | <a name="koochiching_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-MN | Lac qui Parle County <a href="#lac_qui_parle_county">#</a> | <a name="lac_qui_parle_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+MN | Lac qui Parle County <a href="#lac_qui_parle_county">#</a> | <a name="lac_qui_parle_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MN | Lake County <a href="#lake_county">#</a> | <a name="lake_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MN | Lake of the Woods County <a href="#lake_of_the_woods_county">#</a> | <a name="lake_of_the_woods_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MN | Le Sueur County <a href="#le_sueur_county">#</a> | <a name="le_sueur_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MN | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MN | Lyon County <a href="#lyon_county">#</a> | <a name="lyon_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-MN | Mahnomen County <a href="#mahnomen_county">#</a> | <a name="mahnomen_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
+MN | Mahnomen County <a href="#mahnomen_county">#</a> | <a name="mahnomen_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 MN | Marshall County <a href="#marshall_county">#</a> | <a name="marshall_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MN | Martin County <a href="#martin_county">#</a> | <a name="martin_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MN | McLeod County <a href="#mcleod_county">#</a> | <a name="mcleod_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -51,10 +51,10 @@ MN | Mille Lacs County <a href="#mille_lacs_county">#</a> | <a name="mille_lacs_
 MN | Morrison County <a href="#morrison_county">#</a> | <a name="morrison_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Mower County <a href="#mower_county">#</a> | <a name="mower_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MN | Murray County <a href="#murray_county">#</a> | <a name="murray_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-MN | Nicollet County <a href="#nicollet_county">#</a> | <a name="nicollet_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+MN | Nicollet County <a href="#nicollet_county">#</a> | <a name="nicollet_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MN | Nobles County <a href="#nobles_county">#</a> | <a name="nobles_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Norman County <a href="#norman_county">#</a> | <a name="norman_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-MN | Olmsted County <a href="#olmsted_county">#</a> | <a name="olmsted_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
+MN | Olmsted County <a href="#olmsted_county">#</a> | <a name="olmsted_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 MN | Otter Tail County <a href="#otter_tail_county">#</a> | <a name="otter_tail_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Pennington County <a href="#pennington_county">#</a> | <a name="pennington_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MN | Pine County <a href="#pine_county">#</a> | <a name="pine_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -83,7 +83,7 @@ MN | Wadena County <a href="#wadena_county">#</a> | <a name="wadena_county"></a>
 MN | Waseca County <a href="#waseca_county">#</a> | <a name="waseca_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MN | Washington County <a href="#washington_county">#</a> | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Watonwan County <a href="#watonwan_county">#</a> | <a name="watonwan_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-MN | Wilkin County <a href="#wilkin_county">#</a> | <a name="wilkin_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+MN | Wilkin County <a href="#wilkin_county">#</a> | <a name="wilkin_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 MN | Winona County <a href="#winona_county">#</a> | <a name="winona_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MN | Wright County <a href="#wright_county">#</a> | <a name="wright_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MN | Yellow Medicine County <a href="#yellow_medicine_county">#</a> | <a name="yellow_medicine_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21

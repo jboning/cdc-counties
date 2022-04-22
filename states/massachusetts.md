@@ -7,7 +7,7 @@ MA | Dukes County <a href="#dukes_county">#</a> | <a name="dukes_county"></a>Com
 MA | Essex County <a href="#essex_county">#</a> | <a name="essex_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MA | Franklin County <a href="#franklin_county">#</a> | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MA | Hampden County <a href="#hampden_county">#</a> | <a name="hampden_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
-MA | Hampshire County <a href="#hampshire_county">#</a> | <a name="hampshire_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
+MA | Hampshire County <a href="#hampshire_county">#</a> | <a name="hampshire_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 MA | Middlesex County <a href="#middlesex_county">#</a> | <a name="middlesex_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 MA | Nantucket County <a href="#nantucket_county">#</a> | <a name="nantucket_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MA | Norfolk County <a href="#norfolk_county">#</a> | <a name="norfolk_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21

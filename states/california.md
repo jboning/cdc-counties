@@ -31,7 +31,7 @@ CA | Napa County <a href="#napa_county">#</a> | <a name="napa_county"></a>Commun
 CA | Nevada County <a href="#nevada_county">#</a> | <a name="nevada_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 CA | Orange County <a href="#orange_county">#</a> | <a name="orange_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 CA | Placer County <a href="#placer_county">#</a> | <a name="placer_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-CA | Plumas County <a href="#plumas_county">#</a> | <a name="plumas_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
+CA | Plumas County <a href="#plumas_county">#</a> | <a name="plumas_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 CA | Riverside County <a href="#riverside_county">#</a> | <a name="riverside_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 CA | Sacramento County <a href="#sacramento_county">#</a> | <a name="sacramento_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 CA | San Benito County <a href="#san_benito_county">#</a> | <a name="san_benito_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
@@ -40,7 +40,7 @@ CA | San Diego County <a href="#san_diego_county">#</a> | <a name="san_diego_cou
 CA | San Francisco County <a href="#san_francisco_county">#</a> | <a name="san_francisco_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 CA | San Joaquin County <a href="#san_joaquin_county">#</a> | <a name="san_joaquin_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 CA | San Luis Obispo County <a href="#san_luis_obispo_county">#</a> | <a name="san_luis_obispo_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-CA | San Mateo County <a href="#san_mateo_county">#</a> | <a name="san_mateo_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
+CA | San Mateo County <a href="#san_mateo_county">#</a> | <a name="san_mateo_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 CA | Santa Barbara County <a href="#santa_barbara_county">#</a> | <a name="santa_barbara_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 CA | Santa Clara County <a href="#santa_clara_county">#</a> | <a name="santa_clara_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 CA | Santa Cruz County <a href="#santa_cruz_county">#</a> | <a name="santa_cruz_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21

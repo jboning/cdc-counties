@@ -9,7 +9,7 @@ MS | Bolivar County <a href="#bolivar_county">#</a> | <a name="bolivar_county"><
 MS | Calhoun County <a href="#calhoun_county">#</a> | <a name="calhoun_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 MS | Carroll County <a href="#carroll_county">#</a> | <a name="carroll_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MS | Chickasaw County <a href="#chickasaw_county">#</a> | <a name="chickasaw_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-MS | Choctaw County <a href="#choctaw_county">#</a> | <a name="choctaw_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-04-21
+MS | Choctaw County <a href="#choctaw_county">#</a> | <a name="choctaw_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 MS | Claiborne County <a href="#claiborne_county">#</a> | <a name="claiborne_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MS | Clarke County <a href="#clarke_county">#</a> | <a name="clarke_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 MS | Clay County <a href="#clay_county">#</a> | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21

@@ -1,7 +1,7 @@
 State | County | Status | Last Updated
 --- | --- | --- | --- 
 LA | Acadia Parish <a href="#acadia_parish">#</a> | <a name="acadia_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-LA | Allen Parish <a href="#allen_parish">#</a> | <a name="allen_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+LA | Allen Parish <a href="#allen_parish">#</a> | <a name="allen_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | Ascension Parish <a href="#ascension_parish">#</a> | <a name="ascension_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | Assumption Parish <a href="#assumption_parish">#</a> | <a name="assumption_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 LA | Avoyelles Parish <a href="#avoyelles_parish">#</a> | <a name="avoyelles_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -14,11 +14,11 @@ LA | Caldwell Parish <a href="#caldwell_parish">#</a> | <a name="caldwell_parish
 LA | Cameron Parish <a href="#cameron_parish">#</a> | <a name="cameron_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 LA | Catahoula Parish <a href="#catahoula_parish">#</a> | <a name="catahoula_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 LA | Claiborne Parish <a href="#claiborne_parish">#</a> | <a name="claiborne_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-LA | Concordia Parish <a href="#concordia_parish">#</a> | <a name="concordia_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+LA | Concordia Parish <a href="#concordia_parish">#</a> | <a name="concordia_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | De Soto Parish <a href="#de_soto_parish">#</a> | <a name="de_soto_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | East Baton Rouge Parish <a href="#east_baton_rouge_parish">#</a> | <a name="east_baton_rouge_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-LA | East Carroll Parish <a href="#east_carroll_parish">#</a> | <a name="east_carroll_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-LA | East Feliciana Parish <a href="#east_feliciana_parish">#</a> | <a name="east_feliciana_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+LA | East Carroll Parish <a href="#east_carroll_parish">#</a> | <a name="east_carroll_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+LA | East Feliciana Parish <a href="#east_feliciana_parish">#</a> | <a name="east_feliciana_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | Evangeline Parish <a href="#evangeline_parish">#</a> | <a name="evangeline_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 LA | Franklin Parish <a href="#franklin_parish">#</a> | <a name="franklin_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 LA | Grant Parish <a href="#grant_parish">#</a> | <a name="grant_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
@@ -34,13 +34,13 @@ LA | Lincoln Parish <a href="#lincoln_parish">#</a> | <a name="lincoln_parish"><
 LA | Livingston Parish <a href="#livingston_parish">#</a> | <a name="livingston_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 LA | Madison Parish <a href="#madison_parish">#</a> | <a name="madison_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 LA | Morehouse Parish <a href="#morehouse_parish">#</a> | <a name="morehouse_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-LA | Natchitoches Parish <a href="#natchitoches_parish">#</a> | <a name="natchitoches_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+LA | Natchitoches Parish <a href="#natchitoches_parish">#</a> | <a name="natchitoches_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | Orleans Parish <a href="#orleans_parish">#</a> | <a name="orleans_parish"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 LA | Ouachita Parish <a href="#ouachita_parish">#</a> | <a name="ouachita_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | Plaquemines Parish <a href="#plaquemines_parish">#</a> | <a name="plaquemines_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-LA | Pointe Coupee Parish <a href="#pointe_coupee_parish">#</a> | <a name="pointe_coupee_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+LA | Pointe Coupee Parish <a href="#pointe_coupee_parish">#</a> | <a name="pointe_coupee_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | Rapides Parish <a href="#rapides_parish">#</a> | <a name="rapides_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-LA | Red River Parish <a href="#red_river_parish">#</a> | <a name="red_river_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+LA | Red River Parish <a href="#red_river_parish">#</a> | <a name="red_river_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 LA | Richland Parish <a href="#richland_parish">#</a> | <a name="richland_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | Sabine Parish <a href="#sabine_parish">#</a> | <a name="sabine_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | St. Bernard Parish <a href="#st._bernard_parish">#</a> | <a name="st._bernard_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -49,7 +49,7 @@ LA | St. Helena Parish <a href="#st._helena_parish">#</a> | <a name="st._helena_
 LA | St. James Parish <a href="#st._james_parish">#</a> | <a name="st._james_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 LA | St. John the Baptist Parish <a href="#st._john_the_baptist_parish">#</a> | <a name="st._john_the_baptist_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | St. Landry Parish <a href="#st._landry_parish">#</a> | <a name="st._landry_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-LA | St. Martin Parish <a href="#st._martin_parish">#</a> | <a name="st._martin_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+LA | St. Martin Parish <a href="#st._martin_parish">#</a> | <a name="st._martin_parish"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 LA | St. Mary Parish <a href="#st._mary_parish">#</a> | <a name="st._mary_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | St. Tammany Parish <a href="#st._tammany_parish">#</a> | <a name="st._tammany_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 LA | Tangipahoa Parish <a href="#tangipahoa_parish">#</a> | <a name="tangipahoa_parish"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21

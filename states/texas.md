@@ -25,14 +25,14 @@ TX | Brewster County <a href="#brewster_county">#</a> | <a name="brewster_county
 TX | Briscoe County <a href="#briscoe_county">#</a> | <a name="briscoe_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Brooks County <a href="#brooks_county">#</a> | <a name="brooks_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Brown County <a href="#brown_county">#</a> | <a name="brown_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
-TX | Burleson County <a href="#burleson_county">#</a> | <a name="burleson_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+TX | Burleson County <a href="#burleson_county">#</a> | <a name="burleson_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Burnet County <a href="#burnet_county">#</a> | <a name="burnet_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Caldwell County <a href="#caldwell_county">#</a> | <a name="caldwell_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Calhoun County <a href="#calhoun_county">#</a> | <a name="calhoun_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Callahan County <a href="#callahan_county">#</a> | <a name="callahan_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Cameron County <a href="#cameron_county">#</a> | <a name="cameron_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Camp County <a href="#camp_county">#</a> | <a name="camp_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Carson County <a href="#carson_county">#</a> | <a name="carson_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+TX | Carson County <a href="#carson_county">#</a> | <a name="carson_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Cass County <a href="#cass_county">#</a> | <a name="cass_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Castro County <a href="#castro_county">#</a> | <a name="castro_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Chambers County <a href="#chambers_county">#</a> | <a name="chambers_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -40,29 +40,29 @@ TX | Cherokee County <a href="#cherokee_county">#</a> | <a name="cherokee_county
 TX | Childress County <a href="#childress_county">#</a> | <a name="childress_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Clay County <a href="#clay_county">#</a> | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Cochran County <a href="#cochran_county">#</a> | <a name="cochran_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-TX | Coke County <a href="#coke_county">#</a> | <a name="coke_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+TX | Coke County <a href="#coke_county">#</a> | <a name="coke_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Coleman County <a href="#coleman_county">#</a> | <a name="coleman_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Collin County <a href="#collin_county">#</a> | <a name="collin_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Collingsworth County <a href="#collingsworth_county">#</a> | <a name="collingsworth_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Colorado County <a href="#colorado_county">#</a> | <a name="colorado_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Comal County <a href="#comal_county">#</a> | <a name="comal_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+TX | Colorado County <a href="#colorado_county">#</a> | <a name="colorado_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+TX | Comal County <a href="#comal_county">#</a> | <a name="comal_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Comanche County <a href="#comanche_county">#</a> | <a name="comanche_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 TX | Concho County <a href="#concho_county">#</a> | <a name="concho_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-TX | Cooke County <a href="#cooke_county">#</a> | <a name="cooke_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+TX | Cooke County <a href="#cooke_county">#</a> | <a name="cooke_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Coryell County <a href="#coryell_county">#</a> | <a name="coryell_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Cottle County <a href="#cottle_county">#</a> | <a name="cottle_county"></a>Community Level: medium<br/>Community Transmission: substantial | 2022-04-21
+TX | Cottle County <a href="#cottle_county">#</a> | <a name="cottle_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 TX | Crane County <a href="#crane_county">#</a> | <a name="crane_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Crockett County <a href="#crockett_county">#</a> | <a name="crockett_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 TX | Crosby County <a href="#crosby_county">#</a> | <a name="crosby_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Culberson County <a href="#culberson_county">#</a> | <a name="culberson_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Dallam County <a href="#dallam_county">#</a> | <a name="dallam_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Dallas County <a href="#dallas_county">#</a> | <a name="dallas_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Dawson County <a href="#dawson_county">#</a> | <a name="dawson_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
+TX | Dawson County <a href="#dawson_county">#</a> | <a name="dawson_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | DeWitt County <a href="#dewitt_county">#</a> | <a name="dewitt_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Deaf Smith County <a href="#deaf_smith_county">#</a> | <a name="deaf_smith_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Delta County <a href="#delta_county">#</a> | <a name="delta_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Denton County <a href="#denton_county">#</a> | <a name="denton_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Dickens County <a href="#dickens_county">#</a> | <a name="dickens_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+TX | Dickens County <a href="#dickens_county">#</a> | <a name="dickens_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Dimmit County <a href="#dimmit_county">#</a> | <a name="dimmit_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Donley County <a href="#donley_county">#</a> | <a name="donley_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Duval County <a href="#duval_county">#</a> | <a name="duval_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -77,13 +77,13 @@ TX | Fannin County <a href="#fannin_county">#</a> | <a name="fannin_county"></a>
 TX | Fayette County <a href="#fayette_county">#</a> | <a name="fayette_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Fisher County <a href="#fisher_county">#</a> | <a name="fisher_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Floyd County <a href="#floyd_county">#</a> | <a name="floyd_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-TX | Foard County <a href="#foard_county">#</a> | <a name="foard_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+TX | Foard County <a href="#foard_county">#</a> | <a name="foard_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Fort Bend County <a href="#fort_bend_county">#</a> | <a name="fort_bend_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
-TX | Franklin County <a href="#franklin_county">#</a> | <a name="franklin_county"></a>Community Level: medium<br/>Community Transmission: substantial | 2022-04-21
+TX | Franklin County <a href="#franklin_county">#</a> | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Freestone County <a href="#freestone_county">#</a> | <a name="freestone_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Frio County <a href="#frio_county">#</a> | <a name="frio_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Gaines County <a href="#gaines_county">#</a> | <a name="gaines_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-04-21
-TX | Galveston County <a href="#galveston_county">#</a> | <a name="galveston_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+TX | Gaines County <a href="#gaines_county">#</a> | <a name="gaines_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+TX | Galveston County <a href="#galveston_county">#</a> | <a name="galveston_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Garza County <a href="#garza_county">#</a> | <a name="garza_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Gillespie County <a href="#gillespie_county">#</a> | <a name="gillespie_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Glasscock County <a href="#glasscock_county">#</a> | <a name="glasscock_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
@@ -100,37 +100,37 @@ TX | Hamilton County <a href="#hamilton_county">#</a> | <a name="hamilton_county
 TX | Hansford County <a href="#hansford_county">#</a> | <a name="hansford_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Hardeman County <a href="#hardeman_county">#</a> | <a name="hardeman_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Hardin County <a href="#hardin_county">#</a> | <a name="hardin_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Harris County <a href="#harris_county">#</a> | <a name="harris_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-TX | Harrison County <a href="#harrison_county">#</a> | <a name="harrison_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-TX | Hartley County <a href="#hartley_county">#</a> | <a name="hartley_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Haskell County <a href="#haskell_county">#</a> | <a name="haskell_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+TX | Harris County <a href="#harris_county">#</a> | <a name="harris_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+TX | Harrison County <a href="#harrison_county">#</a> | <a name="harrison_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+TX | Hartley County <a href="#hartley_county">#</a> | <a name="hartley_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+TX | Haskell County <a href="#haskell_county">#</a> | <a name="haskell_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Hays County <a href="#hays_county">#</a> | <a name="hays_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Hemphill County <a href="#hemphill_county">#</a> | <a name="hemphill_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Henderson County <a href="#henderson_county">#</a> | <a name="henderson_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-TX | Hidalgo County <a href="#hidalgo_county">#</a> | <a name="hidalgo_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
+TX | Hidalgo County <a href="#hidalgo_county">#</a> | <a name="hidalgo_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Hill County <a href="#hill_county">#</a> | <a name="hill_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Hockley County <a href="#hockley_county">#</a> | <a name="hockley_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Hood County <a href="#hood_county">#</a> | <a name="hood_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Hopkins County <a href="#hopkins_county">#</a> | <a name="hopkins_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Houston County <a href="#houston_county">#</a> | <a name="houston_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Howard County <a href="#howard_county">#</a> | <a name="howard_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+TX | Howard County <a href="#howard_county">#</a> | <a name="howard_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Hudspeth County <a href="#hudspeth_county">#</a> | <a name="hudspeth_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Hunt County <a href="#hunt_county">#</a> | <a name="hunt_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Hutchinson County <a href="#hutchinson_county">#</a> | <a name="hutchinson_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
-TX | Irion County <a href="#irion_county">#</a> | <a name="irion_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+TX | Irion County <a href="#irion_county">#</a> | <a name="irion_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Jack County <a href="#jack_county">#</a> | <a name="jack_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Jackson County <a href="#jackson_county">#</a> | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Jasper County <a href="#jasper_county">#</a> | <a name="jasper_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Jeff Davis County <a href="#jeff_davis_county">#</a> | <a name="jeff_davis_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-TX | Jefferson County <a href="#jefferson_county">#</a> | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
-TX | Jim Hogg County <a href="#jim_hogg_county">#</a> | <a name="jim_hogg_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-TX | Jim Wells County <a href="#jim_wells_county">#</a> | <a name="jim_wells_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+TX | Jefferson County <a href="#jefferson_county">#</a> | <a name="jefferson_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
+TX | Jim Hogg County <a href="#jim_hogg_county">#</a> | <a name="jim_hogg_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+TX | Jim Wells County <a href="#jim_wells_county">#</a> | <a name="jim_wells_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Johnson County <a href="#johnson_county">#</a> | <a name="johnson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Jones County <a href="#jones_county">#</a> | <a name="jones_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Karnes County <a href="#karnes_county">#</a> | <a name="karnes_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
+TX | Karnes County <a href="#karnes_county">#</a> | <a name="karnes_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Kaufman County <a href="#kaufman_county">#</a> | <a name="kaufman_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Kendall County <a href="#kendall_county">#</a> | <a name="kendall_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Kenedy County <a href="#kenedy_county">#</a> | <a name="kenedy_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
+TX | Kenedy County <a href="#kenedy_county">#</a> | <a name="kenedy_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 TX | Kent County <a href="#kent_county">#</a> | <a name="kent_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Kerr County <a href="#kerr_county">#</a> | <a name="kerr_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Kimble County <a href="#kimble_county">#</a> | <a name="kimble_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -150,13 +150,13 @@ TX | Limestone County <a href="#limestone_county">#</a> | <a name="limestone_cou
 TX | Lipscomb County <a href="#lipscomb_county">#</a> | <a name="lipscomb_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Live Oak County <a href="#live_oak_county">#</a> | <a name="live_oak_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Llano County <a href="#llano_county">#</a> | <a name="llano_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Loving County <a href="#loving_county">#</a> | <a name="loving_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-04-21
+TX | Loving County <a href="#loving_county">#</a> | <a name="loving_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Lubbock County <a href="#lubbock_county">#</a> | <a name="lubbock_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Lynn County <a href="#lynn_county">#</a> | <a name="lynn_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Madison County <a href="#madison_county">#</a> | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Marion County <a href="#marion_county">#</a> | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+TX | Marion County <a href="#marion_county">#</a> | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Martin County <a href="#martin_county">#</a> | <a name="martin_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Mason County <a href="#mason_county">#</a> | <a name="mason_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+TX | Mason County <a href="#mason_county">#</a> | <a name="mason_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Matagorda County <a href="#matagorda_county">#</a> | <a name="matagorda_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Maverick County <a href="#maverick_county">#</a> | <a name="maverick_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | McCulloch County <a href="#mcculloch_county">#</a> | <a name="mcculloch_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -164,14 +164,14 @@ TX | McLennan County <a href="#mclennan_county">#</a> | <a name="mclennan_county
 TX | McMullen County <a href="#mcmullen_county">#</a> | <a name="mcmullen_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Medina County <a href="#medina_county">#</a> | <a name="medina_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Menard County <a href="#menard_county">#</a> | <a name="menard_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-TX | Midland County <a href="#midland_county">#</a> | <a name="midland_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
+TX | Midland County <a href="#midland_county">#</a> | <a name="midland_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Milam County <a href="#milam_county">#</a> | <a name="milam_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Mills County <a href="#mills_county">#</a> | <a name="mills_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Mitchell County <a href="#mitchell_county">#</a> | <a name="mitchell_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Montague County <a href="#montague_county">#</a> | <a name="montague_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Montgomery County <a href="#montgomery_county">#</a> | <a name="montgomery_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Moore County <a href="#moore_county">#</a> | <a name="moore_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Morris County <a href="#morris_county">#</a> | <a name="morris_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+TX | Morris County <a href="#morris_county">#</a> | <a name="morris_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Motley County <a href="#motley_county">#</a> | <a name="motley_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Nacogdoches County <a href="#nacogdoches_county">#</a> | <a name="nacogdoches_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Navarro County <a href="#navarro_county">#</a> | <a name="navarro_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
@@ -183,10 +183,10 @@ TX | Oldham County <a href="#oldham_county">#</a> | <a name="oldham_county"></a>
 TX | Orange County <a href="#orange_county">#</a> | <a name="orange_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Palo Pinto County <a href="#palo_pinto_county">#</a> | <a name="palo_pinto_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Panola County <a href="#panola_county">#</a> | <a name="panola_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-TX | Parker County <a href="#parker_county">#</a> | <a name="parker_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+TX | Parker County <a href="#parker_county">#</a> | <a name="parker_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Parmer County <a href="#parmer_county">#</a> | <a name="parmer_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Pecos County <a href="#pecos_county">#</a> | <a name="pecos_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Polk County <a href="#polk_county">#</a> | <a name="polk_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+TX | Polk County <a href="#polk_county">#</a> | <a name="polk_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Potter County <a href="#potter_county">#</a> | <a name="potter_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Presidio County <a href="#presidio_county">#</a> | <a name="presidio_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Rains County <a href="#rains_county">#</a> | <a name="rains_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
@@ -199,13 +199,13 @@ TX | Refugio County <a href="#refugio_county">#</a> | <a name="refugio_county"><
 TX | Roberts County <a href="#roberts_county">#</a> | <a name="roberts_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Robertson County <a href="#robertson_county">#</a> | <a name="robertson_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Rockwall County <a href="#rockwall_county">#</a> | <a name="rockwall_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Runnels County <a href="#runnels_county">#</a> | <a name="runnels_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
+TX | Runnels County <a href="#runnels_county">#</a> | <a name="runnels_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 TX | Rusk County <a href="#rusk_county">#</a> | <a name="rusk_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Sabine County <a href="#sabine_county">#</a> | <a name="sabine_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-TX | San Augustine County <a href="#san_augustine_county">#</a> | <a name="san_augustine_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+TX | San Augustine County <a href="#san_augustine_county">#</a> | <a name="san_augustine_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | San Jacinto County <a href="#san_jacinto_county">#</a> | <a name="san_jacinto_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | San Patricio County <a href="#san_patricio_county">#</a> | <a name="san_patricio_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | San Saba County <a href="#san_saba_county">#</a> | <a name="san_saba_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+TX | San Saba County <a href="#san_saba_county">#</a> | <a name="san_saba_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Schleicher County <a href="#schleicher_county">#</a> | <a name="schleicher_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Scurry County <a href="#scurry_county">#</a> | <a name="scurry_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Shackelford County <a href="#shackelford_county">#</a> | <a name="shackelford_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
@@ -218,30 +218,30 @@ TX | Stephens County <a href="#stephens_county">#</a> | <a name="stephens_county
 TX | Sterling County <a href="#sterling_county">#</a> | <a name="sterling_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Stonewall County <a href="#stonewall_county">#</a> | <a name="stonewall_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Sutton County <a href="#sutton_county">#</a> | <a name="sutton_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-TX | Swisher County <a href="#swisher_county">#</a> | <a name="swisher_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
+TX | Swisher County <a href="#swisher_county">#</a> | <a name="swisher_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Tarrant County <a href="#tarrant_county">#</a> | <a name="tarrant_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Taylor County <a href="#taylor_county">#</a> | <a name="taylor_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Terrell County <a href="#terrell_county">#</a> | <a name="terrell_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-TX | Terry County <a href="#terry_county">#</a> | <a name="terry_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-04-21
+TX | Terry County <a href="#terry_county">#</a> | <a name="terry_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Throckmorton County <a href="#throckmorton_county">#</a> | <a name="throckmorton_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Titus County <a href="#titus_county">#</a> | <a name="titus_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 TX | Tom Green County <a href="#tom_green_county">#</a> | <a name="tom_green_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Travis County <a href="#travis_county">#</a> | <a name="travis_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Trinity County <a href="#trinity_county">#</a> | <a name="trinity_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 TX | Tyler County <a href="#tyler_county">#</a> | <a name="tyler_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-TX | Upshur County <a href="#upshur_county">#</a> | <a name="upshur_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
+TX | Upshur County <a href="#upshur_county">#</a> | <a name="upshur_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Upton County <a href="#upton_county">#</a> | <a name="upton_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Uvalde County <a href="#uvalde_county">#</a> | <a name="uvalde_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Val Verde County <a href="#val_verde_county">#</a> | <a name="val_verde_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Van Zandt County <a href="#van_zandt_county">#</a> | <a name="van_zandt_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Victoria County <a href="#victoria_county">#</a> | <a name="victoria_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Walker County <a href="#walker_county">#</a> | <a name="walker_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Waller County <a href="#waller_county">#</a> | <a name="waller_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+TX | Waller County <a href="#waller_county">#</a> | <a name="waller_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Ward County <a href="#ward_county">#</a> | <a name="ward_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Washington County <a href="#washington_county">#</a> | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Webb County <a href="#webb_county">#</a> | <a name="webb_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 TX | Wharton County <a href="#wharton_county">#</a> | <a name="wharton_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-TX | Wheeler County <a href="#wheeler_county">#</a> | <a name="wheeler_county"></a>Community Level: medium<br/>Community Transmission: moderate | 2022-04-21
+TX | Wheeler County <a href="#wheeler_county">#</a> | <a name="wheeler_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Wichita County <a href="#wichita_county">#</a> | <a name="wichita_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 TX | Wilbarger County <a href="#wilbarger_county">#</a> | <a name="wilbarger_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Willacy County <a href="#willacy_county">#</a> | <a name="willacy_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -250,7 +250,7 @@ TX | Wilson County <a href="#wilson_county">#</a> | <a name="wilson_county"></a>
 TX | Winkler County <a href="#winkler_county">#</a> | <a name="winkler_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Wise County <a href="#wise_county">#</a> | <a name="wise_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Wood County <a href="#wood_county">#</a> | <a name="wood_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-TX | Yoakum County <a href="#yoakum_county">#</a> | <a name="yoakum_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-04-21
+TX | Yoakum County <a href="#yoakum_county">#</a> | <a name="yoakum_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 TX | Young County <a href="#young_county">#</a> | <a name="young_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Zapata County <a href="#zapata_county">#</a> | <a name="zapata_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 TX | Zavala County <a href="#zavala_county">#</a> | <a name="zavala_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21

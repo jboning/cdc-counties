@@ -19,7 +19,7 @@ KS | Coffey County <a href="#coffey_county">#</a> | <a name="coffey_county"></a>
 KS | Comanche County <a href="#comanche_county">#</a> | <a name="comanche_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 KS | Cowley County <a href="#cowley_county">#</a> | <a name="cowley_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 KS | Crawford County <a href="#crawford_county">#</a> | <a name="crawford_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-KS | Decatur County <a href="#decatur_county">#</a> | <a name="decatur_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+KS | Decatur County <a href="#decatur_county">#</a> | <a name="decatur_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-04-21
 KS | Dickinson County <a href="#dickinson_county">#</a> | <a name="dickinson_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 KS | Doniphan County <a href="#doniphan_county">#</a> | <a name="doniphan_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 KS | Douglas County <a href="#douglas_county">#</a> | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
@@ -51,7 +51,7 @@ KS | Kingman County <a href="#kingman_county">#</a> | <a name="kingman_county"><
 KS | Kiowa County <a href="#kiowa_county">#</a> | <a name="kiowa_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 KS | Labette County <a href="#labette_county">#</a> | <a name="labette_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 KS | Lane County <a href="#lane_county">#</a> | <a name="lane_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-KS | Leavenworth County <a href="#leavenworth_county">#</a> | <a name="leavenworth_county"></a>Community Level: high<br/>Community Transmission: moderate | 2022-04-21
+KS | Leavenworth County <a href="#leavenworth_county">#</a> | <a name="leavenworth_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 KS | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 KS | Linn County <a href="#linn_county">#</a> | <a name="linn_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 KS | Logan County <a href="#logan_county">#</a> | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -89,7 +89,7 @@ KS | Scott County <a href="#scott_county">#</a> | <a name="scott_county"></a>Com
 KS | Sedgwick County <a href="#sedgwick_county">#</a> | <a name="sedgwick_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 KS | Seward County <a href="#seward_county">#</a> | <a name="seward_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 KS | Shawnee County <a href="#shawnee_county">#</a> | <a name="shawnee_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-KS | Sheridan County <a href="#sheridan_county">#</a> | <a name="sheridan_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+KS | Sheridan County <a href="#sheridan_county">#</a> | <a name="sheridan_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-04-21
 KS | Sherman County <a href="#sherman_county">#</a> | <a name="sherman_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 KS | Smith County <a href="#smith_county">#</a> | <a name="smith_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 KS | Stafford County <a href="#stafford_county">#</a> | <a name="stafford_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
@@ -102,6 +102,6 @@ KS | Wabaunsee County <a href="#wabaunsee_county">#</a> | <a name="wabaunsee_cou
 KS | Wallace County <a href="#wallace_county">#</a> | <a name="wallace_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 KS | Washington County <a href="#washington_county">#</a> | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 KS | Wichita County <a href="#wichita_county">#</a> | <a name="wichita_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-KS | Wilson County <a href="#wilson_county">#</a> | <a name="wilson_county"></a>Community Level: medium<br/>Community Transmission: moderate | 2022-04-21
+KS | Wilson County <a href="#wilson_county">#</a> | <a name="wilson_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 KS | Woodson County <a href="#woodson_county">#</a> | <a name="woodson_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
-KS | Wyandotte County <a href="#wyandotte_county">#</a> | <a name="wyandotte_county"></a>Community Level: high<br/>Community Transmission: moderate | 2022-04-21
+KS | Wyandotte County <a href="#wyandotte_county">#</a> | <a name="wyandotte_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21

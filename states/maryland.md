@@ -20,7 +20,7 @@ MD | Prince George's County <a href="#prince_george's_county">#</a> | <a name="p
 MD | Queen Anne's County <a href="#queen_anne's_county">#</a> | <a name="queen_anne's_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MD | Somerset County <a href="#somerset_county">#</a> | <a name="somerset_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MD | St. Mary's County <a href="#st._mary's_county">#</a> | <a name="st._mary's_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-MD | Talbot County <a href="#talbot_county">#</a> | <a name="talbot_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+MD | Talbot County <a href="#talbot_county">#</a> | <a name="talbot_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MD | Washington County <a href="#washington_county">#</a> | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MD | Wicomico County <a href="#wicomico_county">#</a> | <a name="wicomico_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MD | Worcester County <a href="#worcester_county">#</a> | <a name="worcester_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21

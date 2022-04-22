@@ -10,7 +10,7 @@ MO | Bates County <a href="#bates_county">#</a> | <a name="bates_county"></a>Com
 MO | Benton County <a href="#benton_county">#</a> | <a name="benton_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MO | Bollinger County <a href="#bollinger_county">#</a> | <a name="bollinger_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 MO | Boone County <a href="#boone_county">#</a> | <a name="boone_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-MO | Buchanan County <a href="#buchanan_county">#</a> | <a name="buchanan_county"></a>Community Level: medium<br/>Community Transmission: moderate | 2022-04-21
+MO | Buchanan County <a href="#buchanan_county">#</a> | <a name="buchanan_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MO | Butler County <a href="#butler_county">#</a> | <a name="butler_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MO | Caldwell County <a href="#caldwell_county">#</a> | <a name="caldwell_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MO | Callaway County <a href="#callaway_county">#</a> | <a name="callaway_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -35,7 +35,7 @@ MO | DeKalb County <a href="#dekalb_county">#</a> | <a name="dekalb_county"></a>
 MO | Dent County <a href="#dent_county">#</a> | <a name="dent_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MO | Douglas County <a href="#douglas_county">#</a> | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 MO | Dunklin County <a href="#dunklin_county">#</a> | <a name="dunklin_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
-MO | Franklin County <a href="#franklin_county">#</a> | <a name="franklin_county"></a>Community Level: medium<br/>Community Transmission: moderate | 2022-04-21
+MO | Franklin County <a href="#franklin_county">#</a> | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MO | Gasconade County <a href="#gasconade_county">#</a> | <a name="gasconade_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MO | Gentry County <a href="#gentry_county">#</a> | <a name="gentry_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MO | Greene County <a href="#greene_county">#</a> | <a name="greene_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -44,7 +44,7 @@ MO | Harrison County <a href="#harrison_county">#</a> | <a name="harrison_county
 MO | Henry County <a href="#henry_county">#</a> | <a name="henry_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MO | Hickory County <a href="#hickory_county">#</a> | <a name="hickory_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MO | Holt County <a href="#holt_county">#</a> | <a name="holt_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-MO | Howard County <a href="#howard_county">#</a> | <a name="howard_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
+MO | Howard County <a href="#howard_county">#</a> | <a name="howard_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MO | Howell County <a href="#howell_county">#</a> | <a name="howell_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 MO | Iron County <a href="#iron_county">#</a> | <a name="iron_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 MO | Jackson County <a href="#jackson_county">#</a> | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
@@ -79,7 +79,7 @@ MO | Osage County <a href="#osage_county">#</a> | <a name="osage_county"></a>Com
 MO | Ozark County <a href="#ozark_county">#</a> | <a name="ozark_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 MO | Pemiscot County <a href="#pemiscot_county">#</a> | <a name="pemiscot_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MO | Perry County <a href="#perry_county">#</a> | <a name="perry_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-MO | Pettis County <a href="#pettis_county">#</a> | <a name="pettis_county"></a>Community Level: medium<br/>Community Transmission: moderate | 2022-04-21
+MO | Pettis County <a href="#pettis_county">#</a> | <a name="pettis_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MO | Phelps County <a href="#phelps_county">#</a> | <a name="phelps_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MO | Pike County <a href="#pike_county">#</a> | <a name="pike_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 MO | Platte County <a href="#platte_county">#</a> | <a name="platte_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21

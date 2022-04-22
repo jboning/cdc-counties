@@ -1,6 +1,6 @@
 State | County | Status | Last Updated
 --- | --- | --- | --- 
-OK | Adair County <a href="#adair_county">#</a> | <a name="adair_county"></a>Community Level: medium<br/>Community Transmission: substantial | 2022-04-21
+OK | Adair County <a href="#adair_county">#</a> | <a name="adair_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 OK | Alfalfa County <a href="#alfalfa_county">#</a> | <a name="alfalfa_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 OK | Atoka County <a href="#atoka_county">#</a> | <a name="atoka_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 OK | Beaver County <a href="#beaver_county">#</a> | <a name="beaver_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -14,9 +14,9 @@ OK | Cherokee County <a href="#cherokee_county">#</a> | <a name="cherokee_county
 OK | Choctaw County <a href="#choctaw_county">#</a> | <a name="choctaw_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 OK | Cimarron County <a href="#cimarron_county">#</a> | <a name="cimarron_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 OK | Cleveland County <a href="#cleveland_county">#</a> | <a name="cleveland_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-OK | Coal County <a href="#coal_county">#</a> | <a name="coal_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
+OK | Coal County <a href="#coal_county">#</a> | <a name="coal_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 OK | Comanche County <a href="#comanche_county">#</a> | <a name="comanche_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-OK | Cotton County <a href="#cotton_county">#</a> | <a name="cotton_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
+OK | Cotton County <a href="#cotton_county">#</a> | <a name="cotton_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 OK | Craig County <a href="#craig_county">#</a> | <a name="craig_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 OK | Creek County <a href="#creek_county">#</a> | <a name="creek_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 OK | Custer County <a href="#custer_county">#</a> | <a name="custer_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
@@ -64,7 +64,7 @@ OK | Pittsburg County <a href="#pittsburg_county">#</a> | <a name="pittsburg_cou
 OK | Pontotoc County <a href="#pontotoc_county">#</a> | <a name="pontotoc_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 OK | Pottawatomie County <a href="#pottawatomie_county">#</a> | <a name="pottawatomie_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 OK | Pushmataha County <a href="#pushmataha_county">#</a> | <a name="pushmataha_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-OK | Roger Mills County <a href="#roger_mills_county">#</a> | <a name="roger_mills_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
+OK | Roger Mills County <a href="#roger_mills_county">#</a> | <a name="roger_mills_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-04-21
 OK | Rogers County <a href="#rogers_county">#</a> | <a name="rogers_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 OK | Seminole County <a href="#seminole_county">#</a> | <a name="seminole_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
 OK | Sequoyah County <a href="#sequoyah_county">#</a> | <a name="sequoyah_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21

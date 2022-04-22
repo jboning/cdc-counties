@@ -5,9 +5,9 @@ WA | Asotin County <a href="#asotin_county">#</a> | <a name="asotin_county"></a>
 WA | Benton County <a href="#benton_county">#</a> | <a name="benton_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 WA | Chelan County <a href="#chelan_county">#</a> | <a name="chelan_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 WA | Clallam County <a href="#clallam_county">#</a> | <a name="clallam_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-WA | Clark County <a href="#clark_county">#</a> | <a name="clark_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+WA | Clark County <a href="#clark_county">#</a> | <a name="clark_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 WA | Columbia County <a href="#columbia_county">#</a> | <a name="columbia_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
-WA | Cowlitz County <a href="#cowlitz_county">#</a> | <a name="cowlitz_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+WA | Cowlitz County <a href="#cowlitz_county">#</a> | <a name="cowlitz_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 WA | Douglas County <a href="#douglas_county">#</a> | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 WA | Ferry County <a href="#ferry_county">#</a> | <a name="ferry_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 WA | Franklin County <a href="#franklin_county">#</a> | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
@@ -21,10 +21,10 @@ WA | Kitsap County <a href="#kitsap_county">#</a> | <a name="kitsap_county"></a>
 WA | Kittitas County <a href="#kittitas_county">#</a> | <a name="kittitas_county"></a>Community Level: low<br/>Community Transmission: high | 2022-04-21
 WA | Klickitat County <a href="#klickitat_county">#</a> | <a name="klickitat_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 WA | Lewis County <a href="#lewis_county">#</a> | <a name="lewis_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
-WA | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: low | 2022-04-21
+WA | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 WA | Mason County <a href="#mason_county">#</a> | <a name="mason_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-WA | Okanogan County <a href="#okanogan_county">#</a> | <a name="okanogan_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
-WA | Pacific County <a href="#pacific_county">#</a> | <a name="pacific_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
+WA | Okanogan County <a href="#okanogan_county">#</a> | <a name="okanogan_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
+WA | Pacific County <a href="#pacific_county">#</a> | <a name="pacific_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 WA | Pend Oreille County <a href="#pend_oreille_county">#</a> | <a name="pend_oreille_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-04-21
 WA | Pierce County <a href="#pierce_county">#</a> | <a name="pierce_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
 WA | San Juan County <a href="#san_juan_county">#</a> | <a name="san_juan_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-04-21
