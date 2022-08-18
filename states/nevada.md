@@ -1,19 +1,19 @@
 State | County | Status | Last Updated
 --- | --- | --- | --- 
-NV | Carson City <a href="#carson_city">#</a> | <a name="carson_city"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | Churchill County <a href="#churchill_county">#</a> | <a name="churchill_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | Clark County <a href="#clark_county">#</a> | <a name="clark_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | Douglas County <a href="#douglas_county">#</a> | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | Elko County <a href="#elko_county">#</a> | <a name="elko_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | Esmeralda County <a href="#esmeralda_county">#</a> | <a name="esmeralda_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | Eureka County <a href="#eureka_county">#</a> | <a name="eureka_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | Humboldt County <a href="#humboldt_county">#</a> | <a name="humboldt_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-08-17
-NV | Lander County <a href="#lander_county">#</a> | <a name="lander_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-08-17
-NV | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-08-17
-NV | Lyon County <a href="#lyon_county">#</a> | <a name="lyon_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | Mineral County <a href="#mineral_county">#</a> | <a name="mineral_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | Nye County <a href="#nye_county">#</a> | <a name="nye_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | Pershing County <a href="#pershing_county">#</a> | <a name="pershing_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | Storey County <a href="#storey_county">#</a> | <a name="storey_county"></a>Community Level: low<br/>Community Transmission: low | 2022-08-17
-NV | Washoe County <a href="#washoe_county">#</a> | <a name="washoe_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
-NV | White Pine County <a href="#white_pine_county">#</a> | <a name="white_pine_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-17
+NV | Carson City <a href="#carson_city">#</a> | <a name="carson_city"></a>Community Level: low<br/>Community Transmission: high | 2022-08-18
+NV | Churchill County <a href="#churchill_county">#</a> | <a name="churchill_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-18
+NV | Clark County <a href="#clark_county">#</a> | <a name="clark_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-18
+NV | Douglas County <a href="#douglas_county">#</a> | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-18
+NV | Elko County <a href="#elko_county">#</a> | <a name="elko_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-18
+NV | Esmeralda County <a href="#esmeralda_county">#</a> | <a name="esmeralda_county"></a>Community Level: low<br/>Community Transmission: low | 2022-08-18
+NV | Eureka County <a href="#eureka_county">#</a> | <a name="eureka_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-18
+NV | Humboldt County <a href="#humboldt_county">#</a> | <a name="humboldt_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-08-18
+NV | Lander County <a href="#lander_county">#</a> | <a name="lander_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-08-18
+NV | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: low | 2022-08-18
+NV | Lyon County <a href="#lyon_county">#</a> | <a name="lyon_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-18
+NV | Mineral County <a href="#mineral_county">#</a> | <a name="mineral_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-08-18
+NV | Nye County <a href="#nye_county">#</a> | <a name="nye_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-18
+NV | Pershing County <a href="#pershing_county">#</a> | <a name="pershing_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-18
+NV | Storey County <a href="#storey_county">#</a> | <a name="storey_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-08-18
+NV | Washoe County <a href="#washoe_county">#</a> | <a name="washoe_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-18
+NV | White Pine County <a href="#white_pine_county">#</a> | <a name="white_pine_county"></a>Community Level: low<br/>Community Transmission: high | 2022-08-18
