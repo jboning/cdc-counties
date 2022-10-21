@@ -1,66 +1,66 @@
 State | County | Status | Last Updated
 --- | --- | --- | --- 
-CO | Adams County <a href="#adams_county">#</a> | <a name="adams_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Alamosa County <a href="#alamosa_county">#</a> | <a name="alamosa_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-19
-CO | Arapahoe County <a href="#arapahoe_county">#</a> | <a name="arapahoe_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Archuleta County <a href="#archuleta_county">#</a> | <a name="archuleta_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Baca County <a href="#baca_county">#</a> | <a name="baca_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Bent County <a href="#bent_county">#</a> | <a name="bent_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Boulder County <a href="#boulder_county">#</a> | <a name="boulder_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Broomfield County <a href="#broomfield_county">#</a> | <a name="broomfield_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Chaffee County <a href="#chaffee_county">#</a> | <a name="chaffee_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Cheyenne County <a href="#cheyenne_county">#</a> | <a name="cheyenne_county"></a>Community Level: low<br/>Community Transmission: low | 2022-10-19
-CO | Clear Creek County <a href="#clear_creek_county">#</a> | <a name="clear_creek_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Conejos County <a href="#conejos_county">#</a> | <a name="conejos_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Costilla County <a href="#costilla_county">#</a> | <a name="costilla_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Crowley County <a href="#crowley_county">#</a> | <a name="crowley_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Custer County <a href="#custer_county">#</a> | <a name="custer_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Delta County <a href="#delta_county">#</a> | <a name="delta_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Denver County <a href="#denver_county">#</a> | <a name="denver_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Dolores County <a href="#dolores_county">#</a> | <a name="dolores_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Douglas County <a href="#douglas_county">#</a> | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Eagle County <a href="#eagle_county">#</a> | <a name="eagle_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | El Paso County <a href="#el_paso_county">#</a> | <a name="el_paso_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Elbert County <a href="#elbert_county">#</a> | <a name="elbert_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Fremont County <a href="#fremont_county">#</a> | <a name="fremont_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Garfield County <a href="#garfield_county">#</a> | <a name="garfield_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Gilpin County <a href="#gilpin_county">#</a> | <a name="gilpin_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Grand County <a href="#grand_county">#</a> | <a name="grand_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Gunnison County <a href="#gunnison_county">#</a> | <a name="gunnison_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Hinsdale County <a href="#hinsdale_county">#</a> | <a name="hinsdale_county"></a>Community Level: low<br/>Community Transmission: low | 2022-10-19
-CO | Huerfano County <a href="#huerfano_county">#</a> | <a name="huerfano_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Jackson County <a href="#jackson_county">#</a> | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: low | 2022-10-19
-CO | Jefferson County <a href="#jefferson_county">#</a> | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Kiowa County <a href="#kiowa_county">#</a> | <a name="kiowa_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Kit Carson County <a href="#kit_carson_county">#</a> | <a name="kit_carson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | La Plata County <a href="#la_plata_county">#</a> | <a name="la_plata_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Lake County <a href="#lake_county">#</a> | <a name="lake_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Larimer County <a href="#larimer_county">#</a> | <a name="larimer_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Las Animas County <a href="#las_animas_county">#</a> | <a name="las_animas_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Logan County <a href="#logan_county">#</a> | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Mesa County <a href="#mesa_county">#</a> | <a name="mesa_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Mineral County <a href="#mineral_county">#</a> | <a name="mineral_county"></a>Community Level: low<br/>Community Transmission: low | 2022-10-19
-CO | Moffat County <a href="#moffat_county">#</a> | <a name="moffat_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Montezuma County <a href="#montezuma_county">#</a> | <a name="montezuma_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Montrose County <a href="#montrose_county">#</a> | <a name="montrose_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Morgan County <a href="#morgan_county">#</a> | <a name="morgan_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Otero County <a href="#otero_county">#</a> | <a name="otero_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Ouray County <a href="#ouray_county">#</a> | <a name="ouray_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Park County <a href="#park_county">#</a> | <a name="park_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Phillips County <a href="#phillips_county">#</a> | <a name="phillips_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Pitkin County <a href="#pitkin_county">#</a> | <a name="pitkin_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Prowers County <a href="#prowers_county">#</a> | <a name="prowers_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Pueblo County <a href="#pueblo_county">#</a> | <a name="pueblo_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Rio Blanco County <a href="#rio_blanco_county">#</a> | <a name="rio_blanco_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Rio Grande County <a href="#rio_grande_county">#</a> | <a name="rio_grande_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Routt County <a href="#routt_county">#</a> | <a name="routt_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Saguache County <a href="#saguache_county">#</a> | <a name="saguache_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | San Juan County <a href="#san_juan_county">#</a> | <a name="san_juan_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | San Miguel County <a href="#san_miguel_county">#</a> | <a name="san_miguel_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Sedgwick County <a href="#sedgwick_county">#</a> | <a name="sedgwick_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Summit County <a href="#summit_county">#</a> | <a name="summit_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-19
-CO | Teller County <a href="#teller_county">#</a> | <a name="teller_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Washington County <a href="#washington_county">#</a> | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
-CO | Weld County <a href="#weld_county">#</a> | <a name="weld_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-19
-CO | Yuma County <a href="#yuma_county">#</a> | <a name="yuma_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-19
+CO | Adams County <a href="#adams_county">#</a> | <a name="adams_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Alamosa County <a href="#alamosa_county">#</a> | <a name="alamosa_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
+CO | Arapahoe County <a href="#arapahoe_county">#</a> | <a name="arapahoe_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Archuleta County <a href="#archuleta_county">#</a> | <a name="archuleta_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+CO | Baca County <a href="#baca_county">#</a> | <a name="baca_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+CO | Bent County <a href="#bent_county">#</a> | <a name="bent_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+CO | Boulder County <a href="#boulder_county">#</a> | <a name="boulder_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Broomfield County <a href="#broomfield_county">#</a> | <a name="broomfield_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Chaffee County <a href="#chaffee_county">#</a> | <a name="chaffee_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Cheyenne County <a href="#cheyenne_county">#</a> | <a name="cheyenne_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Clear Creek County <a href="#clear_creek_county">#</a> | <a name="clear_creek_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Conejos County <a href="#conejos_county">#</a> | <a name="conejos_county"></a>Community Level: medium<br/>Community Transmission: moderate | 2022-10-21
+CO | Costilla County <a href="#costilla_county">#</a> | <a name="costilla_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
+CO | Crowley County <a href="#crowley_county">#</a> | <a name="crowley_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Custer County <a href="#custer_county">#</a> | <a name="custer_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+CO | Delta County <a href="#delta_county">#</a> | <a name="delta_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+CO | Denver County <a href="#denver_county">#</a> | <a name="denver_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Dolores County <a href="#dolores_county">#</a> | <a name="dolores_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Douglas County <a href="#douglas_county">#</a> | <a name="douglas_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Eagle County <a href="#eagle_county">#</a> | <a name="eagle_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | El Paso County <a href="#el_paso_county">#</a> | <a name="el_paso_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Elbert County <a href="#elbert_county">#</a> | <a name="elbert_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Fremont County <a href="#fremont_county">#</a> | <a name="fremont_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Garfield County <a href="#garfield_county">#</a> | <a name="garfield_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Gilpin County <a href="#gilpin_county">#</a> | <a name="gilpin_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+CO | Grand County <a href="#grand_county">#</a> | <a name="grand_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+CO | Gunnison County <a href="#gunnison_county">#</a> | <a name="gunnison_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Hinsdale County <a href="#hinsdale_county">#</a> | <a name="hinsdale_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+CO | Huerfano County <a href="#huerfano_county">#</a> | <a name="huerfano_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+CO | Jackson County <a href="#jackson_county">#</a> | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: low | 2022-10-21
+CO | Jefferson County <a href="#jefferson_county">#</a> | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Kiowa County <a href="#kiowa_county">#</a> | <a name="kiowa_county"></a>Community Level: low<br/>Community Transmission: low | 2022-10-21
+CO | Kit Carson County <a href="#kit_carson_county">#</a> | <a name="kit_carson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | La Plata County <a href="#la_plata_county">#</a> | <a name="la_plata_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+CO | Lake County <a href="#lake_county">#</a> | <a name="lake_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Larimer County <a href="#larimer_county">#</a> | <a name="larimer_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Las Animas County <a href="#las_animas_county">#</a> | <a name="las_animas_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+CO | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Logan County <a href="#logan_county">#</a> | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Mesa County <a href="#mesa_county">#</a> | <a name="mesa_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Mineral County <a href="#mineral_county">#</a> | <a name="mineral_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-10-21
+CO | Moffat County <a href="#moffat_county">#</a> | <a name="moffat_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Montezuma County <a href="#montezuma_county">#</a> | <a name="montezuma_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
+CO | Montrose County <a href="#montrose_county">#</a> | <a name="montrose_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+CO | Morgan County <a href="#morgan_county">#</a> | <a name="morgan_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+CO | Otero County <a href="#otero_county">#</a> | <a name="otero_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Ouray County <a href="#ouray_county">#</a> | <a name="ouray_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Park County <a href="#park_county">#</a> | <a name="park_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+CO | Phillips County <a href="#phillips_county">#</a> | <a name="phillips_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Pitkin County <a href="#pitkin_county">#</a> | <a name="pitkin_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Prowers County <a href="#prowers_county">#</a> | <a name="prowers_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Pueblo County <a href="#pueblo_county">#</a> | <a name="pueblo_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+CO | Rio Blanco County <a href="#rio_blanco_county">#</a> | <a name="rio_blanco_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Rio Grande County <a href="#rio_grande_county">#</a> | <a name="rio_grande_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
+CO | Routt County <a href="#routt_county">#</a> | <a name="routt_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+CO | Saguache County <a href="#saguache_county">#</a> | <a name="saguache_county"></a>Community Level: medium<br/>Community Transmission: substantial | 2022-10-21
+CO | San Juan County <a href="#san_juan_county">#</a> | <a name="san_juan_county"></a>Community Level: low<br/>Community Transmission: low | 2022-10-21
+CO | San Miguel County <a href="#san_miguel_county">#</a> | <a name="san_miguel_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Sedgwick County <a href="#sedgwick_county">#</a> | <a name="sedgwick_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Summit County <a href="#summit_county">#</a> | <a name="summit_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Teller County <a href="#teller_county">#</a> | <a name="teller_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Washington County <a href="#washington_county">#</a> | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: low | 2022-10-21
+CO | Weld County <a href="#weld_county">#</a> | <a name="weld_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+CO | Yuma County <a href="#yuma_county">#</a> | <a name="yuma_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
