@@ -2,27 +2,27 @@ State | County | Status | Last Updated
 --- | --- | --- | --- 
 ND | Adams County <a href="#adams_county">#</a> | <a name="adams_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 ND | Barnes County <a href="#barnes_county">#</a> | <a name="barnes_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
-ND | Benson County <a href="#benson_county">#</a> | <a name="benson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+ND | Benson County <a href="#benson_county">#</a> | <a name="benson_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Billings County <a href="#billings_county">#</a> | <a name="billings_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-10-21
 ND | Bottineau County <a href="#bottineau_county">#</a> | <a name="bottineau_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 ND | Bowman County <a href="#bowman_county">#</a> | <a name="bowman_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 ND | Burke County <a href="#burke_county">#</a> | <a name="burke_county"></a>Community Level: low<br/>Community Transmission: low | 2022-10-21
 ND | Burleigh County <a href="#burleigh_county">#</a> | <a name="burleigh_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 ND | Cass County <a href="#cass_county">#</a> | <a name="cass_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
-ND | Cavalier County <a href="#cavalier_county">#</a> | <a name="cavalier_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-ND | Dickey County <a href="#dickey_county">#</a> | <a name="dickey_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+ND | Cavalier County <a href="#cavalier_county">#</a> | <a name="cavalier_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+ND | Dickey County <a href="#dickey_county">#</a> | <a name="dickey_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Divide County <a href="#divide_county">#</a> | <a name="divide_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Dunn County <a href="#dunn_county">#</a> | <a name="dunn_county"></a>Community Level: medium<br/>Community Transmission: substantial | 2022-10-21
-ND | Eddy County <a href="#eddy_county">#</a> | <a name="eddy_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+ND | Eddy County <a href="#eddy_county">#</a> | <a name="eddy_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Emmons County <a href="#emmons_county">#</a> | <a name="emmons_county"></a>Community Level: high<br/>Community Transmission: high | 2022-10-21
 ND | Foster County <a href="#foster_county">#</a> | <a name="foster_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Golden Valley County <a href="#golden_valley_county">#</a> | <a name="golden_valley_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-10-21
 ND | Grand Forks County <a href="#grand_forks_county">#</a> | <a name="grand_forks_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Grant County <a href="#grant_county">#</a> | <a name="grant_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-ND | Griggs County <a href="#griggs_county">#</a> | <a name="griggs_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
-ND | Hettinger County <a href="#hettinger_county">#</a> | <a name="hettinger_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+ND | Griggs County <a href="#griggs_county">#</a> | <a name="griggs_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+ND | Hettinger County <a href="#hettinger_county">#</a> | <a name="hettinger_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 ND | Kidder County <a href="#kidder_county">#</a> | <a name="kidder_county"></a>Community Level: medium<br/>Community Transmission: substantial | 2022-10-21
-ND | LaMoure County <a href="#lamoure_county">#</a> | <a name="lamoure_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+ND | LaMoure County <a href="#lamoure_county">#</a> | <a name="lamoure_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Logan County <a href="#logan_county">#</a> | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 ND | McHenry County <a href="#mchenry_county">#</a> | <a name="mchenry_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 ND | McIntosh County <a href="#mcintosh_county">#</a> | <a name="mcintosh_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
@@ -31,11 +31,11 @@ ND | McLean County <a href="#mclean_county">#</a> | <a name="mclean_county"></a>
 ND | Mercer County <a href="#mercer_county">#</a> | <a name="mercer_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 ND | Morton County <a href="#morton_county">#</a> | <a name="morton_county"></a>Community Level: medium<br/>Community Transmission: substantial | 2022-10-21
 ND | Mountrail County <a href="#mountrail_county">#</a> | <a name="mountrail_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-ND | Nelson County <a href="#nelson_county">#</a> | <a name="nelson_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+ND | Nelson County <a href="#nelson_county">#</a> | <a name="nelson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 ND | Oliver County <a href="#oliver_county">#</a> | <a name="oliver_county"></a>Community Level: medium<br/>Community Transmission: low | 2022-10-21
 ND | Pembina County <a href="#pembina_county">#</a> | <a name="pembina_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Pierce County <a href="#pierce_county">#</a> | <a name="pierce_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-ND | Ramsey County <a href="#ramsey_county">#</a> | <a name="ramsey_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+ND | Ramsey County <a href="#ramsey_county">#</a> | <a name="ramsey_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Ransom County <a href="#ransom_county">#</a> | <a name="ransom_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Renville County <a href="#renville_county">#</a> | <a name="renville_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 ND | Richland County <a href="#richland_county">#</a> | <a name="richland_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
@@ -51,5 +51,5 @@ ND | Towner County <a href="#towner_county">#</a> | <a name="towner_county"></a>
 ND | Traill County <a href="#traill_county">#</a> | <a name="traill_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Walsh County <a href="#walsh_county">#</a> | <a name="walsh_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 ND | Ward County <a href="#ward_county">#</a> | <a name="ward_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-ND | Wells County <a href="#wells_county">#</a> | <a name="wells_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-ND | Williams County <a href="#williams_county">#</a> | <a name="williams_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+ND | Wells County <a href="#wells_county">#</a> | <a name="wells_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+ND | Williams County <a href="#williams_county">#</a> | <a name="williams_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21

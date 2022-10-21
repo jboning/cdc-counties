@@ -24,7 +24,7 @@ NY | Hamilton County <a href="#hamilton_county">#</a> | <a name="hamilton_county
 NY | Herkimer County <a href="#herkimer_county">#</a> | <a name="herkimer_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 NY | Jefferson County <a href="#jefferson_county">#</a> | <a name="jefferson_county"></a>Community Level: high<br/>Community Transmission: high | 2022-10-21
 NY | Kings County <a href="#kings_county">#</a> | <a name="kings_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
-NY | Lewis County <a href="#lewis_county">#</a> | <a name="lewis_county"></a>Community Level: high<br/>Community Transmission: substantial | 2022-10-21
+NY | Lewis County <a href="#lewis_county">#</a> | <a name="lewis_county"></a>Community Level: high<br/>Community Transmission: high | 2022-10-21
 NY | Livingston County <a href="#livingston_county">#</a> | <a name="livingston_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 NY | Madison County <a href="#madison_county">#</a> | <a name="madison_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 NY | Monroe County <a href="#monroe_county">#</a> | <a name="monroe_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
@@ -36,7 +36,7 @@ NY | Oneida County <a href="#oneida_county">#</a> | <a name="oneida_county"></a>
 NY | Onondaga County <a href="#onondaga_county">#</a> | <a name="onondaga_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 NY | Ontario County <a href="#ontario_county">#</a> | <a name="ontario_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 NY | Orange County <a href="#orange_county">#</a> | <a name="orange_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
-NY | Orleans County <a href="#orleans_county">#</a> | <a name="orleans_county"></a>Community Level: medium<br/>Community Transmission: substantial | 2022-10-21
+NY | Orleans County <a href="#orleans_county">#</a> | <a name="orleans_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 NY | Oswego County <a href="#oswego_county">#</a> | <a name="oswego_county"></a>Community Level: high<br/>Community Transmission: high | 2022-10-21
 NY | Otsego County <a href="#otsego_county">#</a> | <a name="otsego_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NY | Putnam County <a href="#putnam_county">#</a> | <a name="putnam_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21

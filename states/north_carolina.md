@@ -5,7 +5,7 @@ NC | Alexander County <a href="#alexander_county">#</a> | <a name="alexander_cou
 NC | Alleghany County <a href="#alleghany_county">#</a> | <a name="alleghany_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 NC | Anson County <a href="#anson_county">#</a> | <a name="anson_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 NC | Ashe County <a href="#ashe_county">#</a> | <a name="ashe_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
-NC | Avery County <a href="#avery_county">#</a> | <a name="avery_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+NC | Avery County <a href="#avery_county">#</a> | <a name="avery_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Beaufort County <a href="#beaufort_county">#</a> | <a name="beaufort_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 NC | Bertie County <a href="#bertie_county">#</a> | <a name="bertie_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 NC | Bladen County <a href="#bladen_county">#</a> | <a name="bladen_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
@@ -49,15 +49,15 @@ NC | Hertford County <a href="#hertford_county">#</a> | <a name="hertford_county
 NC | Hoke County <a href="#hoke_county">#</a> | <a name="hoke_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Hyde County <a href="#hyde_county">#</a> | <a name="hyde_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 NC | Iredell County <a href="#iredell_county">#</a> | <a name="iredell_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
-NC | Jackson County <a href="#jackson_county">#</a> | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+NC | Jackson County <a href="#jackson_county">#</a> | <a name="jackson_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Johnston County <a href="#johnston_county">#</a> | <a name="johnston_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 NC | Jones County <a href="#jones_county">#</a> | <a name="jones_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Lee County <a href="#lee_county">#</a> | <a name="lee_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 NC | Lenoir County <a href="#lenoir_county">#</a> | <a name="lenoir_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 NC | Macon County <a href="#macon_county">#</a> | <a name="macon_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-NC | Madison County <a href="#madison_county">#</a> | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-NC | Martin County <a href="#martin_county">#</a> | <a name="martin_county"></a>Community Level: medium<br/>Community Transmission: substantial | 2022-10-21
+NC | Madison County <a href="#madison_county">#</a> | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+NC | Martin County <a href="#martin_county">#</a> | <a name="martin_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 NC | McDowell County <a href="#mcdowell_county">#</a> | <a name="mcdowell_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Mecklenburg County <a href="#mecklenburg_county">#</a> | <a name="mecklenburg_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 NC | Mitchell County <a href="#mitchell_county">#</a> | <a name="mitchell_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
@@ -66,12 +66,12 @@ NC | Moore County <a href="#moore_county">#</a> | <a name="moore_county"></a>Com
 NC | Nash County <a href="#nash_county">#</a> | <a name="nash_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | New Hanover County <a href="#new_hanover_county">#</a> | <a name="new_hanover_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 NC | Northampton County <a href="#northampton_county">#</a> | <a name="northampton_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
-NC | Onslow County <a href="#onslow_county">#</a> | <a name="onslow_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+NC | Onslow County <a href="#onslow_county">#</a> | <a name="onslow_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Orange County <a href="#orange_county">#</a> | <a name="orange_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Pamlico County <a href="#pamlico_county">#</a> | <a name="pamlico_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-NC | Pasquotank County <a href="#pasquotank_county">#</a> | <a name="pasquotank_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+NC | Pasquotank County <a href="#pasquotank_county">#</a> | <a name="pasquotank_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Pender County <a href="#pender_county">#</a> | <a name="pender_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
-NC | Perquimans County <a href="#perquimans_county">#</a> | <a name="perquimans_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+NC | Perquimans County <a href="#perquimans_county">#</a> | <a name="perquimans_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Person County <a href="#person_county">#</a> | <a name="person_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 NC | Pitt County <a href="#pitt_county">#</a> | <a name="pitt_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 NC | Polk County <a href="#polk_county">#</a> | <a name="polk_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
@@ -79,10 +79,10 @@ NC | Randolph County <a href="#randolph_county">#</a> | <a name="randolph_county
 NC | Richmond County <a href="#richmond_county">#</a> | <a name="richmond_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Robeson County <a href="#robeson_county">#</a> | <a name="robeson_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Rockingham County <a href="#rockingham_county">#</a> | <a name="rockingham_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-NC | Rowan County <a href="#rowan_county">#</a> | <a name="rowan_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+NC | Rowan County <a href="#rowan_county">#</a> | <a name="rowan_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Rutherford County <a href="#rutherford_county">#</a> | <a name="rutherford_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 NC | Sampson County <a href="#sampson_county">#</a> | <a name="sampson_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-NC | Scotland County <a href="#scotland_county">#</a> | <a name="scotland_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+NC | Scotland County <a href="#scotland_county">#</a> | <a name="scotland_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Stanly County <a href="#stanly_county">#</a> | <a name="stanly_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 NC | Stokes County <a href="#stokes_county">#</a> | <a name="stokes_county"></a>Community Level: high<br/>Community Transmission: high | 2022-10-21
 NC | Surry County <a href="#surry_county">#</a> | <a name="surry_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
@@ -99,4 +99,4 @@ NC | Wayne County <a href="#wayne_county">#</a> | <a name="wayne_county"></a>Com
 NC | Wilkes County <a href="#wilkes_county">#</a> | <a name="wilkes_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Wilson County <a href="#wilson_county">#</a> | <a name="wilson_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 NC | Yadkin County <a href="#yadkin_county">#</a> | <a name="yadkin_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
-NC | Yancey County <a href="#yancey_county">#</a> | <a name="yancey_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+NC | Yancey County <a href="#yancey_county">#</a> | <a name="yancey_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21

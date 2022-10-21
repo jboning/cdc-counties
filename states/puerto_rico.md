@@ -15,7 +15,7 @@ PR | Cabo Rojo Muni <a href="#cabo_rojo_muni">#</a> | <a name="cabo_rojo_muni"><
 PR | Caguas Muni <a href="#caguas_muni">#</a> | <a name="caguas_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Camuy Muni <a href="#camuy_muni">#</a> | <a name="camuy_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 PR | Canóvanas Muni <a href="#canóvanas_muni">#</a> | <a name="canóvanas_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
-PR | Carolina Muni <a href="#carolina_muni">#</a> | <a name="carolina_muni"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+PR | Carolina Muni <a href="#carolina_muni">#</a> | <a name="carolina_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Cataño Muni <a href="#cataño_muni">#</a> | <a name="cataño_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Cayey Muni <a href="#cayey_muni">#</a> | <a name="cayey_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 PR | Ceiba Muni <a href="#ceiba_muni">#</a> | <a name="ceiba_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
@@ -25,7 +25,7 @@ PR | Coamo Muni <a href="#coamo_muni">#</a> | <a name="coamo_muni"></a>Community
 PR | Comerío Muni <a href="#comerío_muni">#</a> | <a name="comerío_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Corozal Muni <a href="#corozal_muni">#</a> | <a name="corozal_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Culebra Muni <a href="#culebra_muni">#</a> | <a name="culebra_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
-PR | Dorado Muni <a href="#dorado_muni">#</a> | <a name="dorado_muni"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+PR | Dorado Muni <a href="#dorado_muni">#</a> | <a name="dorado_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Fajardo Muni <a href="#fajardo_muni">#</a> | <a name="fajardo_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Florida Muni <a href="#florida_muni">#</a> | <a name="florida_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Guayama Muni <a href="#guayama_muni">#</a> | <a name="guayama_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
@@ -34,7 +34,7 @@ PR | Guaynabo Muni <a href="#guaynabo_muni">#</a> | <a name="guaynabo_muni"></a>
 PR | Gurabo Muni <a href="#gurabo_muni">#</a> | <a name="gurabo_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Guánica Muni <a href="#guánica_muni">#</a> | <a name="guánica_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Hatillo Muni <a href="#hatillo_muni">#</a> | <a name="hatillo_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
-PR | Hormigueros Muni <a href="#hormigueros_muni">#</a> | <a name="hormigueros_muni"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+PR | Hormigueros Muni <a href="#hormigueros_muni">#</a> | <a name="hormigueros_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Humacao Muni <a href="#humacao_muni">#</a> | <a name="humacao_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Isabela Muni <a href="#isabela_muni">#</a> | <a name="isabela_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 PR | Jayuya Muni <a href="#jayuya_muni">#</a> | <a name="jayuya_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
@@ -44,7 +44,7 @@ PR | Lajas Muni <a href="#lajas_muni">#</a> | <a name="lajas_muni"></a>Community
 PR | Lares Muni <a href="#lares_muni">#</a> | <a name="lares_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 PR | Las Marías Muni <a href="#las_marías_muni">#</a> | <a name="las_marías_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 PR | Las Piedras Muni <a href="#las_piedras_muni">#</a> | <a name="las_piedras_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
-PR | Loíza Muni <a href="#loíza_muni">#</a> | <a name="loíza_muni"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+PR | Loíza Muni <a href="#loíza_muni">#</a> | <a name="loíza_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Luquillo Muni <a href="#luquillo_muni">#</a> | <a name="luquillo_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 PR | Manatí Muni <a href="#manatí_muni">#</a> | <a name="manatí_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Maricao Muni <a href="#maricao_muni">#</a> | <a name="maricao_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
@@ -69,7 +69,7 @@ PR | San Lorenzo Muni <a href="#san_lorenzo_muni">#</a> | <a name="san_lorenzo_m
 PR | San Sebastián Muni <a href="#san_sebastián_muni">#</a> | <a name="san_sebastián_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 PR | Santa Isabel Muni <a href="#santa_isabel_muni">#</a> | <a name="santa_isabel_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Toa Alta Muni <a href="#toa_alta_muni">#</a> | <a name="toa_alta_muni"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-PR | Toa Baja Muni <a href="#toa_baja_muni">#</a> | <a name="toa_baja_muni"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+PR | Toa Baja Muni <a href="#toa_baja_muni">#</a> | <a name="toa_baja_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Trujillo Alto Muni <a href="#trujillo_alto_muni">#</a> | <a name="trujillo_alto_muni"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 PR | Utuado Muni <a href="#utuado_muni">#</a> | <a name="utuado_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 PR | Vega Alta Muni <a href="#vega_alta_muni">#</a> | <a name="vega_alta_muni"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21

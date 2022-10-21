@@ -4,7 +4,7 @@ AK | Aleutians East Borough <a href="#aleutians_east_borough">#</a> | <a name="a
 AK | Aleutians West CA <a href="#aleutians_west_ca">#</a> | <a name="aleutians_west_ca"></a>Community Level: low<br/>Community Transmission: low | 2022-10-21
 AK | Anchorage Muny <a href="#anchorage_muny">#</a> | <a name="anchorage_muny"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 AK | Bethel CA <a href="#bethel_ca">#</a> | <a name="bethel_ca"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
-AK | Bristol Bay Borough <a href="#bristol_bay_borough">#</a> | <a name="bristol_bay_borough"></a>Community Level: low<br/>Community Transmission: low | 2022-10-21
+AK | Bristol Bay Borough <a href="#bristol_bay_borough">#</a> | <a name="bristol_bay_borough"></a>Community Level: low<br/>Community Transmission: (missing) | 2022-10-21
 AK | Chugach Census Area <a href="#chugach_census_area">#</a> | <a name="chugach_census_area"></a>Community Level: (missing)<br/>Community Transmission: low | 2022-10-21
 AK | Copper River Census Area <a href="#copper_river_census_area">#</a> | <a name="copper_river_census_area"></a>Community Level: (missing)<br/>Community Transmission: low | 2022-10-21
 AK | Denali Borough <a href="#denali_borough">#</a> | <a name="denali_borough"></a>Community Level: low<br/>Community Transmission: low | 2022-10-21
@@ -29,5 +29,5 @@ AK | Skagway Muny <a href="#skagway_muny">#</a> | <a name="skagway_muny"></a>Com
 AK | Southeast Fairbanks CA <a href="#southeast_fairbanks_ca">#</a> | <a name="southeast_fairbanks_ca"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 AK | Valdez-Cordova Census Area <a href="#valdez-cordova_census_area">#</a> | <a name="valdez-cordova_census_area"></a>Community Level: low<br/>Community Transmission: low | 2022-10-21
 AK | Wrangell Cty&Bor <a href="#wrangell_cty&bor">#</a> | <a name="wrangell_cty&bor"></a>Community Level: low<br/>Community Transmission: low | 2022-10-21
-AK | Yakutat Cty&Bor <a href="#yakutat_cty&bor">#</a> | <a name="yakutat_cty&bor"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+AK | Yakutat Cty&Bor <a href="#yakutat_cty&bor">#</a> | <a name="yakutat_cty&bor"></a>Community Level: low<br/>Community Transmission: (missing) | 2022-10-21
 AK | Yukon-Koyukuk CA <a href="#yukon-koyukuk_ca">#</a> | <a name="yukon-koyukuk_ca"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21

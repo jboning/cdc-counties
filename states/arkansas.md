@@ -7,7 +7,7 @@ AR | Benton County <a href="#benton_county">#</a> | <a name="benton_county"></a>
 AR | Boone County <a href="#boone_county">#</a> | <a name="boone_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 AR | Bradley County <a href="#bradley_county">#</a> | <a name="bradley_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 AR | Calhoun County <a href="#calhoun_county">#</a> | <a name="calhoun_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
-AR | Carroll County <a href="#carroll_county">#</a> | <a name="carroll_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+AR | Carroll County <a href="#carroll_county">#</a> | <a name="carroll_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 AR | Chicot County <a href="#chicot_county">#</a> | <a name="chicot_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 AR | Clark County <a href="#clark_county">#</a> | <a name="clark_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 AR | Clay County <a href="#clay_county">#</a> | <a name="clay_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
@@ -16,14 +16,14 @@ AR | Cleveland County <a href="#cleveland_county">#</a> | <a name="cleveland_cou
 AR | Columbia County <a href="#columbia_county">#</a> | <a name="columbia_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 AR | Conway County <a href="#conway_county">#</a> | <a name="conway_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 AR | Craighead County <a href="#craighead_county">#</a> | <a name="craighead_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-AR | Crawford County <a href="#crawford_county">#</a> | <a name="crawford_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+AR | Crawford County <a href="#crawford_county">#</a> | <a name="crawford_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 AR | Crittenden County <a href="#crittenden_county">#</a> | <a name="crittenden_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-AR | Cross County <a href="#cross_county">#</a> | <a name="cross_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
-AR | Dallas County <a href="#dallas_county">#</a> | <a name="dallas_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+AR | Cross County <a href="#cross_county">#</a> | <a name="cross_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+AR | Dallas County <a href="#dallas_county">#</a> | <a name="dallas_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 AR | Desha County <a href="#desha_county">#</a> | <a name="desha_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 AR | Drew County <a href="#drew_county">#</a> | <a name="drew_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-AR | Faulkner County <a href="#faulkner_county">#</a> | <a name="faulkner_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-AR | Franklin County <a href="#franklin_county">#</a> | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+AR | Faulkner County <a href="#faulkner_county">#</a> | <a name="faulkner_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
+AR | Franklin County <a href="#franklin_county">#</a> | <a name="franklin_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 AR | Fulton County <a href="#fulton_county">#</a> | <a name="fulton_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 AR | Garland County <a href="#garland_county">#</a> | <a name="garland_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 AR | Grant County <a href="#grant_county">#</a> | <a name="grant_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
@@ -33,7 +33,7 @@ AR | Hot Spring County <a href="#hot_spring_county">#</a> | <a name="hot_spring_
 AR | Howard County <a href="#howard_county">#</a> | <a name="howard_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 AR | Independence County <a href="#independence_county">#</a> | <a name="independence_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 AR | Izard County <a href="#izard_county">#</a> | <a name="izard_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-AR | Jackson County <a href="#jackson_county">#</a> | <a name="jackson_county"></a>Community Level: medium<br/>Community Transmission: moderate | 2022-10-21
+AR | Jackson County <a href="#jackson_county">#</a> | <a name="jackson_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 AR | Jefferson County <a href="#jefferson_county">#</a> | <a name="jefferson_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 AR | Johnson County <a href="#johnson_county">#</a> | <a name="johnson_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 AR | Lafayette County <a href="#lafayette_county">#</a> | <a name="lafayette_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
@@ -42,7 +42,7 @@ AR | Lee County <a href="#lee_county">#</a> | <a name="lee_county"></a>Community
 AR | Lincoln County <a href="#lincoln_county">#</a> | <a name="lincoln_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 AR | Little River County <a href="#little_river_county">#</a> | <a name="little_river_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 AR | Logan County <a href="#logan_county">#</a> | <a name="logan_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
-AR | Lonoke County <a href="#lonoke_county">#</a> | <a name="lonoke_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
+AR | Lonoke County <a href="#lonoke_county">#</a> | <a name="lonoke_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 AR | Madison County <a href="#madison_county">#</a> | <a name="madison_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
 AR | Marion County <a href="#marion_county">#</a> | <a name="marion_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
 AR | Miller County <a href="#miller_county">#</a> | <a name="miller_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
@@ -74,4 +74,4 @@ AR | Van Buren County <a href="#van_buren_county">#</a> | <a name="van_buren_cou
 AR | Washington County <a href="#washington_county">#</a> | <a name="washington_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-10-21
 AR | White County <a href="#white_county">#</a> | <a name="white_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
 AR | Woodruff County <a href="#woodruff_county">#</a> | <a name="woodruff_county"></a>Community Level: medium<br/>Community Transmission: high | 2022-10-21
-AR | Yell County <a href="#yell_county">#</a> | <a name="yell_county"></a>Community Level: low<br/>Community Transmission: moderate | 2022-10-21
+AR | Yell County <a href="#yell_county">#</a> | <a name="yell_county"></a>Community Level: low<br/>Community Transmission: high | 2022-10-21
