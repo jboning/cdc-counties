@@ -1,5 +1,5 @@
 State | County | Status | Last Updated
 --- | --- | --- | --- 
-DE | Kent County <a href="#kent_county">#</a> | <a name="kent_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-11-29
-DE | New Castle County <a href="#new_castle_county">#</a> | <a name="new_castle_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-11-29
-DE | Sussex County <a href="#sussex_county">#</a> | <a name="sussex_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-11-29
+DE | Kent County <a href="#kent_county">#</a> | <a name="kent_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-11-30
+DE | New Castle County <a href="#new_castle_county">#</a> | <a name="new_castle_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-11-30
+DE | Sussex County <a href="#sussex_county">#</a> | <a name="sussex_county"></a>Community Level: low<br/>Community Transmission: substantial | 2022-11-30
